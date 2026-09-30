@@ -7,8 +7,8 @@ from openpyxl.styles import PatternFill
 
 def MakeSecondColumnRed(workbook):
     worksheet = workbook.active
-    red_fill = PatternFill(fill_type="solid", fgColor="FF000044")
-    blue_fill = PatternFill(fill_type="solid", fgColor="0000FF44")
+    red_fill = PatternFill(fill_type="solid", fgColor="FF0000")
+    blue_fill = PatternFill(fill_type="solid", fgColor="0000FF")
 
     for row in range(2, worksheet.max_row + 1):
         if row % 2 == 0:
@@ -17,6 +17,7 @@ def MakeSecondColumnRed(workbook):
             worksheet.cell(row=row, column=2).fill = blue_fill
 
 st.title("Excel processor")
+st.subheader("version 1.002")
 
 uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
 
