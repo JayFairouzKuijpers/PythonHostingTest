@@ -16,6 +16,10 @@ def InsertNewColumn(workbook):
         type="list",
         formula1='"Object A,Object B,Object C"',
         allow_blank=False,
+        showErrorMessage=True,
+        errorStyle="stop",
+        errorTitle="Invalid option",
+        error="Choose Object A, Object B, or Object C from the dropdown.",
     )
     worksheet.add_data_validation(dropdown)
     dropdown.add(f"B2:B{last_row}")
