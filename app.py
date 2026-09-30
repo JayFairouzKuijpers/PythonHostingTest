@@ -1,31 +1,65 @@
 from io import BytesIO
 
+import json
+from pathlib import Path
+
 import streamlit as st #hosting
 from openpyxl import load_workbook #manipulating excel files
 from openpyxl.styles import PatternFill
 from openpyxl.worksheet.datavalidation import DataValidation
+from openpyxl.workbook.defined_name import DefinedName
 
 def InsertNewColumn(workbook):
+    json_path = Path(__file__).with_name("standaard_objecten.json")
+    with json_path.open(encoding="utf-8") as file:
+        objects = json.load(file)
+
+    descriptions = [
+        item["Omschrijving"]
+        for item in objects
+        if item.get("Omschrijving")
+    ]
+    if not descriptions:
+        raise ValueError("No Omschrijving values found in standaard_objecten.json")
+
     worksheet = workbook.active
     worksheet.insert_cols(2)  # Insert a new column at index 2
-    worksheet.cell(row=1, column=2, value="Standaard Object")
+    worksheet.cell(row=1, column=2, value="Omschrijving")
 
     last_row = max(worksheet.max_row, 2)
 
+    options_sheet_name = "_AppOmschrijvingOptions"
+    while options_sheet_name in workbook.sheetnames:
+        options_sheet_name += "_"
+    options_sheet = workbook.create_sheet(options_sheet_name)
+    for row, description in enumerate(descriptions, start=1):
+        options_sheet.cell(row=row, column=1, value=description)
+    options_sheet.sheet_state = "hidden"
+
+    defined_name = "AppOmschrijvingOptions"
+    while defined_name in workbook.defined_names:
+        defined_name += "_"
+    workbook.defined_names.add(
+        DefinedName(
+            defined_name,
+            attr_text=f"'{options_sheet_name}'!$A$1:$A${len(descriptions)}",
+        )
+    )
+
     dropdown = DataValidation(
         type="list",
-        formula1='"Object A,Object B,Object C"',
+        formula1=f"={defined_name}",
         allow_blank=False,
         showErrorMessage=True,
         errorStyle="stop",
         errorTitle="Ongeldige invoer",
-        error="Kies een geldig Standaard Object uit de lijst.",
+        error="Kies een geldige Omschrijving uit de lijst.",
     )
     worksheet.add_data_validation(dropdown)
     dropdown.add(f"B2:B{last_row}")
 
     for row in range(2, last_row + 1):
-        worksheet.cell(row=row, column=2, value="Object A")
+        worksheet.cell(row=row, column=2, value=descriptions[0])
 
 def MakeThirdColumnRed(workbook):
     worksheet = workbook.active
@@ -39,7 +73,7 @@ def MakeThirdColumnRed(workbook):
             worksheet.cell(row=row, column=3).fill = blue_fill
 
 st.title("Excel processor")
-st.subheader("version 1.004")
+st.subheader("version 1.005")
 
 uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
 
