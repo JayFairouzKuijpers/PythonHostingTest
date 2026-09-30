@@ -14,27 +14,19 @@ def InsertStandaardObject(workbook):
     with json_path.open(encoding="utf-8") as file:
         objects = json.load(file)
 
-    descriptions = [
-        item["Omschrijving"]
+    object_options = [
+        (item["Omschrijving"], item["Nr."])
         for item in objects
-        if item.get("Omschrijving")
+        if item.get("Omschrijving") and item.get("Nr.")
     ]
-    if not descriptions:
-        raise ValueError("No Omschrijving values found in standaard_objecten.json")
-
-    numbers = [
-        item["Nr."]
-        for item in objects
-        if item.get("Nr.")
-    ]
-    if not numbers:
-        raise ValueError("No Nr. values found in standaard_objecten.json")
+    if not object_options:
+        raise ValueError("No complete Omschrijving/Nr. pairs found in standaard_objecten.json")
 
     worksheet = workbook.active
     worksheet.insert_cols(2)  # Insert a new column at index 2
-    worksheet.cell(row=1, column=2, value="Omschrijving")
+    worksheet.cell(row=1, column=2, value="Nr.")
     worksheet.insert_cols(3)  # Insert a new column at index 3
-    worksheet.cell(row=1, column=3, value="Nr.")
+    worksheet.cell(row=1, column=3, value="Omschrijving")
 
     last_row = max(worksheet.max_row, 2)
 
@@ -43,8 +35,9 @@ def InsertStandaardObject(workbook):
     while options_sheet_name in workbook.sheetnames:
         options_sheet_name += "_"
     options_sheet = workbook.create_sheet(options_sheet_name)
-    for row, description in enumerate(descriptions, start=1):
+    for row, (description, number) in enumerate(object_options, start=1):
         options_sheet.cell(row=row, column=1, value=description)
+        options_sheet.cell(row=row, column=2, value=number)
     options_sheet.sheet_state = "hidden"
 
     defined_name = "AppOmschrijvingOptions"
@@ -53,7 +46,7 @@ def InsertStandaardObject(workbook):
     workbook.defined_names.add(
         DefinedName(
             defined_name,
-            attr_text=f"'{options_sheet_name}'!$A$1:$A${len(descriptions)}",
+            attr_text=f"'{options_sheet_name}'!$A$1:$A${len(object_options)}",
         )
     )
 
@@ -67,11 +60,17 @@ def InsertStandaardObject(workbook):
         error="Kies een geldige Omschrijving uit de lijst.",
     )
     worksheet.add_data_validation(dropdown)
-    dropdown.add(f"B2:B{last_row}")
+    dropdown.add(f"C2:C{last_row}")
 
     for row in range(2, last_row + 1):
-        worksheet.cell(row=row, column=2, value=descriptions[0])
-        worksheet.cell(row=row, column=3, value=numbers[0])
+        worksheet.cell(row=row, column=2).value = (
+            f'=IFERROR(VLOOKUP(C{row},\'{options_sheet_name}\'!$A:$B,2,FALSE),"")'
+        )
+        worksheet.cell(
+            row=row,
+            column=3,
+            value=object_options[0][0],
+        )
 
 def MakeThirdColumnRed(workbook):
     worksheet = workbook.active
@@ -85,7 +84,7 @@ def MakeThirdColumnRed(workbook):
             worksheet.cell(row=row, column=3).fill = blue_fill
 
 st.title("Excel processor")
-st.subheader("version 1.006")
+st.subheader("version 1.007")
 
 uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
 
