@@ -1,9 +1,9 @@
 from io import BytesIO
 
-import streamlit as st
-from openpyxl import load_workbook
+import streamlit as st #hosting
+from openpyxl import load_workbook #manipulating excel files
 
-st.title("Excel processor")
+st.title("Excel Modifier")
 
 uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
 
