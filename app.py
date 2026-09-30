@@ -9,7 +9,7 @@ from openpyxl.styles import PatternFill
 from openpyxl.worksheet.datavalidation import DataValidation
 from openpyxl.workbook.defined_name import DefinedName
 
-def InsertNewColumn(workbook):
+def InsertStandaardObject(workbook):
     json_path = Path(__file__).with_name("standaard_objecten.json")
     with json_path.open(encoding="utf-8") as file:
         objects = json.load(file)
@@ -22,12 +22,23 @@ def InsertNewColumn(workbook):
     if not descriptions:
         raise ValueError("No Omschrijving values found in standaard_objecten.json")
 
+    numbers = [
+        item["Nr."]
+        for item in objects
+        if item.get("Nr.")
+    ]
+    if not numbers:
+        raise ValueError("No Nr. values found in standaard_objecten.json")
+
     worksheet = workbook.active
     worksheet.insert_cols(2)  # Insert a new column at index 2
     worksheet.cell(row=1, column=2, value="Omschrijving")
+    worksheet.insert_cols(3)  # Insert a new column at index 3
+    worksheet.cell(row=1, column=3, value="Nr.")
 
     last_row = max(worksheet.max_row, 2)
 
+    # Create a hidden sheet to store the dropdown options
     options_sheet_name = "_AppOmschrijvingOptions"
     while options_sheet_name in workbook.sheetnames:
         options_sheet_name += "_"
@@ -60,6 +71,7 @@ def InsertNewColumn(workbook):
 
     for row in range(2, last_row + 1):
         worksheet.cell(row=row, column=2, value=descriptions[0])
+        worksheet.cell(row=row, column=3, value=numbers[0])
 
 def MakeThirdColumnRed(workbook):
     worksheet = workbook.active
@@ -73,7 +85,7 @@ def MakeThirdColumnRed(workbook):
             worksheet.cell(row=row, column=3).fill = blue_fill
 
 st.title("Excel processor")
-st.subheader("version 1.005")
+st.subheader("version 1.006")
 
 uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
 
@@ -81,7 +93,7 @@ if uploaded_file is not None:
     workbook = load_workbook(uploaded_file)
 
     # Add your Excel modifications here.
-    InsertNewColumn(workbook)
+    InsertStandaardObject(workbook)
     MakeThirdColumnRed(workbook)
 
     output = BytesIO()
