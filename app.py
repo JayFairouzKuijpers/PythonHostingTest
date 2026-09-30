@@ -84,7 +84,7 @@ def MakeThirdColumnRed(workbook):
             worksheet.cell(row=row, column=3).fill = blue_fill
 
 st.title("Excel processor")
-st.subheader("version 1.007")
+st.subheader("version 1.008")
 
 uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
 
