@@ -18,8 +18,8 @@ def InsertNewColumn(workbook):
         allow_blank=False,
         showErrorMessage=True,
         errorStyle="stop",
-        errorTitle="Invalid option",
-        error="Choose Object A, Object B, or Object C from the dropdown.",
+        errorTitle="Ongeldige invoer",
+        error="Kies een geldig Standaard Object uit de lijst.",
     )
     worksheet.add_data_validation(dropdown)
     dropdown.add(f"B2:B{last_row}")
@@ -39,7 +39,7 @@ def MakeThirdColumnRed(workbook):
             worksheet.cell(row=row, column=3).fill = blue_fill
 
 st.title("Excel processor")
-st.subheader("version 1.003")
+st.subheader("version 1.004")
 
 uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
 
