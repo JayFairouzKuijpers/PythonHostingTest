@@ -93,7 +93,7 @@ if uploaded_file is not None:
 
     # Add your Excel modifications here.
     InsertStandaardObject(workbook)
-    MakeThirdColumnRed(workbook)
+    # MakeThirdColumnRed(workbook)
 
     output = BytesIO()
     workbook.save(output)
