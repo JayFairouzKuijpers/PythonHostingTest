@@ -7,10 +7,14 @@ from openpyxl.styles import PatternFill
 
 def MakeSecondColumnRed(workbook):
     worksheet = workbook.active
-    red_fill = PatternFill(fill_type="solid", fgColor="FF0000")
+    red_fill = PatternFill(fill_type="solid", fgColor="FF000044")
+    blue_fill = PatternFill(fill_type="solid", fgColor="0000FF44")
 
     for row in range(2, worksheet.max_row + 1):
-        worksheet.cell(row=row, column=2).fill = red_fill
+        if row % 2 == 0:
+            worksheet.cell(row=row, column=2).fill = red_fill
+        else:
+            worksheet.cell(row=row, column=2).fill = blue_fill
 
 st.title("Excel processor")
 
