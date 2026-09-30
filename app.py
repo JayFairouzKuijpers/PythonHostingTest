@@ -84,7 +84,8 @@ def MakeThirdColumnRed(workbook):
             worksheet.cell(row=row, column=3).fill = blue_fill
 
 st.title("Excel processor")
-st.subheader("version 1.008")
+st.text("Deze app voegt automatisch het nummer en de omschrijving van standaardobjecten toe.")
+st.subheader("version 1.009")
 
 uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
 
@@ -101,6 +102,6 @@ if uploaded_file is not None:
     st.download_button(
         "Download modified workbook",
         data=output.getvalue(),
-        file_name="modified.xlsx",
+        file_name=f"{uploaded_file.name}_modified.xlsx",
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     )
