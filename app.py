@@ -120,7 +120,7 @@ def MakeThirdColumnRed(workbook):
 
 st.title("Excel processor")
 st.text("Deze app voegt automatisch het nummer en de omschrijving van standaardobjecten toe.")
-st.subheader("version 1.009")
+st.subheader("version 1.010")
 
 uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
 
