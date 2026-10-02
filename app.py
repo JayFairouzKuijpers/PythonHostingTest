@@ -53,16 +53,16 @@ def InsertStandaardObject(workbook):
         row: worksheet.cell(row=row, column=source_description_column).value
         for row in range(2, last_row + 1)
     }
-    if headers.get("nr.") == 2 and headers.get("omschrijving") == 3:
-        number_column = 2
-        description_column = 3
+    if headers.get("nr.") == 1 and headers.get("omschrijving") == 2:
+        number_column = 1
+        description_column = 2
     else:
+        worksheet.insert_cols(1)
+        worksheet.cell(row=1, column=1, value="Nr.")
         worksheet.insert_cols(2)
-        worksheet.cell(row=1, column=2, value="Nr.")
-        worksheet.insert_cols(3)
-        worksheet.cell(row=1, column=3, value="Omschrijving")
-        number_column = 2
-        description_column = 3
+        worksheet.cell(row=1, column=2, value="Omschrijving")
+        number_column = 1
+        description_column = 2
 
     # Create a hidden sheet to store the dropdown options
     options_sheet_name = "_AppOmschrijvingOptions"
