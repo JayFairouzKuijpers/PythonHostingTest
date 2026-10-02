@@ -14,6 +14,10 @@ def InsertStandaardObject(workbook):
     with json_path.open(encoding="utf-8") as file:
         objects = json.load(file)
 
+    excel_data_path = Path(__file__).with_name("excel_objecten.json")
+    with excel_data_path.open(encoding="utf-8") as file:
+        excel_objects = json.load(file)
+
     object_options = [
         (item["Omschrijving"], item["Nr."])
         for item in objects
@@ -21,14 +25,44 @@ def InsertStandaardObject(workbook):
     ]
     if not object_options:
         raise ValueError("No complete Omschrijving/Nr. pairs found in standaard_objecten.json")
+    allowed_descriptions = {description for description, _ in object_options}
+    excel_numbers = {}
+    for item in excel_objects:
+        description = item.get("Omschrijving")
+        number = item.get("Nr.")
+        if description in allowed_descriptions and number:
+            excel_numbers.setdefault(description, number)
+    object_options = [
+        (description, excel_numbers.get(description, number))
+        for description, number in object_options
+    ]
 
     worksheet = workbook.active
-    worksheet.insert_cols(2)  # Insert a new column at index 2
-    worksheet.cell(row=1, column=2, value="Nr.")
-    worksheet.insert_cols(3)  # Insert a new column at index 3
-    worksheet.cell(row=1, column=3, value="Omschrijving")
-
+    headers = {
+        str(worksheet.cell(row=1, column=column).value).strip().casefold(): column
+        for column in range(1, worksheet.max_column + 1)
+        if worksheet.cell(row=1, column=column).value is not None
+    }
+    source_description_column = (
+        headers.get("omschrijving")
+        or headers.get("object omschrijving")
+        or 1
+    )
     last_row = max(worksheet.max_row, 2)
+    source_descriptions = {
+        row: worksheet.cell(row=row, column=source_description_column).value
+        for row in range(2, last_row + 1)
+    }
+    if headers.get("nr.") == 2 and headers.get("omschrijving") == 3:
+        number_column = 2
+        description_column = 3
+    else:
+        worksheet.insert_cols(2)
+        worksheet.cell(row=1, column=2, value="Nr.")
+        worksheet.insert_cols(3)
+        worksheet.cell(row=1, column=3, value="Omschrijving")
+        number_column = 2
+        description_column = 3
 
     # Create a hidden sheet to store the dropdown options
     options_sheet_name = "_AppOmschrijvingOptions"
@@ -63,13 +97,14 @@ def InsertStandaardObject(workbook):
     dropdown.add(f"C2:C{last_row}")
 
     for row in range(2, last_row + 1):
-        worksheet.cell(row=row, column=2).value = (
+        worksheet.cell(row=row, column=number_column).value = (
             f'=IFERROR(VLOOKUP(C{row},\'{options_sheet_name}\'!$A:$B,2,FALSE),"")'
         )
-        worksheet.cell(
-            row=row,
-            column=3,
-            value=object_options[0][0],
+        source_description = source_descriptions[row]
+        worksheet.cell(row=row, column=description_column).value = (
+            source_description
+            if source_description in allowed_descriptions
+            else None
         )
 
 def MakeThirdColumnRed(workbook):
@@ -102,6 +137,6 @@ if uploaded_file is not None:
     st.download_button(
         "Download modified workbook",
         data=output.getvalue(),
-        file_name=f"{uploaded_file.name}_modified.xlsx",
+        file_name=f"{uploaded_file.name}",
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     )
