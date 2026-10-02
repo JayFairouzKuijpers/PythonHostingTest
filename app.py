@@ -94,11 +94,11 @@ def InsertStandaardObject(workbook):
         error="Kies een geldige Omschrijving uit de lijst.",
     )
     worksheet.add_data_validation(dropdown)
-    dropdown.add(f"C2:C{last_row}")
+    dropdown.add(f"B2:B{last_row}")
 
     for row in range(2, last_row + 1):
         worksheet.cell(row=row, column=number_column).value = (
-            f'=IFERROR(VLOOKUP(C{row},\'{options_sheet_name}\'!$A:$B,2,FALSE),"")'
+            f'=IFERROR(VLOOKUP(B{row},\'{options_sheet_name}\'!$A:$B,2,FALSE),"")'
         )
         source_description = source_descriptions[row]
         worksheet.cell(row=row, column=description_column).value = (
@@ -120,7 +120,7 @@ def MakeThirdColumnRed(workbook):
 
 st.title("Excel processor")
 st.text("Deze app voegt automatisch het nummer en de omschrijving van standaardobjecten toe.")
-st.subheader("version 1.011")
+st.subheader("version 1.012")
 
 uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
 
