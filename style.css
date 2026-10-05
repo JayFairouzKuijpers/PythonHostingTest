@@ -1,0 +1,12 @@
+:root {
+    --kuijpers-dark: #010040;
+}
+
+html, body, [data-testid="stAppViewContainer"] {
+    color: var(--kuijpers-dark);
+}
+
+.stMarkdown, .stTitle, .stSubheader, .stTextInput label,
+.stFileUploader label, .stDownloadButton button {
+    color: var(--kuijpers-dark);
+}

@@ -9,6 +9,9 @@ from openpyxl.styles import PatternFill
 from openpyxl.worksheet.datavalidation import DataValidation
 from openpyxl.workbook.defined_name import DefinedName
 
+with open(Path(__file__).with_name("style.css"), encoding="utf-8") as css_file:
+    st.markdown(f"<style>{css_file.read()}</style>", unsafe_allow_html=True)
+
 def InsertStandaardObject(workbook):
     json_path = Path(__file__).with_name("standaard_objecten.json")
     with json_path.open(encoding="utf-8") as file:
@@ -119,13 +122,13 @@ def MakeThirdColumnRed(workbook):
             worksheet.cell(row=row, column=3).fill = blue_fill
 
 logo_path = Path(__file__).with_name("koninklijkeKuijpers.png")
-st.logo(str(logo_path), size="small")
+st.logo(str(logo_path), size="medium")
 
 st.title("Standaardobject koppelaar")
-st.text("Deze applicatie voegt automatisch het nummer en de een gestandaardiseerde omschrijving van standaardobjecten toe. \n" \
+st.text("Deze applicatie voegt automatisch het nummer en de een gestandaardiseerde omschrijving van standaardobjecten toe. \n\n" \
 "De app is bedoeld voor gebruik met Excel-bestanden die de kolommen 'Omschrijving.', 'Merk', 'Type' en 'Capaciteit' bevatten. \n" \
 )
-st.subheader("version 1.012")
+st.subheader("version 1.014")
 
 uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
 
