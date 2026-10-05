@@ -1,12 +1,56 @@
 :root {
     --kuijpers-dark: #010040;
+    --kuijpers-light: #ffffff;
+    --kuijpers-accent: #f2f4f8;
 }
 
 html, body, [data-testid="stAppViewContainer"] {
     color: var(--kuijpers-dark);
+    background-color: var(--kuijpers-light);
+}
+
+.stApp {
+    background-color: var(--kuijpers-light);
 }
 
 .stMarkdown, .stTitle, .stSubheader, .stTextInput label,
 .stFileUploader label, .stDownloadButton button {
     color: var(--kuijpers-dark);
 }
+
+.stTitle {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.stSubheader {
+    font-size: 1rem;
+    margin-top: 0.25rem;
+    opacity: 0.9;
+}
+
+[data-testid="stFileUploader"] {
+    background: var(--kuijpers-accent);
+    border-radius: 10px;
+    padding: 0.5rem;
+}
+
+button[kind="primary"], .stDownloadButton button {
+    background-color: var(--kuijpers-dark);
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+[data-testid="stImage"] img {
+    width: 125%;
+    max-width: 125%;
+    height: auto;
+}
+
