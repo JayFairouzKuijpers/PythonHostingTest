@@ -10,7 +10,7 @@ from openpyxl.worksheet.datavalidation import DataValidation
 from openpyxl.workbook.defined_name import DefinedName
 
 st.set_page_config(
-    page_title="Standaardobject koppelaar",
+    page_title="Standaardobject Koppelaar",
     page_icon=Path(__file__).with_name("icon.png"),
     layout="wide"
 )
@@ -129,16 +129,18 @@ def MakeThirdColumnRed(workbook):
 
 st.logo(str(Path(__file__).with_name("koninklijkeKuijpers.png")), size="large")
 
-st.title("Standaardobject koppelaar")
-st.text("Deze applicatie voegt automatisch het nummer en de een gestandaardiseerde omschrijving van standaardobjecten toe. \n\n" \
-"De app is bedoeld voor gebruik met Excel-bestanden die de kolommen 'Omschrijving.', 'Merk', 'Type' en 'Capaciteit' bevatten. \n" \
+st.title("Standaardobject Koppelaar")
+st.text("Deze applicatie voegt automatisch het nummer en de gestandaardiseerde omschrijving van standaardobjecten toe. \n\n" \
+"De applicatie is bedoeld voor gebruik met Excel-bestanden die de kolommen 'Omschrijving.', 'Merk', 'Type' en 'Capaciteit' bevatten. \n" \
 )
 
 st.image(str(Path(__file__).with_name("example.png")))
 st.write("")
-st.subheader("version 1.014")
 
-uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
+with st.bottom:
+    st.caption("© 2026 Kuijpers, version 1.015, last updated: 05-10-2026")
+
+uploaded_file = st.file_uploader("Kies een Excel-bestand", type=["xlsx"])
 
 if uploaded_file is not None:
     workbook = load_workbook(uploaded_file)
@@ -154,5 +156,16 @@ if uploaded_file is not None:
         "Download modified workbook",
         data=output.getvalue(),
         file_name=f"{uploaded_file.name}",
-        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     )
+
+with st.expander("Uitleg"):
+    st.markdown("De applicatie zoekt naar de kolommen 'Omschrijving', 'Merk', 'Type' en 'Capaciteit' in het Excel-bestand. \n" \
+                "Vervolgens berekent het wat de meest waarschijnlijke passende gestandaardiseerde omschrijving is. \n" \
+                "Elke omschrijving heeft een passend nummer. \n" \
+                "De applicatie voegt daarna het nummer en de gestandaardiseerde omschrijving van standaardobjecten toe aan het originele bestand en exporteert het.")
+
+with st.expander("Vragen of opmerkingen?"):
+    st.markdown("**Jay Fairouz**  \nDeveloper  \n[JFairouz@kuijpers.com](mailto:JFairouz@kuijpers.com)")
+    st.image(str(Path(__file__).with_name("koninklijkeKuijpers.png")), width=150)
+    st.markdown("Kuijpers Service B.V. | KvK: 17173282  \nCentrale contracte De Meern")

@@ -38,11 +38,10 @@ html, body, [data-testid="stAppViewContainer"] {
 }
 
 button[kind="primary"], .stDownloadButton button {
-    background-color: var(--kuijpers-blue);
+    background-color: var(--kuijpers-orange);
     color: white;
     border: none;
     border-radius: 8px;
-    background-color: blue
 }
 
 
