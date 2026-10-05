@@ -48,9 +48,19 @@ img {
     height: auto;
 }
 
+/* image wrapper */
+[data-testid="stImage"] { 
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: auto;
+    margin: 0;
+}
+
 [data-testid="stImage"] img {
-    width: 125%;
-    max-width: 125%;
+    width: auto;
+    max-width: 100%;
     height: auto;
+    display: block;
 }
 
