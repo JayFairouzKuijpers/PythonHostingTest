@@ -1,12 +1,13 @@
 :root {
-    --kuijpers-dark: #010040;
+    --kuijpers-blue: #131173;
+    --kuijpers-orange: #EE8226;
     --kuijpers-light: #ffffff;
     --kuijpers-accent: #f2f4f8;
 }
 
 html, body, [data-testid="stAppViewContainer"] {
-    color: var(--kuijpers-dark);
-    background-color: var(--kuijpers-light);
+    color: var(--kuijpers-blue);
+    background-color: --kuijpers-light;
 }
 
 .stApp {
@@ -15,7 +16,7 @@ html, body, [data-testid="stAppViewContainer"] {
 
 .stMarkdown, .stTitle, .stSubheader, .stTextInput label,
 .stFileUploader label, .stDownloadButton button {
-    color: var(--kuijpers-dark);
+    color: var(--kuijpers-blue);
 }
 
 .stTitle {
@@ -37,30 +38,19 @@ html, body, [data-testid="stAppViewContainer"] {
 }
 
 button[kind="primary"], .stDownloadButton button {
-    background-color: var(--kuijpers-dark);
+    background-color: var(--kuijpers-blue);
     color: white;
     border: none;
     border-radius: 8px;
+    background-color: blue
 }
 
-img {
-    max-width: 100%;
-    height: auto;
-}
 
-/* image wrapper */
-[data-testid="stImage"] { 
+.block-container {
     display: flex;
-    justify-content: flex-start;
+    flex-direction: column;
     align-items: flex-start;
-    width: auto;
+
+    max-width: 80%;
     margin: 0;
 }
-
-[data-testid="stImage"] img {
-    width: auto;
-    width: clamp(120px, 18vw, 220px);
-    height: auto;
-    display: block;
-}
-
