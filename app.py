@@ -118,8 +118,13 @@ def MakeThirdColumnRed(workbook):
         else:
             worksheet.cell(row=row, column=3).fill = blue_fill
 
-st.title("Excel processor")
-st.text("Deze app voegt automatisch het nummer en de omschrijving van standaardobjecten toe.")
+logo_path = Path(__file__).with_name("koninklijkeKuijpers.png")
+st.logo(str(logo_path), size="small")
+
+st.title("Standaardobject koppelaar")
+st.text("Deze applicatie voegt automatisch het nummer en de een gestandaardiseerde omschrijving van standaardobjecten toe. \n" \
+"De app is bedoeld voor gebruik met Excel-bestanden die de kolommen 'Omschrijving.', 'Merk', 'Type' en 'Capaciteit' bevatten. \n" \
+)
 st.subheader("version 1.012")
 
 uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])

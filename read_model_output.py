@@ -5,7 +5,7 @@ from pathlib import Path
 from openpyxl import load_workbook
 
 
-def read_excel_columns(
+def read_model_output(
     excel_path: Path,
     sheet_name: str | None = None,
 ) -> list[dict[str, str]]:
@@ -91,7 +91,7 @@ def main() -> None:
     parser.add_argument("--sheet", dest="sheet_name", help="Worksheet name to read.")
     args = parser.parse_args()
 
-    records = read_excel_columns(args.excel_file, args.sheet_name)
+    records = read_model_output(args.excel_file, args.sheet_name)
     output_path = write_intermediate_json(records, args.output)
     print(f"Stored {len(records)} Nr./Omschrijving pairs in {output_path}")
 
