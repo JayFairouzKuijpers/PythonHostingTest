@@ -122,7 +122,7 @@ def MakeThirdColumnRed(workbook):
             worksheet.cell(row=row, column=3).fill = blue_fill
 
 logo_path = Path(__file__).with_name("koninklijkeKuijpers.png")
-st.logo(str(logo_path), size="medium")
+st.logo(str(logo_path), size="large")
 
 st.title("Standaardobject koppelaar")
 st.text("Deze applicatie voegt automatisch het nummer en de een gestandaardiseerde omschrijving van standaardobjecten toe. \n\n" \
