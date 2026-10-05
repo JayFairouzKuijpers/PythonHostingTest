@@ -128,7 +128,7 @@ st.title("Standaardobject koppelaar")
 st.text("Deze applicatie voegt automatisch het nummer en de een gestandaardiseerde omschrijving van standaardobjecten toe. \n\n" \
 "De app is bedoeld voor gebruik met Excel-bestanden die de kolommen 'Omschrijving.', 'Merk', 'Type' en 'Capaciteit' bevatten. \n" \
 )
-st.subheader("version 1.014")
+st.subheader("version 1.015")
 
 uploaded_file = st.file_uploader("Choose an Excel file", type=["xlsx"])
 

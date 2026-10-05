@@ -59,7 +59,7 @@ img {
 
 [data-testid="stImage"] img {
     width: auto;
-    max-width: 100%;
+    width: clamp(120px, 18vw, 220px);
     height: auto;
     display: block;
 }
