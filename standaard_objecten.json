@@ -1,5302 +1,5302 @@
 [
   {
-    "Nr.": "SOB1000",
+    "SOBnummer": "SOB1000",
     "Omschrijving": "Technisch Beheer"
   },
   {
-    "Nr.": "SOB1200",
+    "SOBnummer": "SOB1200",
     "Omschrijving": "Implementatie"
   },
   {
-    "Nr.": "SOB1410",
+    "SOBnummer": "SOB1410",
     "Omschrijving": "WKO in Zicht"
   },
   {
-    "Nr.": "SOB1420",
+    "SOBnummer": "SOB1420",
     "Omschrijving": "Comfort in Zicht"
   },
   {
-    "Nr.": "SOB1430",
+    "SOBnummer": "SOB1430",
     "Omschrijving": "Installaties in Zicht"
   },
   {
-    "Nr.": "SOB1440",
+    "SOBnummer": "SOB1440",
     "Omschrijving": "Energie in Zicht"
   },
   {
-    "Nr.": "SOB1450",
+    "SOBnummer": "SOB1450",
     "Omschrijving": "Legionella in Zicht"
   },
   {
-    "Nr.": "SOB1501",
+    "SOBnummer": "SOB1501",
     "Omschrijving": "2-3 wegregelklep < DN 50 flens, incl. servomotor"
   },
   {
-    "Nr.": "SOB1502",
+    "SOBnummer": "SOB1502",
     "Omschrijving": "2-3 wegregelklep 3/8 inch-2 inch, incl. servomotor"
   },
   {
-    "Nr.": "SOB1503",
+    "SOBnummer": "SOB1503",
     "Omschrijving": "2-3 wegregelklep DN 100-150 flens, incl. servomotor"
   },
   {
-    "Nr.": "SOB1504",
+    "SOBnummer": "SOB1504",
     "Omschrijving": "2-3 wegregelklep DN 50-100 flens, incl. servomotor"
   },
   {
-    "Nr.": "SOB1505",
+    "SOBnummer": "SOB1505",
     "Omschrijving": "Compensator"
   },
   {
-    "Nr.": "SOB1506",
+    "SOBnummer": "SOB1506",
     "Omschrijving": "Detectie-instrument"
   },
   {
-    "Nr.": "SOB1507",
+    "SOBnummer": "SOB1507",
     "Omschrijving": "Diverse appendages"
   },
   {
-    "Nr.": "SOB1508",
+    "SOBnummer": "SOB1508",
     "Omschrijving": "Expansievat < 18 ltr"
   },
   {
-    "Nr.": "SOB1509",
+    "SOBnummer": "SOB1509",
     "Omschrijving": "Gasdrukmanometer"
   },
   {
-    "Nr.": "SOB1510",
+    "SOBnummer": "SOB1510",
     "Omschrijving": "Gewichtsveiligheidstoestel < 2 inch"
   },
   {
-    "Nr.": "SOB1511",
+    "SOBnummer": "SOB1511",
     "Omschrijving": "Gewichtsveiligheidstoestel 100-150 mm"
   },
   {
-    "Nr.": "SOB1512",
+    "SOBnummer": "SOB1512",
     "Omschrijving": "Gewichtsveiligheidstoestel 2 inch-100 mm"
   },
   {
-    "Nr.": "SOB1513",
+    "SOBnummer": "SOB1513",
     "Omschrijving": "Circulatiepomp < 1 1/4 inch"
   },
   {
-    "Nr.": "SOB1514",
+    "SOBnummer": "SOB1514",
     "Omschrijving": "Inregelafsluiter 3/8 inch-2 inch"
   },
   {
-    "Nr.": "SOB1515",
+    "SOBnummer": "SOB1515",
     "Omschrijving": "Inregelafsluiter DN 100-150"
   },
   {
-    "Nr.": "SOB1516",
+    "SOBnummer": "SOB1516",
     "Omschrijving": "Inregelafsluiter DN 40-65"
   },
   {
-    "Nr.": "SOB1517",
+    "SOBnummer": "SOB1517",
     "Omschrijving": "Inregelafsluiter DN 65-100"
   },
   {
-    "Nr.": "SOB1519",
+    "SOBnummer": "SOB1519",
     "Omschrijving": "Klepafsluiter 3/8 inch-2 inch"
   },
   {
-    "Nr.": "SOB1520",
+    "SOBnummer": "SOB1520",
     "Omschrijving": "Klepafsluiter DN 100-150"
   },
   {
-    "Nr.": "SOB1521",
+    "SOBnummer": "SOB1521",
     "Omschrijving": "Klepafsluiter DN 40-65"
   },
   {
-    "Nr.": "SOB1522",
+    "SOBnummer": "SOB1522",
     "Omschrijving": "Klepafsluiter DN 65-100"
   },
   {
-    "Nr.": "SOB1523",
+    "SOBnummer": "SOB1523",
     "Omschrijving": "Kogelafsluiter 3/8 inch-1 1/2 inch"
   },
   {
-    "Nr.": "SOB1524",
+    "SOBnummer": "SOB1524",
     "Omschrijving": "Kogelafsluiter DN 100-150"
   },
   {
-    "Nr.": "SOB1525",
+    "SOBnummer": "SOB1525",
     "Omschrijving": "Kogelafsluiter DN 40-65"
   },
   {
-    "Nr.": "SOB1526",
+    "SOBnummer": "SOB1526",
     "Omschrijving": "Kogelafsluiter DN 65-100"
   },
   {
-    "Nr.": "SOB1527",
+    "SOBnummer": "SOB1527",
     "Omschrijving": "Luchtafscheider 100-200 mm"
   },
   {
-    "Nr.": "SOB1528",
+    "SOBnummer": "SOB1528",
     "Omschrijving": "Luchtafscheider 2 inch-100 mm"
   },
   {
-    "Nr.": "SOB1529",
+    "SOBnummer": "SOB1529",
     "Omschrijving": "Luchtfscheider 3/8 inch- 2 inch"
   },
   {
-    "Nr.": "SOB1530",
+    "SOBnummer": "SOB1530",
     "Omschrijving": "Manometer"
   },
   {
-    "Nr.": "SOB1531",
+    "SOBnummer": "SOB1531",
     "Omschrijving": "Meet- en testapparatuur"
   },
   {
-    "Nr.": "SOB1532",
+    "SOBnummer": "SOB1532",
     "Omschrijving": "Membraanafsluiter 3/8 inch-2 inch"
   },
   {
-    "Nr.": "SOB1533",
+    "SOBnummer": "SOB1533",
     "Omschrijving": "Membraanafsluiter DN 100-150"
   },
   {
-    "Nr.": "SOB1534",
+    "SOBnummer": "SOB1534",
     "Omschrijving": "Membraanafsluiter DN 40-65"
   },
   {
-    "Nr.": "SOB1535",
+    "SOBnummer": "SOB1535",
     "Omschrijving": "Membraanafsluiter DN 65-100"
   },
   {
-    "Nr.": "SOB1536",
+    "SOBnummer": "SOB1536",
     "Omschrijving": "Naaldsafsluiter 1/4 inch-1 inch"
   },
   {
-    "Nr.": "SOB1537",
+    "SOBnummer": "SOB1537",
     "Omschrijving": "Olieafscheider 100-200 mm"
   },
   {
-    "Nr.": "SOB1538",
+    "SOBnummer": "SOB1538",
     "Omschrijving": "Olieafscheider 2 inch-100 mm"
   },
   {
-    "Nr.": "SOB1539",
+    "SOBnummer": "SOB1539",
     "Omschrijving": "Olieafscheider 3/8 inch- 2 inch"
   },
   {
-    "Nr.": "SOB1540",
+    "SOBnummer": "SOB1540",
     "Omschrijving": "Overstorttoestel < 1/2 inch-1 inch"
   },
   {
-    "Nr.": "SOB1541",
+    "SOBnummer": "SOB1541",
     "Omschrijving": "Overstorttoestel 1 inch- 2 inch"
   },
   {
-    "Nr.": "SOB1542",
+    "SOBnummer": "SOB1542",
     "Omschrijving": "Reduceertoestel < DN 50 flens"
   },
   {
-    "Nr.": "SOB1543",
+    "SOBnummer": "SOB1543",
     "Omschrijving": "Reduceertoestel < DN 50"
   },
   {
-    "Nr.": "SOB1544",
+    "SOBnummer": "SOB1544",
     "Omschrijving": "Reduceertoestel DN 100-150"
   },
   {
-    "Nr.": "SOB1545",
+    "SOBnummer": "SOB1545",
     "Omschrijving": "Reduceertoestel DN 50-100"
   },
   {
-    "Nr.": "SOB1546",
+    "SOBnummer": "SOB1546",
     "Omschrijving": "Registratie-instrument"
   },
   {
-    "Nr.": "SOB1547",
+    "SOBnummer": "SOB1547",
     "Omschrijving": "Schuifafsluiter 3/8 inch-2 inch"
   },
   {
-    "Nr.": "SOB1548",
+    "SOBnummer": "SOB1548",
     "Omschrijving": "Schuifafsluiter DN 100-150"
   },
   {
-    "Nr.": "SOB1549",
+    "SOBnummer": "SOB1549",
     "Omschrijving": "Schuifafsluiter DN 40-65"
   },
   {
-    "Nr.": "SOB1550",
+    "SOBnummer": "SOB1550",
     "Omschrijving": "Schuifafsluiter DN 65-100"
   },
   {
-    "Nr.": "SOB1551",
+    "SOBnummer": "SOB1551",
     "Omschrijving": "Servomotor"
   },
   {
-    "Nr.": "SOB1553",
+    "SOBnummer": "SOB1553",
     "Omschrijving": "Terugslagklep < 1 inch"
   },
   {
-    "Nr.": "SOB1554",
+    "SOBnummer": "SOB1554",
     "Omschrijving": "Terugslagklep 1 inch - 2 inch"
   },
   {
-    "Nr.": "SOB1555",
+    "SOBnummer": "SOB1555",
     "Omschrijving": "Terugslagklep DN 50-65"
   },
   {
-    "Nr.": "SOB1556",
+    "SOBnummer": "SOB1556",
     "Omschrijving": "Terugslagklep DN 100-150"
   },
   {
-    "Nr.": "SOB1557",
+    "SOBnummer": "SOB1557",
     "Omschrijving": "Terugslagklep DN 65-100"
   },
   {
-    "Nr.": "SOB1558",
+    "SOBnummer": "SOB1558",
     "Omschrijving": "Vlinderafsluiter 3/8 inch- 1 1/2 inch"
   },
   {
-    "Nr.": "SOB1559",
+    "SOBnummer": "SOB1559",
     "Omschrijving": "Vlinderafsluiter DN 100-150"
   },
   {
-    "Nr.": "SOB1560",
+    "SOBnummer": "SOB1560",
     "Omschrijving": "Vlinderafsluiter DN 40-65"
   },
   {
-    "Nr.": "SOB1561",
+    "SOBnummer": "SOB1561",
     "Omschrijving": "Vlinderafsluiter DN 65-100"
   },
   {
-    "Nr.": "SOB1562",
+    "SOBnummer": "SOB1562",
     "Omschrijving": "Vloeistofmanometer"
   },
   {
-    "Nr.": "SOB1563",
+    "SOBnummer": "SOB1563",
     "Omschrijving": "Vloeistoffilter 100-200 mm"
   },
   {
-    "Nr.": "SOB1564",
+    "SOBnummer": "SOB1564",
     "Omschrijving": "Vloeistoffilter 2 inch-100 mm"
   },
   {
-    "Nr.": "SOB1565",
+    "SOBnummer": "SOB1565",
     "Omschrijving": "Vloeistoffilter 3/8 inch- 2 inch"
   },
   {
-    "Nr.": "SOB1566",
+    "SOBnummer": "SOB1566",
     "Omschrijving": "Vrijstroomafsluiter 3/8 inch-2 inch"
   },
   {
-    "Nr.": "SOB1567",
+    "SOBnummer": "SOB1567",
     "Omschrijving": "Vrijstroomafsluiter DN 100-150"
   },
   {
-    "Nr.": "SOB1568",
+    "SOBnummer": "SOB1568",
     "Omschrijving": "Vrijstroomafsluiter DN 40-65"
   },
   {
-    "Nr.": "SOB1569",
+    "SOBnummer": "SOB1569",
     "Omschrijving": "Vrijstroomafsluiter DN 65-100"
   },
   {
-    "Nr.": "SOB1570",
+    "SOBnummer": "SOB1570",
     "Omschrijving": "Warmteverbruiksmeter 100-200 mm"
   },
   {
-    "Nr.": "SOB1571",
+    "SOBnummer": "SOB1571",
     "Omschrijving": "Warmteverbruiksmeter 2 inch-100 mm"
   },
   {
-    "Nr.": "SOB1572",
+    "SOBnummer": "SOB1572",
     "Omschrijving": "Warmteverbruiksmeter 3/8 inch- 2 inch"
   },
   {
-    "Nr.": "SOB1573",
+    "SOBnummer": "SOB1573",
     "Omschrijving": "Waterafscheider 100-200 mm"
   },
   {
-    "Nr.": "SOB1574",
+    "SOBnummer": "SOB1574",
     "Omschrijving": "Waterafscheider 2 inch-100 mm"
   },
   {
-    "Nr.": "SOB1575",
+    "SOBnummer": "SOB1575",
     "Omschrijving": "Waterafscheider 3/8 inch- 2 inch"
   },
   {
-    "Nr.": "SOB1576",
+    "SOBnummer": "SOB1576",
     "Omschrijving": "Waterverbruiksmeter 100-200 mm"
   },
   {
-    "Nr.": "SOB1577",
+    "SOBnummer": "SOB1577",
     "Omschrijving": "Waterverbruiksmeter 2 inch-100 mm"
   },
   {
-    "Nr.": "SOB1578",
+    "SOBnummer": "SOB1578",
     "Omschrijving": "Thermometer"
   },
   {
-    "Nr.": "SOB1579",
+    "SOBnummer": "SOB1579",
     "Omschrijving": "Bedien en beheer computersysteem"
   },
   {
-    "Nr.": "SOB1580",
+    "SOBnummer": "SOB1580",
     "Omschrijving": "Beheersysteem"
   },
   {
-    "Nr.": "SOB1581",
+    "SOBnummer": "SOB1581",
     "Omschrijving": "Computersysteem"
   },
   {
-    "Nr.": "SOB1583",
+    "SOBnummer": "SOB1583",
     "Omschrijving": "(Rein)Watertank"
   },
   {
-    "Nr.": "SOB1584",
+    "SOBnummer": "SOB1584",
     "Omschrijving": "Aardings- en blikseminstallatie"
   },
   {
-    "Nr.": "SOB1585",
+    "SOBnummer": "SOB1585",
     "Omschrijving": "Aspiratiesysteem (ASD rookdetectie)"
   },
   {
-    "Nr.": "SOB1586",
+    "SOBnummer": "SOB1586",
     "Omschrijving": "Bassin"
   },
   {
-    "Nr.": "SOB1587",
+    "SOBnummer": "SOB1587",
     "Omschrijving": "Beheerders PC"
   },
   {
-    "Nr.": "SOB1588",
+    "SOBnummer": "SOB1588",
     "Omschrijving": "Binnencamera in behuizing"
   },
   {
-    "Nr.": "SOB1589",
+    "SOBnummer": "SOB1589",
     "Omschrijving": "Binnencamera zonder behuizing"
   },
   {
-    "Nr.": "SOB1590",
+    "SOBnummer": "SOB1590",
     "Omschrijving": "Bolcamera binnen"
   },
   {
-    "Nr.": "SOB1591",
+    "SOBnummer": "SOB1591",
     "Omschrijving": "Bolcamera buiten"
   },
   {
-    "Nr.": "SOB1592",
+    "SOBnummer": "SOB1592",
     "Omschrijving": "Branddichte doorvoering"
   },
   {
-    "Nr.": "SOB1593",
+    "SOBnummer": "SOB1593",
     "Omschrijving": "Brandmeldinstallatie"
   },
   {
-    "Nr.": "SOB1594",
+    "SOBnummer": "SOB1594",
     "Omschrijving": "Buitencamera vast in behuizing"
   },
   {
-    "Nr.": "SOB1595",
+    "SOBnummer": "SOB1595",
     "Omschrijving": "CCTV installatie"
   },
   {
-    "Nr.": "SOB1596",
+    "SOBnummer": "SOB1596",
     "Omschrijving": "Codebedienpanel"
   },
   {
-    "Nr.": "SOB1597",
+    "SOBnummer": "SOB1597",
     "Omschrijving": "Deluge alarmklep"
   },
   {
-    "Nr.": "SOB1598",
+    "SOBnummer": "SOB1598",
     "Omschrijving": "Detector"
   },
   {
-    "Nr.": "SOB1599",
+    "SOBnummer": "SOB1599",
     "Omschrijving": "Deurmodule"
   },
   {
-    "Nr.": "SOB1600",
+    "SOBnummer": "SOB1600",
     "Omschrijving": "Deuropener"
   },
   {
-    "Nr.": "SOB1601",
+    "SOBnummer": "SOB1601",
     "Omschrijving": "Diesel voorraadtank"
   },
   {
-    "Nr.": "SOB1602",
+    "SOBnummer": "SOB1602",
     "Omschrijving": "Dieselmotor"
   },
   {
-    "Nr.": "SOB1603",
+    "SOBnummer": "SOB1603",
     "Omschrijving": "Dome camera buiten"
   },
   {
-    "Nr.": "SOB1607",
+    "SOBnummer": "SOB1607",
     "Omschrijving": "Drinkwaterleiding"
   },
   {
-    "Nr.": "SOB1608",
+    "SOBnummer": "SOB1608",
     "Omschrijving": "Droge alarmklep"
   },
   {
-    "Nr.": "SOB1609",
+    "SOBnummer": "SOB1609",
     "Omschrijving": "Elektromotor"
   },
   {
-    "Nr.": "SOB1610",
+    "SOBnummer": "SOB1610",
     "Omschrijving": "End-suction pomp"
   },
   {
-    "Nr.": "SOB1611",
+    "SOBnummer": "SOB1611",
     "Omschrijving": "Flitslicht"
   },
   {
-    "Nr.": "SOB1612",
+    "SOBnummer": "SOB1612",
     "Omschrijving": "Flitslicht"
   },
   {
-    "Nr.": "SOB1613",
+    "SOBnummer": "SOB1613",
     "Omschrijving": "Flowmeter"
   },
   {
-    "Nr.": "SOB1614",
+    "SOBnummer": "SOB1614",
     "Omschrijving": "Garage uitlaatgassen detectiesysteem (CO/LPG)"
   },
   {
-    "Nr.": "SOB1615",
+    "SOBnummer": "SOB1615",
     "Omschrijving": "Geografisch paneel"
   },
   {
-    "Nr.": "SOB1616",
+    "SOBnummer": "SOB1616",
     "Omschrijving": "Geografisch paneel ontruiming"
   },
   {
-    "Nr.": "SOB1617",
+    "SOBnummer": "SOB1617",
     "Omschrijving": "Handbrandmelder"
   },
   {
-    "Nr.": "SOB1618",
+    "SOBnummer": "SOB1618",
     "Omschrijving": "Harddiskrecorder"
   },
   {
-    "Nr.": "SOB1619",
+    "SOBnummer": "SOB1619",
     "Omschrijving": "Inbraakbeveiligingssysteem (IBS)"
   },
   {
-    "Nr.": "SOB1620",
+    "SOBnummer": "SOB1620",
     "Omschrijving": "Jockeypomp en lagedrukmelding"
   },
   {
-    "Nr.": "SOB1621",
+    "SOBnummer": "SOB1621",
     "Omschrijving": "Kaartlezer"
   },
   {
-    "Nr.": "SOB1622",
+    "SOBnummer": "SOB1622",
     "Omschrijving": "Keyboard"
   },
   {
-    "Nr.": "SOB1623",
+    "SOBnummer": "SOB1623",
     "Omschrijving": "Koppelingen overige systemen (CCTV)"
   },
   {
-    "Nr.": "SOB1624",
+    "SOBnummer": "SOB1624",
     "Omschrijving": "Vervallen"
   },
   {
-    "Nr.": "SOB1625",
+    "SOBnummer": "SOB1625",
     "Omschrijving": "Luchtcompressor"
   },
   {
-    "Nr.": "SOB1626",
+    "SOBnummer": "SOB1626",
     "Omschrijving": "Magneetcontact"
   },
   {
-    "Nr.": "SOB1627",
+    "SOBnummer": "SOB1627",
     "Omschrijving": "Medische aarding"
   },
   {
-    "Nr.": "SOB1628",
+    "SOBnummer": "SOB1628",
     "Omschrijving": "Monitor"
   },
   {
-    "Nr.": "SOB1629",
+    "SOBnummer": "SOB1629",
     "Omschrijving": "Multiplexer"
   },
   {
-    "Nr.": "SOB1630",
+    "SOBnummer": "SOB1630",
     "Omschrijving": "Nachtwaker controle-installatie"
   },
   {
-    "Nr.": "SOB1631",
+    "SOBnummer": "SOB1631",
     "Omschrijving": "Natte alarmklep"
   },
   {
-    "Nr.": "SOB1632",
+    "SOBnummer": "SOB1632",
     "Omschrijving": "Nooddrukker"
   },
   {
-    "Nr.": "SOB1633",
+    "SOBnummer": "SOB1633",
     "Omschrijving": "Noodverlichtingarmatuur centraal"
   },
   {
-    "Nr.": "SOB1634",
+    "SOBnummer": "SOB1634",
     "Omschrijving": "Noodverlichtingarmatuur decentraal"
   },
   {
-    "Nr.": "SOB1635",
+    "SOBnummer": "SOB1635",
     "Omschrijving": "Ontruimingsinstallatie"
   },
   {
-    "Nr.": "SOB1636",
+    "SOBnummer": "SOB1636",
     "Omschrijving": "Optische rookmelder"
   },
   {
-    "Nr.": "SOB1637",
+    "SOBnummer": "SOB1637",
     "Omschrijving": "Overige sturingen (CCTV)"
   },
   {
-    "Nr.": "SOB1638",
+    "SOBnummer": "SOB1638",
     "Omschrijving": "Overige sturingen (toegangscontrole)"
   },
   {
-    "Nr.": "SOB1639",
+    "SOBnummer": "SOB1639",
     "Omschrijving": "Overval alarminstallatie"
   },
   {
-    "Nr.": "SOB1640",
+    "SOBnummer": "SOB1640",
     "Omschrijving": "Pre-Action alarmklep"
   },
   {
-    "Nr.": "SOB1641",
+    "SOBnummer": "SOB1641",
     "Omschrijving": "Primingtank"
   },
   {
-    "Nr.": "SOB1642",
+    "SOBnummer": "SOB1642",
     "Omschrijving": "Rook-/Warmteafvoerluik (RWA-luik)"
   },
   {
-    "Nr.": "SOB1643",
+    "SOBnummer": "SOB1643",
     "Omschrijving": "Vervallen"
   },
   {
-    "Nr.": "SOB1644",
+    "SOBnummer": "SOB1644",
     "Omschrijving": "Schuimblus voorraadtank"
   },
   {
-    "Nr.": "SOB1645",
+    "SOBnummer": "SOB1645",
     "Omschrijving": "Sirene"
   },
   {
-    "Nr.": "SOB1646",
+    "SOBnummer": "SOB1646",
     "Omschrijving": "Slagboom beveiligingsinstallatie"
   },
   {
-    "Nr.": "SOB1647",
+    "SOBnummer": "SOB1647",
     "Omschrijving": "Slow-whoop BMI"
   },
   {
-    "Nr.": "SOB1648",
+    "SOBnummer": "SOB1648",
     "Omschrijving": "Slow-whoop ontruiming"
   },
   {
-    "Nr.": "SOB1649",
+    "SOBnummer": "SOB1649",
     "Omschrijving": "Speciale aarding"
   },
   {
-    "Nr.": "SOB1650",
+    "SOBnummer": "SOB1650",
     "Omschrijving": "Split-case pomp"
   },
   {
-    "Nr.": "SOB1651",
+    "SOBnummer": "SOB1651",
     "Omschrijving": "Sprinkler meldcentrale"
   },
   {
-    "Nr.": "SOB1652",
+    "SOBnummer": "SOB1652",
     "Omschrijving": "Sprinklerinstallatie"
   },
   {
-    "Nr.": "SOB1653",
+    "SOBnummer": "SOB1653",
     "Omschrijving": "Stromingsschakelaar"
   },
   {
-    "Nr.": "SOB1654",
+    "SOBnummer": "SOB1654",
     "Omschrijving": "Sturing verlichting"
   },
   {
-    "Nr.": "SOB1655",
+    "SOBnummer": "SOB1655",
     "Omschrijving": "Sturingen"
   },
   {
-    "Nr.": "SOB1656",
+    "SOBnummer": "SOB1656",
     "Omschrijving": "Sturingen ontruiming"
   },
   {
-    "Nr.": "SOB1657",
+    "SOBnummer": "SOB1657",
     "Omschrijving": "Terugslagklep < 2 inch sprinkler"
   },
   {
-    "Nr.": "SOB1658",
+    "SOBnummer": "SOB1658",
     "Omschrijving": "Terugslagklep > 2 inch"
   },
   {
-    "Nr.": "SOB1659",
+    "SOBnummer": "SOB1659",
     "Omschrijving": "Testgas"
   },
   {
-    "Nr.": "SOB1660",
+    "SOBnummer": "SOB1660",
     "Omschrijving": "Toegangscontrole"
   },
   {
-    "Nr.": "SOB1661",
+    "SOBnummer": "SOB1661",
     "Omschrijving": "Uitbreidingsmodule"
   },
   {
-    "Nr.": "SOB1662",
+    "SOBnummer": "SOB1662",
     "Omschrijving": "Uitbreidingsmodule met voeding"
   },
   {
-    "Nr.": "SOB1663",
+    "SOBnummer": "SOB1663",
     "Omschrijving": "Veiligheidsaarding"
   },
   {
-    "Nr.": "SOB1664",
+    "SOBnummer": "SOB1664",
     "Omschrijving": "Versneller voor droge alarmklep"
   },
   {
-    "Nr.": "SOB1665",
+    "SOBnummer": "SOB1665",
     "Omschrijving": "Vertical shaft pomp"
   },
   {
-    "Nr.": "SOB1666",
+    "SOBnummer": "SOB1666",
     "Omschrijving": "Videorecorder"
   },
   {
-    "Nr.": "SOB1667",
+    "SOBnummer": "SOB1667",
     "Omschrijving": "Vluchtdeur"
   },
   {
-    "Nr.": "SOB1668",
+    "SOBnummer": "SOB1668",
     "Omschrijving": "Voetklep en zuigleiding"
   },
   {
-    "Nr.": "SOB1670",
+    "SOBnummer": "SOB1670",
     "Omschrijving": "Afwerkingspakketten"
   },
   {
-    "Nr.": "SOB1671",
+    "SOBnummer": "SOB1671",
     "Omschrijving": "Balustrades en leuningen"
   },
   {
-    "Nr.": "SOB1672",
+    "SOBnummer": "SOB1672",
     "Omschrijving": "Beschermlagen"
   },
   {
-    "Nr.": "SOB1673",
+    "SOBnummer": "SOB1673",
     "Omschrijving": "Binnenwandafwerkingen"
   },
   {
-    "Nr.": "SOB1674",
+    "SOBnummer": "SOB1674",
     "Omschrijving": "Binnenwanden"
   },
   {
-    "Nr.": "SOB1675",
+    "SOBnummer": "SOB1675",
     "Omschrijving": "Binnenwandopening"
   },
   {
-    "Nr.": "SOB1676",
+    "SOBnummer": "SOB1676",
     "Omschrijving": "Bodemvoorzieningen"
   },
   {
-    "Nr.": "SOB1677",
+    "SOBnummer": "SOB1677",
     "Omschrijving": "Buitenwandafwerkingen"
   },
   {
-    "Nr.": "SOB1678",
+    "SOBnummer": "SOB1678",
     "Omschrijving": "Buitenwanden"
   },
   {
-    "Nr.": "SOB1679",
+    "SOBnummer": "SOB1679",
     "Omschrijving": "Buitenwandopeningen"
   },
   {
-    "Nr.": "SOB1680",
+    "SOBnummer": "SOB1680",
     "Omschrijving": "Dakafwerkingen"
   },
   {
-    "Nr.": "SOB1681",
+    "SOBnummer": "SOB1681",
     "Omschrijving": "Daken"
   },
   {
-    "Nr.": "SOB1682",
+    "SOBnummer": "SOB1682",
     "Omschrijving": "Dakopeningen"
   },
   {
-    "Nr.": "SOB1683",
+    "SOBnummer": "SOB1683",
     "Omschrijving": "Funderingsconstructies"
   },
   {
-    "Nr.": "SOB1684",
+    "SOBnummer": "SOB1684",
     "Omschrijving": "Hoofddraagconstructie"
   },
   {
-    "Nr.": "SOB1685",
+    "SOBnummer": "SOB1685",
     "Omschrijving": "Inbouwpakketten"
   },
   {
-    "Nr.": "SOB1686",
+    "SOBnummer": "SOB1686",
     "Omschrijving": "Paalfunderingen"
   },
   {
-    "Nr.": "SOB1687",
+    "SOBnummer": "SOB1687",
     "Omschrijving": "Plafondafwerkingen"
   },
   {
-    "Nr.": "SOB1688",
+    "SOBnummer": "SOB1688",
     "Omschrijving": "Trap- en hellingafwerkingen"
   },
   {
-    "Nr.": "SOB1689",
+    "SOBnummer": "SOB1689",
     "Omschrijving": "Trappen en hellingen"
   },
   {
-    "Nr.": "SOB1690",
+    "SOBnummer": "SOB1690",
     "Omschrijving": "Vloerafwerkingen"
   },
   {
-    "Nr.": "SOB1691",
+    "SOBnummer": "SOB1691",
     "Omschrijving": "Vloeren"
   },
   {
-    "Nr.": "SOB1692",
+    "SOBnummer": "SOB1692",
     "Omschrijving": "Vloeren op grondslag"
   },
   {
-    "Nr.": "SOB1693",
+    "SOBnummer": "SOB1693",
     "Omschrijving": "Vloeropeningen"
   },
   {
-    "Nr.": "SOB1694",
+    "SOBnummer": "SOB1694",
     "Omschrijving": "Blusgasinstallatie"
   },
   {
-    "Nr.": "SOB1695",
+    "SOBnummer": "SOB1695",
     "Omschrijving": "Brandkraan / afnamepunt op droge blusleiding"
   },
   {
-    "Nr.": "SOB1696",
+    "SOBnummer": "SOB1696",
     "Omschrijving": "Brandslanghaspel"
   },
   {
-    "Nr.": "SOB1697",
+    "SOBnummer": "SOB1697",
     "Omschrijving": "Brandweer aansluiting - hydrant (buiten)"
   },
   {
-    "Nr.": "SOB1698",
+    "SOBnummer": "SOB1698",
     "Omschrijving": "Droge blusleiding"
   },
   {
-    "Nr.": "SOB1699",
+    "SOBnummer": "SOB1699",
     "Omschrijving": "Handbrandblusser 2 ltr."
   },
   {
-    "Nr.": "SOB1700",
+    "SOBnummer": "SOB1700",
     "Omschrijving": "Handbrandblusser 6 ltr."
   },
   {
-    "Nr.": "SOB1701",
+    "SOBnummer": "SOB1701",
     "Omschrijving": "Handbrandblusser 9 ltr."
   },
   {
-    "Nr.": "SOB1702",
+    "SOBnummer": "SOB1702",
     "Omschrijving": "Handbrandblusser vetblusser 6 ltr."
   },
   {
-    "Nr.": "SOB1703",
+    "SOBnummer": "SOB1703",
     "Omschrijving": "Aanwezigheids-/beletsignalering MIVA"
   },
   {
-    "Nr.": "SOB1704",
+    "SOBnummer": "SOB1704",
     "Omschrijving": "Antenne-inrichting (CAI)"
   },
   {
-    "Nr.": "SOB1705",
+    "SOBnummer": "SOB1705",
     "Omschrijving": "Datainstallatie, Actieve componenten"
   },
   {
-    "Nr.": "SOB1706",
+    "SOBnummer": "SOB1706",
     "Omschrijving": "Hoofdtoestel telefoonsysteem"
   },
   {
-    "Nr.": "SOB1707",
+    "SOBnummer": "SOB1707",
     "Omschrijving": "Intercom binnenpost"
   },
   {
-    "Nr.": "SOB1708",
+    "SOBnummer": "SOB1708",
     "Omschrijving": "Intercom buitenpost"
   },
   {
-    "Nr.": "SOB1709",
+    "SOBnummer": "SOB1709",
     "Omschrijving": "Intercominstallatie"
   },
   {
-    "Nr.": "SOB1711",
+    "SOBnummer": "SOB1711",
     "Omschrijving": "Audio/Visuele middelen, Actieve componenten"
   },
   {
-    "Nr.": "SOB1712",
+    "SOBnummer": "SOB1712",
     "Omschrijving": "Personenzoekinstallatie"
   },
   {
-    "Nr.": "SOB1713",
+    "SOBnummer": "SOB1713",
     "Omschrijving": "Telefoonsysteem"
   },
   {
-    "Nr.": "SOB1714",
+    "SOBnummer": "SOB1714",
     "Omschrijving": "Zuster/verpleeg oproepinstallatie"
   },
   {
-    "Nr.": "SOB1715",
+    "SOBnummer": "SOB1715",
     "Omschrijving": "Bedienings- en signaleringspaneel"
   },
   {
-    "Nr.": "SOB1716",
+    "SOBnummer": "SOB1716",
     "Omschrijving": "Binnenverlichtingsarmatuur"
   },
   {
-    "Nr.": "SOB1717",
+    "SOBnummer": "SOB1717",
     "Omschrijving": "Buitenverlichtingsarmatuur"
   },
   {
-    "Nr.": "SOB1718",
+    "SOBnummer": "SOB1718",
     "Omschrijving": "Contactdoos"
   },
   {
-    "Nr.": "SOB1719",
+    "SOBnummer": "SOB1719",
     "Omschrijving": "Hoofd verdeelinrichting < 5 groepen"
   },
   {
-    "Nr.": "SOB1720",
+    "SOBnummer": "SOB1720",
     "Omschrijving": "Hoofd verdeelinrichting > 20 groepen"
   },
   {
-    "Nr.": "SOB1721",
+    "SOBnummer": "SOB1721",
     "Omschrijving": "Hoofd verdeelinrichting 13-20 groepen"
   },
   {
-    "Nr.": "SOB1722",
+    "SOBnummer": "SOB1722",
     "Omschrijving": "Hoofd verdeelinrichting 5-8 groepen"
   },
   {
-    "Nr.": "SOB1723",
+    "SOBnummer": "SOB1723",
     "Omschrijving": "Hoofd verdeelinrichting 9-12 groepen"
   },
   {
-    "Nr.": "SOB1724",
+    "SOBnummer": "SOB1724",
     "Omschrijving": "Hoogspannings verdeelinrichting"
   },
   {
-    "Nr.": "SOB1725",
+    "SOBnummer": "SOB1725",
     "Omschrijving": "Hoogspanningsschakelaar"
   },
   {
-    "Nr.": "SOB1726",
+    "SOBnummer": "SOB1726",
     "Omschrijving": "Kabelgoten/kabels (per m2 gebouw)"
   },
   {
-    "Nr.": "SOB1727",
+    "SOBnummer": "SOB1727",
     "Omschrijving": "Lichtschakelaar"
   },
   {
-    "Nr.": "SOB1728",
+    "SOBnummer": "SOB1728",
     "Omschrijving": "Onder verdeelinrichting < 16 groepen"
   },
   {
-    "Nr.": "SOB1729",
+    "SOBnummer": "SOB1729",
     "Omschrijving": "Onder verdeelinrichting > 60 groepen"
   },
   {
-    "Nr.": "SOB1730",
+    "SOBnummer": "SOB1730",
     "Omschrijving": "Onder verdeelinrichting 16-30 groepen"
   },
   {
-    "Nr.": "SOB1731",
+    "SOBnummer": "SOB1731",
     "Omschrijving": "Onder verdeelinrichting 31-45 groepen"
   },
   {
-    "Nr.": "SOB1732",
+    "SOBnummer": "SOB1732",
     "Omschrijving": "Onder verdeelinrichting 46-60 groepen"
   },
   {
-    "Nr.": "SOB1733",
+    "SOBnummer": "SOB1733",
     "Omschrijving": "Overspanningsbeveiliging"
   },
   {
-    "Nr.": "SOB1734",
+    "SOBnummer": "SOB1734",
     "Omschrijving": "Reclameverlichting"
   },
   {
-    "Nr.": "SOB1735",
+    "SOBnummer": "SOB1735",
     "Omschrijving": "Aanzuigkorf"
   },
   {
-    "Nr.": "SOB1736",
+    "SOBnummer": "SOB1736",
     "Omschrijving": "Energiedak"
   },
   {
-    "Nr.": "SOB1737",
+    "SOBnummer": "SOB1737",
     "Omschrijving": "Filterinstallatie"
   },
   {
-    "Nr.": "SOB1738",
+    "SOBnummer": "SOB1738",
     "Omschrijving": "Laadpaal"
   },
   {
-    "Nr.": "SOB1739",
+    "SOBnummer": "SOB1739",
     "Omschrijving": "Omstelklep"
   },
   {
-    "Nr.": "SOB1740",
+    "SOBnummer": "SOB1740",
     "Omschrijving": "Omvormer PV-panelen"
   },
   {
-    "Nr.": "SOB1741",
+    "SOBnummer": "SOB1741",
     "Omschrijving": "PV-paneel"
   },
   {
-    "Nr.": "SOB1742",
+    "SOBnummer": "SOB1742",
     "Omschrijving": "Transportpomp"
   },
   {
-    "Nr.": "SOB1743",
+    "SOBnummer": "SOB1743",
     "Omschrijving": "Zonnecollector < 25 kW (K + W water)"
   },
   {
-    "Nr.": "SOB1744",
+    "SOBnummer": "SOB1744",
     "Omschrijving": "Zonnecollector 25-75 kW (K + W water)"
   },
   {
-    "Nr.": "SOB1745",
+    "SOBnummer": "SOB1745",
     "Omschrijving": "Zonnecollector 75-150 kW (K + W water)"
   },
   {
-    "Nr.": "SOB1746",
+    "SOBnummer": "SOB1746",
     "Omschrijving": "Gasfilter"
   },
   {
-    "Nr.": "SOB1747",
+    "SOBnummer": "SOB1747",
     "Omschrijving": "Gasleiding 1 1/2 inch-89 mm"
   },
   {
-    "Nr.": "SOB1748",
+    "SOBnummer": "SOB1748",
     "Omschrijving": "Gasleiding 3/8 inch-1 1/2 inch"
   },
   {
-    "Nr.": "SOB1749",
+    "SOBnummer": "SOB1749",
     "Omschrijving": "Gasleiding 89-150 mm"
   },
   {
-    "Nr.": "SOB1750",
+    "SOBnummer": "SOB1750",
     "Omschrijving": "Expansievat < 50 ltr (HWA)"
   },
   {
-    "Nr.": "SOB1751",
+    "SOBnummer": "SOB1751",
     "Omschrijving": "Expansievat > 50 ltr (grijswater)"
   },
   {
-    "Nr.": "SOB1752",
+    "SOBnummer": "SOB1752",
     "Omschrijving": "Hydrofoor driepompsunit (HWA)"
   },
   {
-    "Nr.": "SOB1753",
+    "SOBnummer": "SOB1753",
     "Omschrijving": "Hydrofoor eenpompsunit (HWA)"
   },
   {
-    "Nr.": "SOB1754",
+    "SOBnummer": "SOB1754",
     "Omschrijving": "Hydrofoor tweepompsunit (HWA)"
   },
   {
-    "Nr.": "SOB1755",
+    "SOBnummer": "SOB1755",
     "Omschrijving": "Hydrofoor vierpompsunit (HWA)"
   },
   {
-    "Nr.": "SOB1756",
+    "SOBnummer": "SOB1756",
     "Omschrijving": "Dakgully / Pluvia, incl. bladvanger (HWA)"
   },
   {
-    "Nr.": "SOB1757",
+    "SOBnummer": "SOB1757",
     "Omschrijving": "Pompput < 10 m3/h (HWA)"
   },
   {
-    "Nr.": "SOB1758",
+    "SOBnummer": "SOB1758",
     "Omschrijving": "Pompput 10-25 m3/h (HWA)"
   },
   {
-    "Nr.": "SOB1759",
+    "SOBnummer": "SOB1759",
     "Omschrijving": "Pompput 25-50 m3/h (HWA)"
   },
   {
-    "Nr.": "SOB1760",
+    "SOBnummer": "SOB1760",
     "Omschrijving": "Verdeler <4 groepen (HWA)"
   },
   {
-    "Nr.": "SOB1761",
+    "SOBnummer": "SOB1761",
     "Omschrijving": "Verdeler 4-8 groepen (HWA)"
   },
   {
-    "Nr.": "SOB1762",
+    "SOBnummer": "SOB1762",
     "Omschrijving": "Verdeler 8-12 groepen (HWA)"
   },
   {
-    "Nr.": "SOB1763",
+    "SOBnummer": "SOB1763",
     "Omschrijving": "Afvoerleiding 100-200 mm (HWA)"
   },
   {
-    "Nr.": "SOB1764",
+    "SOBnummer": "SOB1764",
     "Omschrijving": "Afvoerleiding 12-60 mm (HWA)"
   },
   {
-    "Nr.": "SOB1765",
+    "SOBnummer": "SOB1765",
     "Omschrijving": "Afvoerleiding 60-100 mm (HWA)"
   },
   {
-    "Nr.": "SOB1766",
+    "SOBnummer": "SOB1766",
     "Omschrijving": "Losse gebruikersinventaris"
   },
   {
-    "Nr.": "SOB1767",
+    "SOBnummer": "SOB1767",
     "Omschrijving": "Losse keukeninventaris"
   },
   {
-    "Nr.": "SOB1768",
+    "SOBnummer": "SOB1768",
     "Omschrijving": "Losse opslaginventaris"
   },
   {
-    "Nr.": "SOB1769",
+    "SOBnummer": "SOB1769",
     "Omschrijving": "Losse sanitaire inventaris"
   },
   {
-    "Nr.": "SOB1770",
+    "SOBnummer": "SOB1770",
     "Omschrijving": "Losse schoonmaakinventaris"
   },
   {
-    "Nr.": "SOB1771",
+    "SOBnummer": "SOB1771",
     "Omschrijving": "Losse verkeersinventaris"
   },
   {
-    "Nr.": "SOB1772",
+    "SOBnummer": "SOB1772",
     "Omschrijving": "Terrein"
   },
   {
-    "Nr.": "SOB1773",
+    "SOBnummer": "SOB1773",
     "Omschrijving": "Boiler, Elektrisch, Close-in/-up/-hotfill"
   },
   {
-    "Nr.": "SOB1774",
+    "SOBnummer": "SOB1774",
     "Omschrijving": "Boiler, Elektrisch, < 150liter"
   },
   {
-    "Nr.": "SOB1775",
+    "SOBnummer": "SOB1775",
     "Omschrijving": "Boiler, Elektrisch, > 150liter"
   },
   {
-    "Nr.": "SOB1776",
+    "SOBnummer": "SOB1776",
     "Omschrijving": "Expansievat < 50 ltr (K + W water)"
   },
   {
-    "Nr.": "SOB1777",
+    "SOBnummer": "SOB1777",
     "Omschrijving": "Expansievat > 50 ltr (K + W water)"
   },
   {
-    "Nr.": "SOB1778",
+    "SOBnummer": "SOB1778",
     "Omschrijving": "Hydrofoor driepompsunit (K + W water)"
   },
   {
-    "Nr.": "SOB1779",
+    "SOBnummer": "SOB1779",
     "Omschrijving": "Hydrofoor eenpompsunit (K + W water)"
   },
   {
-    "Nr.": "SOB1780",
+    "SOBnummer": "SOB1780",
     "Omschrijving": "Hydrofoor tweepompsunit (K + W water)"
   },
   {
-    "Nr.": "SOB1781",
+    "SOBnummer": "SOB1781",
     "Omschrijving": "Hydrofoor vierpompsunit (K + W water)"
   },
   {
-    "Nr.": "SOB1782",
+    "SOBnummer": "SOB1782",
     "Omschrijving": "Platenwisselaar < 300 kW (K + W water)"
   },
   {
-    "Nr.": "SOB1783",
+    "SOBnummer": "SOB1783",
     "Omschrijving": "Platenwisselaar > 300 kW (K + W water)"
   },
   {
-    "Nr.": "SOB1786",
+    "SOBnummer": "SOB1786",
     "Omschrijving": "Pompput 25-50 m3/h (K + W water)"
   },
   {
-    "Nr.": "SOB1787",
+    "SOBnummer": "SOB1787",
     "Omschrijving": "TSA stoom - WW < 300 kW (K + W water)"
   },
   {
-    "Nr.": "SOB1788",
+    "SOBnummer": "SOB1788",
     "Omschrijving": "TSA stoom - WW > 300 kW (K + W water)"
   },
   {
-    "Nr.": "SOB1789",
+    "SOBnummer": "SOB1789",
     "Omschrijving": "Verdeler < 5 groepen (K + W water)"
   },
   {
-    "Nr.": "SOB1790",
+    "SOBnummer": "SOB1790",
     "Omschrijving": "Verdeler 4-8 groepen (K + W water)"
   },
   {
-    "Nr.": "SOB1791",
+    "SOBnummer": "SOB1791",
     "Omschrijving": "Verdeler 8-12 groepen (K + W water)"
   },
   {
-    "Nr.": "SOB1792",
+    "SOBnummer": "SOB1792",
     "Omschrijving": "Watereiding 100-200 mm (K + W water)"
   },
   {
-    "Nr.": "SOB1793",
+    "SOBnummer": "SOB1793",
     "Omschrijving": "Waterleiding 12-60 mm (K + W water)"
   },
   {
-    "Nr.": "SOB1794",
+    "SOBnummer": "SOB1794",
     "Omschrijving": "Waterleiding 60-100 mm (K + W water)"
   },
   {
-    "Nr.": "SOB1795",
+    "SOBnummer": "SOB1795",
     "Omschrijving": "Grootkeukenapparatuur"
   },
   {
-    "Nr.": "SOB1796",
+    "SOBnummer": "SOB1796",
     "Omschrijving": "Transportsysteem vaatwasser"
   },
   {
-    "Nr.": "SOB1797",
+    "SOBnummer": "SOB1797",
     "Omschrijving": "Vaatwasinstallatie"
   },
   {
-    "Nr.": "SOB1798",
+    "SOBnummer": "SOB1798",
     "Omschrijving": "Split-systeem, single split, FGAS, 0-5 kW"
   },
   {
-    "Nr.": "SOB1799",
+    "SOBnummer": "SOB1799",
     "Omschrijving": "Split-systeem, single split, FGAS, 10-15 kW"
   },
   {
-    "Nr.": "SOB1800",
+    "SOBnummer": "SOB1800",
     "Omschrijving": "Split-systeem, single split, FGAS, 5-10 kW"
   },
   {
-    "Nr.": "SOB1801",
+    "SOBnummer": "SOB1801",
     "Omschrijving": "Bronkoeling"
   },
   {
-    "Nr.": "SOB1802",
+    "SOBnummer": "SOB1802",
     "Omschrijving": "Buffervat 0-1000 liter"
   },
   {
-    "Nr.": "SOB1803",
+    "SOBnummer": "SOB1803",
     "Omschrijving": "Buffervat 1000-3000 liter"
   },
   {
-    "Nr.": "SOB1804",
+    "SOBnummer": "SOB1804",
     "Omschrijving": "Luchtgekoelde condensor 0-100 kW"
   },
   {
-    "Nr.": "SOB1805",
+    "SOBnummer": "SOB1805",
     "Omschrijving": "Luchtgekoelde condensor 0-100 kW (OUD)"
   },
   {
-    "Nr.": "SOB1807",
+    "SOBnummer": "SOB1807",
     "Omschrijving": "Luchtgekoelde condensor 100-400 kW (OUD)"
   },
   {
-    "Nr.": "SOB1808",
+    "SOBnummer": "SOB1808",
     "Omschrijving": "Luchtgekoelde condensor 100-400 kW (OUD)"
   },
   {
-    "Nr.": "SOB1809",
+    "SOBnummer": "SOB1809",
     "Omschrijving": "Luchtgekoelde condensor 100-400 kW (OUD)"
   },
   {
-    "Nr.": "SOB1813",
+    "SOBnummer": "SOB1813",
     "Omschrijving": "Condensvat 0-1000 liter"
   },
   {
-    "Nr.": "SOB1814",
+    "SOBnummer": "SOB1814",
     "Omschrijving": "Condensvat 1000-3000 liter"
   },
   {
-    "Nr.": "SOB1815",
+    "SOBnummer": "SOB1815",
     "Omschrijving": "Condenswaterpomp"
   },
   {
-    "Nr.": "SOB1824",
+    "SOBnummer": "SOB1824",
     "Omschrijving": "Expansievat < 50 ltr (GKW)"
   },
   {
-    "Nr.": "SOB1825",
+    "SOBnummer": "SOB1825",
     "Omschrijving": "Expansievat > 50 ltr (GKW)"
   },
   {
-    "Nr.": "SOB1826",
+    "SOBnummer": "SOB1826",
     "Omschrijving": "Fundatiepomp DN 50-100 (GKW)   "
   },
   {
-    "Nr.": "SOB1827",
+    "SOBnummer": "SOB1827",
     "Omschrijving": "GKW-leiding 1 1/2 inch-89 mm"
   },
   {
-    "Nr.": "SOB1828",
+    "SOBnummer": "SOB1828",
     "Omschrijving": "GKW-leiding 3/8 inch-1 1/2 inch"
   },
   {
-    "Nr.": "SOB1829",
+    "SOBnummer": "SOB1829",
     "Omschrijving": "GKW-leiding 89-150 mm"
   },
   {
-    "Nr.": "SOB1830",
+    "SOBnummer": "SOB1830",
     "Omschrijving": "Koelconvector"
   },
   {
-    "Nr.": "SOB1834",
+    "SOBnummer": "SOB1834",
     "Omschrijving": "Koelmachine 100-200 kW chiller (OUD)"
   },
   {
-    "Nr.": "SOB1835",
+    "SOBnummer": "SOB1835",
     "Omschrijving": "Koelmachine 100-200 kW luchtgekoeld (OUD)"
   },
   {
-    "Nr.": "SOB1836",
+    "SOBnummer": "SOB1836",
     "Omschrijving": "Koelmachine 10-25 kW chiller (OUD)"
   },
   {
-    "Nr.": "SOB1837",
+    "SOBnummer": "SOB1837",
     "Omschrijving": "Koelmachine 10-25 kW luchtgekoeld (OUD)"
   },
   {
-    "Nr.": "SOB1838",
+    "SOBnummer": "SOB1838",
     "Omschrijving": "Koelmachine 200-400 kW chiller (OUD)"
   },
   {
-    "Nr.": "SOB1839",
+    "SOBnummer": "SOB1839",
     "Omschrijving": "Koelmachine 200-400 kW chiller (OUD)"
   },
   {
-    "Nr.": "SOB1840",
+    "SOBnummer": "SOB1840",
     "Omschrijving": "Koelmachine 200-400 kW luchtgekoeld (OUD)"
   },
   {
-    "Nr.": "SOB1841",
+    "SOBnummer": "SOB1841",
     "Omschrijving": "Koelmachine 200-400 kW luchtgekoeld (OUD)"
   },
   {
-    "Nr.": "SOB1842",
+    "SOBnummer": "SOB1842",
     "Omschrijving": "Koelmachine 25-50 kW chiller (OUD)"
   },
   {
-    "Nr.": "SOB1843",
+    "SOBnummer": "SOB1843",
     "Omschrijving": "Koelmachine 25-50 kW luchtgekoeld (OUD)"
   },
   {
-    "Nr.": "SOB1844",
+    "SOBnummer": "SOB1844",
     "Omschrijving": "Koelmachine 400-750 kW chiller (OUD)"
   },
   {
-    "Nr.": "SOB1845",
+    "SOBnummer": "SOB1845",
     "Omschrijving": "Koelmachine 400-750 kW luchtgekoeld (OUD)"
   },
   {
-    "Nr.": "SOB1846",
+    "SOBnummer": "SOB1846",
     "Omschrijving": "Koelmachine 50-100 kW chiller (OUD)"
   },
   {
-    "Nr.": "SOB1847",
+    "SOBnummer": "SOB1847",
     "Omschrijving": "Koelmachine 50-100 kW chiller (OUD)"
   },
   {
-    "Nr.": "SOB1848",
+    "SOBnummer": "SOB1848",
     "Omschrijving": "Koelmachine 50-100 kW luchtgekoeld (OUD)"
   },
   {
-    "Nr.": "SOB1849",
+    "SOBnummer": "SOB1849",
     "Omschrijving": "Koelmachine 50-100 kW luchtgekoeld (OUD)"
   },
   {
-    "Nr.": "SOB1850",
+    "SOBnummer": "SOB1850",
     "Omschrijving": "Koelplafond paneel"
   },
   {
-    "Nr.": "SOB1851",
+    "SOBnummer": "SOB1851",
     "Omschrijving": "Koelpomp"
   },
   {
-    "Nr.": "SOB1852",
+    "SOBnummer": "SOB1852",
     "Omschrijving": "Koeltoren, open, counterflow, < 150 m3/hr"
   },
   {
-    "Nr.": "SOB1853",
+    "SOBnummer": "SOB1853",
     "Omschrijving": "Koeltoren, open, counterflow, 150-500 m3/hr"
   },
   {
-    "Nr.": "SOB1854",
+    "SOBnummer": "SOB1854",
     "Omschrijving": "Circulatiepomp DN 50 - 100 (GKW)"
   },
   {
-    "Nr.": "SOB1855",
+    "SOBnummer": "SOB1855",
     "Omschrijving": "Platenwisselaar < 300 kW (Koeling)"
   },
   {
-    "Nr.": "SOB1856",
+    "SOBnummer": "SOB1856",
     "Omschrijving": "Platenwisselaar > 300 kW (Koeling)"
   },
   {
-    "Nr.": "SOB1857",
+    "SOBnummer": "SOB1857",
     "Omschrijving": "Radiator incl. appenages"
   },
   {
-    "Nr.": "SOB1858",
+    "SOBnummer": "SOB1858",
     "Omschrijving": "TSA KW-KW < 300 kW"
   },
   {
-    "Nr.": "SOB1859",
+    "SOBnummer": "SOB1859",
     "Omschrijving": "TSA KW-KW > 300 kW"
   },
   {
-    "Nr.": "SOB1860",
+    "SOBnummer": "SOB1860",
     "Omschrijving": "Verdamper 0-100 kW binnenunit (> 300 kg freon)"
   },
   {
-    "Nr.": "SOB1861",
+    "SOBnummer": "SOB1861",
     "Omschrijving": "Verdamper 0-100 kW binnenunit (30-300 kg freon)"
   },
   {
-    "Nr.": "SOB1862",
+    "SOBnummer": "SOB1862",
     "Omschrijving": "Verdamper 0-100 kW binnenunit (3-30 kg freon)"
   },
   {
-    "Nr.": "SOB1863",
+    "SOBnummer": "SOB1863",
     "Omschrijving": "Verdamper 100-400 kW binnenunit (> 300 kg freon)"
   },
   {
-    "Nr.": "SOB1864",
+    "SOBnummer": "SOB1864",
     "Omschrijving": "Verdamper 100-400 kW binnenunit (30-300 kg freon)"
   },
   {
-    "Nr.": "SOB1865",
+    "SOBnummer": "SOB1865",
     "Omschrijving": "Verdamper 100-400 kW binnenunit (3-30 kg freon)"
   },
   {
-    "Nr.": "SOB1866",
+    "SOBnummer": "SOB1866",
     "Omschrijving": "Verdamper 400-1000 kW binnenunit (> 300 kg freon)"
   },
   {
-    "Nr.": "SOB1867",
+    "SOBnummer": "SOB1867",
     "Omschrijving": "Verdamper 400-1000kW binnenunit (30-300 kg freon)"
   },
   {
-    "Nr.": "SOB1868",
+    "SOBnummer": "SOB1868",
     "Omschrijving": "Verdamper 400-1000 kW binnenunit (3-30 kg freon)"
   },
   {
-    "Nr.": "SOB1869",
+    "SOBnummer": "SOB1869",
     "Omschrijving": "Verdeler 0 - 4 groepen (koelinstallaties)"
   },
   {
-    "Nr.": "SOB1870",
+    "SOBnummer": "SOB1870",
     "Omschrijving": "Verdeler 4-8 groepen (koelinstallaties)"
   },
   {
-    "Nr.": "SOB1871",
+    "SOBnummer": "SOB1871",
     "Omschrijving": "Verdeler 8-12 groepen (koelinstallaties)"
   },
   {
-    "Nr.": "SOB1872",
+    "SOBnummer": "SOB1872",
     "Omschrijving": "Verzamelaar 0 - 4 groepen (koelinstallaties)"
   },
   {
-    "Nr.": "SOB1873",
+    "SOBnummer": "SOB1873",
     "Omschrijving": "Verzamelaar 4-8 groepen (koelinstallaties)"
   },
   {
-    "Nr.": "SOB1874",
+    "SOBnummer": "SOB1874",
     "Omschrijving": "Verzamelaar 8-12 groepen (koelinstallaties)"
   },
   {
-    "Nr.": "SOB1875",
+    "SOBnummer": "SOB1875",
     "Omschrijving": "Vloerkoelingsset < 6 groepen"
   },
   {
-    "Nr.": "SOB1876",
+    "SOBnummer": "SOB1876",
     "Omschrijving": "Vloerkoelingsset > 6 groepen"
   },
   {
-    "Nr.": "SOB1877",
+    "SOBnummer": "SOB1877",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 100-200 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB1878",
+    "SOBnummer": "SOB1878",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 100-200 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB1879",
+    "SOBnummer": "SOB1879",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 10-25 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB1880",
+    "SOBnummer": "SOB1880",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 10-25 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB1881",
+    "SOBnummer": "SOB1881",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 200-400 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB1882",
+    "SOBnummer": "SOB1882",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 200-400 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB1883",
+    "SOBnummer": "SOB1883",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 25-50 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB1884",
+    "SOBnummer": "SOB1884",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 25-50 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB1885",
+    "SOBnummer": "SOB1885",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 400-750 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB1886",
+    "SOBnummer": "SOB1886",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 400-750 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB1887",
+    "SOBnummer": "SOB1887",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 50-100 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB1888",
+    "SOBnummer": "SOB1888",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 50-100 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB1889",
+    "SOBnummer": "SOB1889",
     "Omschrijving": "Afzuig plafondrooster > 600 m3/h"
   },
   {
-    "Nr.": "SOB1890",
+    "SOBnummer": "SOB1890",
     "Omschrijving": "Afzuig plafondrooster 0-600 m3/h"
   },
   {
-    "Nr.": "SOB1891",
+    "SOBnummer": "SOB1891",
     "Omschrijving": "Afzuig wandrooster > 600 m3/h"
   },
   {
-    "Nr.": "SOB1892",
+    "SOBnummer": "SOB1892",
     "Omschrijving": "Afzuig wandrooster 0-600 m3/h"
   },
   {
-    "Nr.": "SOB1893",
+    "SOBnummer": "SOB1893",
     "Omschrijving": "Afzuigkap > 1500 m3/h"
   },
   {
-    "Nr.": "SOB1894",
+    "SOBnummer": "SOB1894",
     "Omschrijving": "Afzuigkap 0-500 m3/h"
   },
   {
-    "Nr.": "SOB1895",
+    "SOBnummer": "SOB1895",
     "Omschrijving": "Afzuigkap 500-1500 m3/h"
   },
   {
-    "Nr.": "SOB1896",
+    "SOBnummer": "SOB1896",
     "Omschrijving": "Afzuigroset"
   },
   {
-    "Nr.": "SOB1897",
+    "SOBnummer": "SOB1897",
     "Omschrijving": "Axiaalventilator 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1898",
+    "SOBnummer": "SOB1898",
     "Omschrijving": "Axiaalventilator 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1899",
+    "SOBnummer": "SOB1899",
     "Omschrijving": "Axiaalventilator 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1900",
+    "SOBnummer": "SOB1900",
     "Omschrijving": "Axiaalventilator 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1901",
+    "SOBnummer": "SOB1901",
     "Omschrijving": "Axiaalventilator 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1902",
+    "SOBnummer": "SOB1902",
     "Omschrijving": "Batterij WW/KW 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1903",
+    "SOBnummer": "SOB1903",
     "Omschrijving": "Batterij WW/KW 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1904",
+    "SOBnummer": "SOB1904",
     "Omschrijving": "Batterij WW/KW 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1905",
+    "SOBnummer": "SOB1905",
     "Omschrijving": "Batterij WW/KW 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1906",
+    "SOBnummer": "SOB1906",
     "Omschrijving": "Batterij WW/KW 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1907",
+    "SOBnummer": "SOB1907",
     "Omschrijving": "Brandklep < 0,25 m2 gemotoriseerd"
   },
   {
-    "Nr.": "SOB1908",
+    "SOBnummer": "SOB1908",
     "Omschrijving": "Brandklep 0,25-0,75 m2 gemotoriseerd"
   },
   {
-    "Nr.": "SOB1909",
+    "SOBnummer": "SOB1909",
     "Omschrijving": "Brandklep > 0,75 m2 gemotoriseerd"
   },
   {
-    "Nr.": "SOB1910",
+    "SOBnummer": "SOB1910",
     "Omschrijving": "Brandklep < 0,25 m2 smeltlood"
   },
   {
-    "Nr.": "SOB1911",
+    "SOBnummer": "SOB1911",
     "Omschrijving": "Brandklep 0,25-0,75 m2 smeltlood"
   },
   {
-    "Nr.": "SOB1912",
+    "SOBnummer": "SOB1912",
     "Omschrijving": "Brandklep > 0,75 m2 smeltlood"
   },
   {
-    "Nr.": "SOB1913",
+    "SOBnummer": "SOB1913",
     "Omschrijving": "Buitenluchtrooster < 1 m2"
   },
   {
-    "Nr.": "SOB1914",
+    "SOBnummer": "SOB1914",
     "Omschrijving": "Buitenluchtrooster > 1 m2"
   },
   {
-    "Nr.": "SOB1915",
+    "SOBnummer": "SOB1915",
     "Omschrijving": "Centrale ventilatiebox (400 m3)"
   },
   {
-    "Nr.": "SOB1916",
+    "SOBnummer": "SOB1916",
     "Omschrijving": "Centrifugaalventilator 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1917",
+    "SOBnummer": "SOB1917",
     "Omschrijving": "Centrifugaalventilator 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1918",
+    "SOBnummer": "SOB1918",
     "Omschrijving": "Centrifugaalventilator 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1919",
+    "SOBnummer": "SOB1919",
     "Omschrijving": "Centrifugaalventilator 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1920",
+    "SOBnummer": "SOB1920",
     "Omschrijving": "Centrifugaalventilator 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1921",
+    "SOBnummer": "SOB1921",
     "Omschrijving": "Dak-/ventilatiekap"
   },
   {
-    "Nr.": "SOB1922",
+    "SOBnummer": "SOB1922",
     "Omschrijving": "Dakventilator 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1923",
+    "SOBnummer": "SOB1923",
     "Omschrijving": "Dakventilator 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1924",
+    "SOBnummer": "SOB1924",
     "Omschrijving": "Dakventilator 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1925",
+    "SOBnummer": "SOB1925",
     "Omschrijving": "Dakventilator 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1926",
+    "SOBnummer": "SOB1926",
     "Omschrijving": "Dakventilator 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1927",
+    "SOBnummer": "SOB1927",
     "Omschrijving": "Geluiddemper 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1928",
+    "SOBnummer": "SOB1928",
     "Omschrijving": "Geluiddemper 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1929",
+    "SOBnummer": "SOB1929",
     "Omschrijving": "Geluiddemper 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1930",
+    "SOBnummer": "SOB1930",
     "Omschrijving": "Geluiddemper 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1931",
+    "SOBnummer": "SOB1931",
     "Omschrijving": "Geluiddemper 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1932",
+    "SOBnummer": "SOB1932",
     "Omschrijving": "Druppelvanger/lekbak LBK 0-10000 m3/h"
   },
   {
-    "Nr.": "SOB1933",
+    "SOBnummer": "SOB1933",
     "Omschrijving": "Druppelvanger/lekbak LBK 10000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1934",
+    "SOBnummer": "SOB1934",
     "Omschrijving": "Druppelvanger/lekbak LBK 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1935",
+    "SOBnummer": "SOB1935",
     "Omschrijving": "Inblaas lijnrooster > 600 m3/h"
   },
   {
-    "Nr.": "SOB1936",
+    "SOBnummer": "SOB1936",
     "Omschrijving": "Inblaas lijnrooster 0-600 m3/h"
   },
   {
-    "Nr.": "SOB1937",
+    "SOBnummer": "SOB1937",
     "Omschrijving": "Inblaas wandrooster > 600 m3/h"
   },
   {
-    "Nr.": "SOB1938",
+    "SOBnummer": "SOB1938",
     "Omschrijving": "Inblaas wandrooster 0-600 m3/h"
   },
   {
-    "Nr.": "SOB1939",
+    "SOBnummer": "SOB1939",
     "Omschrijving": "Inblaas wervelrooster > 600 m3/h"
   },
   {
-    "Nr.": "SOB1940",
+    "SOBnummer": "SOB1940",
     "Omschrijving": "Inblaas wervelroosters 0-600 m3/h"
   },
   {
-    "Nr.": "SOB1941",
+    "SOBnummer": "SOB1941",
     "Omschrijving": "Inductieunit change over"
   },
   {
-    "Nr.": "SOB1942",
+    "SOBnummer": "SOB1942",
     "Omschrijving": "Inductieunit warm- en koudwater"
   },
   {
-    "Nr.": "SOB1943",
+    "SOBnummer": "SOB1943",
     "Omschrijving": "Inductieunit warmwater"
   },
   {
-    "Nr.": "SOB1944",
+    "SOBnummer": "SOB1944",
     "Omschrijving": "Kanaalventilator 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1945",
+    "SOBnummer": "SOB1945",
     "Omschrijving": "Kanaalventilator 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1946",
+    "SOBnummer": "SOB1946",
     "Omschrijving": "Kanaalventilator 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1947",
+    "SOBnummer": "SOB1947",
     "Omschrijving": "Kanaalventilator 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1948",
+    "SOBnummer": "SOB1948",
     "Omschrijving": "Kanaalventilator 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1949",
+    "SOBnummer": "SOB1949",
     "Omschrijving": "Kruisstroomwisselaar"
   },
   {
-    "Nr.": "SOB1950",
+    "SOBnummer": "SOB1950",
     "Omschrijving": "LBK A 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1951",
+    "SOBnummer": "SOB1951",
     "Omschrijving": "LBK A 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1952",
+    "SOBnummer": "SOB1952",
     "Omschrijving": "LBK A 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1953",
+    "SOBnummer": "SOB1953",
     "Omschrijving": "LBK A 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1954",
+    "SOBnummer": "SOB1954",
     "Omschrijving": "LBK A 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1955",
+    "SOBnummer": "SOB1955",
     "Omschrijving": "LBK AW 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1956",
+    "SOBnummer": "SOB1956",
     "Omschrijving": "LBK AW 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1957",
+    "SOBnummer": "SOB1957",
     "Omschrijving": "LBK AW 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1958",
+    "SOBnummer": "SOB1958",
     "Omschrijving": "LBK AW 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1959",
+    "SOBnummer": "SOB1959",
     "Omschrijving": "LBK AW 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1960",
+    "SOBnummer": "SOB1960",
     "Omschrijving": "LBK T 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1961",
+    "SOBnummer": "SOB1961",
     "Omschrijving": "LBK T 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1962",
+    "SOBnummer": "SOB1962",
     "Omschrijving": "LBK T 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1963",
+    "SOBnummer": "SOB1963",
     "Omschrijving": "LBK T 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1964",
+    "SOBnummer": "SOB1964",
     "Omschrijving": "LBK T 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1965",
+    "SOBnummer": "SOB1965",
     "Omschrijving": "LBK TAV 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1966",
+    "SOBnummer": "SOB1966",
     "Omschrijving": "LBK TAV 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1967",
+    "SOBnummer": "SOB1967",
     "Omschrijving": "LBK TAV 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1968",
+    "SOBnummer": "SOB1968",
     "Omschrijving": "LBK TAV 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1969",
+    "SOBnummer": "SOB1969",
     "Omschrijving": "LBK TAV 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1970",
+    "SOBnummer": "SOB1970",
     "Omschrijving": "LBK TAVK 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1971",
+    "SOBnummer": "SOB1971",
     "Omschrijving": "LBK TAVK 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1972",
+    "SOBnummer": "SOB1972",
     "Omschrijving": "LBK TAVK 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1973",
+    "SOBnummer": "SOB1973",
     "Omschrijving": "LBK TAVK 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1974",
+    "SOBnummer": "SOB1974",
     "Omschrijving": "LBK TAVK 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1975",
+    "SOBnummer": "SOB1975",
     "Omschrijving": "LBK TAVKB 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1976",
+    "SOBnummer": "SOB1976",
     "Omschrijving": "LBK TAVKB 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1977",
+    "SOBnummer": "SOB1977",
     "Omschrijving": "LBK TAVKB 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1978",
+    "SOBnummer": "SOB1978",
     "Omschrijving": "LBK TAVKB 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1979",
+    "SOBnummer": "SOB1979",
     "Omschrijving": "LBK TAVKB 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1980",
+    "SOBnummer": "SOB1980",
     "Omschrijving": "LBK TAVKBW 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1981",
+    "SOBnummer": "SOB1981",
     "Omschrijving": "LBK TAVKBW 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1982",
+    "SOBnummer": "SOB1982",
     "Omschrijving": "LBK TAVKBW 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1983",
+    "SOBnummer": "SOB1983",
     "Omschrijving": "LBK TAVKBW 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1984",
+    "SOBnummer": "SOB1984",
     "Omschrijving": "LBK TAVKBW 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1985",
+    "SOBnummer": "SOB1985",
     "Omschrijving": "LBK TV 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1986",
+    "SOBnummer": "SOB1986",
     "Omschrijving": "LBK TV 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1987",
+    "SOBnummer": "SOB1987",
     "Omschrijving": "LBK TV 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1988",
+    "SOBnummer": "SOB1988",
     "Omschrijving": "LBK TV 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1989",
+    "SOBnummer": "SOB1989",
     "Omschrijving": "LBK TV 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1990",
+    "SOBnummer": "SOB1990",
     "Omschrijving": "LBK TVK 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1991",
+    "SOBnummer": "SOB1991",
     "Omschrijving": "LBK TVK 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1992",
+    "SOBnummer": "SOB1992",
     "Omschrijving": "LBK TVK 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1993",
+    "SOBnummer": "SOB1993",
     "Omschrijving": "LBK TVK 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1994",
+    "SOBnummer": "SOB1994",
     "Omschrijving": "LBK TVK 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB1995",
+    "SOBnummer": "SOB1995",
     "Omschrijving": "LBK TVKB 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB1996",
+    "SOBnummer": "SOB1996",
     "Omschrijving": "LBK TVKB 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB1997",
+    "SOBnummer": "SOB1997",
     "Omschrijving": "LBK TVKB 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB1998",
+    "SOBnummer": "SOB1998",
     "Omschrijving": "LBK TVKB 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB1999",
+    "SOBnummer": "SOB1999",
     "Omschrijving": "LBK TVKB 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB2000",
+    "SOBnummer": "SOB2000",
     "Omschrijving": "LBK TVKBW 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB2001",
+    "SOBnummer": "SOB2001",
     "Omschrijving": "LBK TVKBW 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB2002",
+    "SOBnummer": "SOB2002",
     "Omschrijving": "LBK TVKBW 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB2003",
+    "SOBnummer": "SOB2003",
     "Omschrijving": "LBK TVKBW 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB2004",
+    "SOBnummer": "SOB2004",
     "Omschrijving": "LBK TVKBW 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB2005",
+    "SOBnummer": "SOB2005",
     "Omschrijving": "Luchtbehandelingskast compleet < 2500 m3/h"
   },
   {
-    "Nr.": "SOB2006",
+    "SOBnummer": "SOB2006",
     "Omschrijving": "Luchtbehandelingskast compleet > 50000 m3/h"
   },
   {
-    "Nr.": "SOB2007",
+    "SOBnummer": "SOB2007",
     "Omschrijving": "Luchtbehandelingskast compleet 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB2008",
+    "SOBnummer": "SOB2008",
     "Omschrijving": "Luchtbehandelingskast compleet 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB2009",
+    "SOBnummer": "SOB2009",
     "Omschrijving": "Luchtbehandelingskast compleet 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB2010",
+    "SOBnummer": "SOB2010",
     "Omschrijving": "Luchtbehandelingskast compleet 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB2011",
+    "SOBnummer": "SOB2011",
     "Omschrijving": "Luchtdroger 0-250 m3/h"
   },
   {
-    "Nr.": "SOB2012",
+    "SOBnummer": "SOB2012",
     "Omschrijving": "Luchtdroger 250-750 m3/h"
   },
   {
-    "Nr.": "SOB2013",
+    "SOBnummer": "SOB2013",
     "Omschrijving": "Luchtdroger 750-1500 m3/h"
   },
   {
-    "Nr.": "SOB2014",
+    "SOBnummer": "SOB2014",
     "Omschrijving": "Luchtfilters"
   },
   {
-    "Nr.": "SOB2015",
+    "SOBnummer": "SOB2015",
     "Omschrijving": "Luchtkanaal geisoleerd"
   },
   {
-    "Nr.": "SOB2016",
+    "SOBnummer": "SOB2016",
     "Omschrijving": "Luchtkanaal ongeisoleerd"
   },
   {
-    "Nr.": "SOB2017",
+    "SOBnummer": "SOB2017",
     "Omschrijving": "Luchtklep > 5 m2"
   },
   {
-    "Nr.": "SOB2018",
+    "SOBnummer": "SOB2018",
     "Omschrijving": "Luchtklep 0-2 m2"
   },
   {
-    "Nr.": "SOB2019",
+    "SOBnummer": "SOB2019",
     "Omschrijving": "Luchtklep 2-5 m2"
   },
   {
-    "Nr.": "SOB2020",
+    "SOBnummer": "SOB2020",
     "Omschrijving": "Luchtkoelers"
   },
   {
-    "Nr.": "SOB2021",
+    "SOBnummer": "SOB2021",
     "Omschrijving": "Luchtreiniger 0-500 m3/h"
   },
   {
-    "Nr.": "SOB2022",
+    "SOBnummer": "SOB2022",
     "Omschrijving": "Luchtreiniger 1500-3000 m3/h"
   },
   {
-    "Nr.": "SOB2023",
+    "SOBnummer": "SOB2023",
     "Omschrijving": "Luchtreiniger 500-1500 m3/h"
   },
   {
-    "Nr.": "SOB2024",
+    "SOBnummer": "SOB2024",
     "Omschrijving": "Luchtverdeelslang"
   },
   {
-    "Nr.": "SOB2025",
+    "SOBnummer": "SOB2025",
     "Omschrijving": "Luchtwasser 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB2026",
+    "SOBnummer": "SOB2026",
     "Omschrijving": "Luchtwasser 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB2027",
+    "SOBnummer": "SOB2027",
     "Omschrijving": "Luchtwasser 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB2028",
+    "SOBnummer": "SOB2028",
     "Omschrijving": "Luchtwasser 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB2029",
+    "SOBnummer": "SOB2029",
     "Omschrijving": "Luchtwasser 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB2030",
+    "SOBnummer": "SOB2030",
     "Omschrijving": "Muur/deurrooster"
   },
   {
-    "Nr.": "SOB2031",
+    "SOBnummer": "SOB2031",
     "Omschrijving": "Naverwarmer elektrisch > 5 kW"
   },
   {
-    "Nr.": "SOB2032",
+    "SOBnummer": "SOB2032",
     "Omschrijving": "Naverwarmer elektrisch 0-5 kW"
   },
   {
-    "Nr.": "SOB2033",
+    "SOBnummer": "SOB2033",
     "Omschrijving": "Puntafzuiging"
   },
   {
-    "Nr.": "SOB2034",
+    "SOBnummer": "SOB2034",
     "Omschrijving": "Recirculatie unit"
   },
   {
-    "Nr.": "SOB2035",
+    "SOBnummer": "SOB2035",
     "Omschrijving": "Stoombevochtiger elektrisch 0-50 kg/h"
   },
   {
-    "Nr.": "SOB2036",
+    "SOBnummer": "SOB2036",
     "Omschrijving": "Stoombevochtiger elektrisch 100-200 kg/h"
   },
   {
-    "Nr.": "SOB2037",
+    "SOBnummer": "SOB2037",
     "Omschrijving": "Stoombevochtiger elektrisch 50-100 kg/h"
   },
   {
-    "Nr.": "SOB2038",
+    "SOBnummer": "SOB2038",
     "Omschrijving": "Stoombevochtiger, aardgasgestookt, 0-50 kg/h, < 100kW"
   },
   {
-    "Nr.": "SOB2039",
+    "SOBnummer": "SOB2039",
     "Omschrijving": "Stoombevochtiger, aardgasgestookt, 100-200 kg/h, > 100kW"
   },
   {
-    "Nr.": "SOB2040",
+    "SOBnummer": "SOB2040",
     "Omschrijving": "Stoombevochtiger, aardgasgestookt, 50-100 kg/h, < 100kW"
   },
   {
-    "Nr.": "SOB2041",
+    "SOBnummer": "SOB2041",
     "Omschrijving": "Stoombevochtiger op stoomleiding 0-100 kg/h"
   },
   {
-    "Nr.": "SOB2042",
+    "SOBnummer": "SOB2042",
     "Omschrijving": "Stoombevochtiger op stoomleiding 100-200 kg/h"
   },
   {
-    "Nr.": "SOB2043",
+    "SOBnummer": "SOB2043",
     "Omschrijving": "Ultrasoonbevochtiger 0-50 kg/h"
   },
   {
-    "Nr.": "SOB2044",
+    "SOBnummer": "SOB2044",
     "Omschrijving": "Ultrasoonbevochtiger 100-200 kg/h"
   },
   {
-    "Nr.": "SOB2045",
+    "SOBnummer": "SOB2045",
     "Omschrijving": "Ultrasoonbevochtiger 50-100 kg/h"
   },
   {
-    "Nr.": "SOB2046",
+    "SOBnummer": "SOB2046",
     "Omschrijving": "Variabele volume box"
   },
   {
-    "Nr.": "SOB2047",
+    "SOBnummer": "SOB2047",
     "Omschrijving": "Ventilator 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB2048",
+    "SOBnummer": "SOB2048",
     "Omschrijving": "Ventilator 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB2049",
+    "SOBnummer": "SOB2049",
     "Omschrijving": "Ventilator 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB2050",
+    "SOBnummer": "SOB2050",
     "Omschrijving": "Ventilator 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB2051",
+    "SOBnummer": "SOB2051",
     "Omschrijving": "Ventilator 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB2052",
+    "SOBnummer": "SOB2052",
     "Omschrijving": "Ventilatorconvector/fancoilunit"
   },
   {
-    "Nr.": "SOB2053",
+    "SOBnummer": "SOB2053",
     "Omschrijving": "V-snaren"
   },
   {
-    "Nr.": "SOB2054",
+    "SOBnummer": "SOB2054",
     "Omschrijving": "Warmtewiel"
   },
   {
-    "Nr.": "SOB2055",
+    "SOBnummer": "SOB2055",
     "Omschrijving": "Warmtewiel LBK 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB2056",
+    "SOBnummer": "SOB2056",
     "Omschrijving": "Warmtewiel LBK 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB2057",
+    "SOBnummer": "SOB2057",
     "Omschrijving": "Warmtewiel LBK 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB2058",
+    "SOBnummer": "SOB2058",
     "Omschrijving": "Warmtewiel LBK 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB2059",
+    "SOBnummer": "SOB2059",
     "Omschrijving": "Warmtewiel LBK 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB2060",
+    "SOBnummer": "SOB2060",
     "Omschrijving": "WTW unit"
   },
   {
-    "Nr.": "SOB2062",
+    "SOBnummer": "SOB2062",
     "Omschrijving": "Medisch gas"
   },
   {
-    "Nr.": "SOB2063",
+    "SOBnummer": "SOB2063",
     "Omschrijving": "2-3 wegregelklep < DN 50, incl. servomotor (CV)"
   },
   {
-    "Nr.": "SOB2064",
+    "SOBnummer": "SOB2064",
     "Omschrijving": "2-3 wegregelklep DN 100-150, incl. servomotor (CV)"
   },
   {
-    "Nr.": "SOB2065",
+    "SOBnummer": "SOB2065",
     "Omschrijving": "2-3 wegregelklep DN 50-100, incl. servomotor (CV)"
   },
   {
-    "Nr.": "SOB2066",
+    "SOBnummer": "SOB2066",
     "Omschrijving": "Aanwijsinstrument"
   },
   {
-    "Nr.": "SOB2067",
+    "SOBnummer": "SOB2067",
     "Omschrijving": "Bekabeling/meter"
   },
   {
-    "Nr.": "SOB2068",
+    "SOBnummer": "SOB2068",
     "Omschrijving": "Detectie-instrument"
   },
   {
-    "Nr.": "SOB2069",
+    "SOBnummer": "SOB2069",
     "Omschrijving": "Elektra verbruiksmeter"
   },
   {
-    "Nr.": "SOB2070",
+    "SOBnummer": "SOB2070",
     "Omschrijving": "Frequentieregelaar"
   },
   {
-    "Nr.": "SOB2071",
+    "SOBnummer": "SOB2071",
     "Omschrijving": "Gas verbruiksmeter 100-200 mm"
   },
   {
-    "Nr.": "SOB2072",
+    "SOBnummer": "SOB2072",
     "Omschrijving": "Gas verbruiksmeter 50-100 mm"
   },
   {
-    "Nr.": "SOB2073",
+    "SOBnummer": "SOB2073",
     "Omschrijving": "Gas verbruiksmeter 3/8- 2"
   },
   {
-    "Nr.": "SOB2074",
+    "SOBnummer": "SOB2074",
     "Omschrijving": "Heattracing"
   },
   {
-    "Nr.": "SOB2075",
+    "SOBnummer": "SOB2075",
     "Omschrijving": "Meet- en regelinstallatie"
   },
   {
-    "Nr.": "SOB2076",
+    "SOBnummer": "SOB2076",
     "Omschrijving": "Meet- en testapparatuur"
   },
   {
-    "Nr.": "SOB2077",
+    "SOBnummer": "SOB2077",
     "Omschrijving": "Regelkast > 10 regelkringen"
   },
   {
-    "Nr.": "SOB2078",
+    "SOBnummer": "SOB2078",
     "Omschrijving": "Regelkast 0-2 regelkringen"
   },
   {
-    "Nr.": "SOB2079",
+    "SOBnummer": "SOB2079",
     "Omschrijving": "Regelkast 10 regelkringen"
   },
   {
-    "Nr.": "SOB2080",
+    "SOBnummer": "SOB2080",
     "Omschrijving": "Regelkast 3 regelkringen"
   },
   {
-    "Nr.": "SOB2081",
+    "SOBnummer": "SOB2081",
     "Omschrijving": "Regelkast 4 regelkringen"
   },
   {
-    "Nr.": "SOB2082",
+    "SOBnummer": "SOB2082",
     "Omschrijving": "Regelkast 5 regelkringen"
   },
   {
-    "Nr.": "SOB2083",
+    "SOBnummer": "SOB2083",
     "Omschrijving": "Regelkast 6 regelkringen"
   },
   {
-    "Nr.": "SOB2084",
+    "SOBnummer": "SOB2084",
     "Omschrijving": "Regelkast 7 regelkringen"
   },
   {
-    "Nr.": "SOB2085",
+    "SOBnummer": "SOB2085",
     "Omschrijving": "Regelkast 8 regelkringen"
   },
   {
-    "Nr.": "SOB2086",
+    "SOBnummer": "SOB2086",
     "Omschrijving": "Regelkast 9 regelkringen"
   },
   {
-    "Nr.": "SOB2087",
+    "SOBnummer": "SOB2087",
     "Omschrijving": "Regelkring"
   },
   {
-    "Nr.": "SOB2088",
+    "SOBnummer": "SOB2088",
     "Omschrijving": "Registratie-instrument"
   },
   {
-    "Nr.": "SOB2089",
+    "SOBnummer": "SOB2089",
     "Omschrijving": "Veldapparatuur"
   },
   {
-    "Nr.": "SOB2090",
+    "SOBnummer": "SOB2090",
     "Omschrijving": "Warmte verbruiksmeter 100-200 mm"
   },
   {
-    "Nr.": "SOB2091",
+    "SOBnummer": "SOB2091",
     "Omschrijving": "Warmte verbruiksmeter 50-100 mm"
   },
   {
-    "Nr.": "SOB2092",
+    "SOBnummer": "SOB2092",
     "Omschrijving": "Warmte verbruiksmeter 3/8-2 inch"
   },
   {
-    "Nr.": "SOB2093",
+    "SOBnummer": "SOB2093",
     "Omschrijving": "Water verbruiksmeter 100-200 mm"
   },
   {
-    "Nr.": "SOB2094",
+    "SOBnummer": "SOB2094",
     "Omschrijving": "Water verbruiksmeter 50-100 mm"
   },
   {
-    "Nr.": "SOB2095",
+    "SOBnummer": "SOB2095",
     "Omschrijving": "Water verbruiksmeter 3/8-2 inch"
   },
   {
-    "Nr.": "SOB2097",
+    "SOBnummer": "SOB2097",
     "Omschrijving": "Dynamische no-break"
   },
   {
-    "Nr.": "SOB2098",
+    "SOBnummer": "SOB2098",
     "Omschrijving": "NSA"
   },
   {
-    "Nr.": "SOB2099",
+    "SOBnummer": "SOB2099",
     "Omschrijving": "NSA < 20 kW (geen verplichte inspecties)"
   },
   {
-    "Nr.": "SOB2100",
+    "SOBnummer": "SOB2100",
     "Omschrijving": "NSA > 100 kW"
   },
   {
-    "Nr.": "SOB2101",
+    "SOBnummer": "SOB2101",
     "Omschrijving": "NSA 20-100 kW"
   },
   {
-    "Nr.": "SOB2102",
+    "SOBnummer": "SOB2102",
     "Omschrijving": "NSA Brandstof dagtank bovengronds"
   },
   {
-    "Nr.": "SOB2103",
+    "SOBnummer": "SOB2103",
     "Omschrijving": "Statische no-break"
   },
   {
-    "Nr.": "SOB2104",
+    "SOBnummer": "SOB2104",
     "Omschrijving": "UPS < 5 KVA"
   },
   {
-    "Nr.": "SOB2105",
+    "SOBnummer": "SOB2105",
     "Omschrijving": "UPS > 100 kVA"
   },
   {
-    "Nr.": "SOB2106",
+    "SOBnummer": "SOB2106",
     "Omschrijving": "UPS 40 kVA - 80 kVA"
   },
   {
-    "Nr.": "SOB2107",
+    "SOBnummer": "SOB2107",
     "Omschrijving": "UPS 5 kVA - 40 kVA"
   },
   {
-    "Nr.": "SOB2108",
+    "SOBnummer": "SOB2108",
     "Omschrijving": "UPS 80 kVA - 100 kVA"
   },
   {
-    "Nr.": "SOB2109",
+    "SOBnummer": "SOB2109",
     "Omschrijving": "Dakrandbeveiliging"
   },
   {
-    "Nr.": "SOB2110",
+    "SOBnummer": "SOB2110",
     "Omschrijving": "Valbeveiliging dak"
   },
   {
-    "Nr.": "SOB2111",
+    "SOBnummer": "SOB2111",
     "Omschrijving": "Valbeveiliging harnas"
   },
   {
-    "Nr.": "SOB2112",
+    "SOBnummer": "SOB2112",
     "Omschrijving": "Buffervat"
   },
   {
-    "Nr.": "SOB2113",
+    "SOBnummer": "SOB2113",
     "Omschrijving": "Compressor"
   },
   {
-    "Nr.": "SOB2114",
+    "SOBnummer": "SOB2114",
     "Omschrijving": "Koper leiding 100-200 mm"
   },
   {
-    "Nr.": "SOB2115",
+    "SOBnummer": "SOB2115",
     "Omschrijving": "Koper leiding 12-60 mm"
   },
   {
-    "Nr.": "SOB2116",
+    "SOBnummer": "SOB2116",
     "Omschrijving": "Koper leiding 60-100 mm"
   },
   {
-    "Nr.": "SOB2117",
+    "SOBnummer": "SOB2117",
     "Omschrijving": "Stalen leiding 1 1/2 inch-89 mm"
   },
   {
-    "Nr.": "SOB2118",
+    "SOBnummer": "SOB2118",
     "Omschrijving": "Stalen leiding 3/8 inch-1 1/2 inch"
   },
   {
-    "Nr.": "SOB2119",
+    "SOBnummer": "SOB2119",
     "Omschrijving": "Stalen leiding 89-150 mm"
   },
   {
-    "Nr.": "SOB2120",
+    "SOBnummer": "SOB2120",
     "Omschrijving": "Vacuumpomp"
   },
   {
-    "Nr.": "SOB2121",
+    "SOBnummer": "SOB2121",
     "Omschrijving": "Pompput < 10 m3/h (binnenriool)"
   },
   {
-    "Nr.": "SOB2122",
+    "SOBnummer": "SOB2122",
     "Omschrijving": "Pompput 10-25 m3/h (binnenriool)"
   },
   {
-    "Nr.": "SOB2123",
+    "SOBnummer": "SOB2123",
     "Omschrijving": "Pompput 25-50 m3/h (binnenriool)"
   },
   {
-    "Nr.": "SOB2124",
+    "SOBnummer": "SOB2124",
     "Omschrijving": "Rioolwaterpomp < 10 m3/h"
   },
   {
-    "Nr.": "SOB2125",
+    "SOBnummer": "SOB2125",
     "Omschrijving": "Rioolwaterpomp 10-25 m3/h"
   },
   {
-    "Nr.": "SOB2126",
+    "SOBnummer": "SOB2126",
     "Omschrijving": "Rioolwaterpomp 25-50 m3/h"
   },
   {
-    "Nr.": "SOB2127",
+    "SOBnummer": "SOB2127",
     "Omschrijving": "Aanrecht"
   },
   {
-    "Nr.": "SOB2128",
+    "SOBnummer": "SOB2128",
     "Omschrijving": "Aanrecht + gootsteen"
   },
   {
-    "Nr.": "SOB2129",
+    "SOBnummer": "SOB2129",
     "Omschrijving": "Afvoer/doucheplug"
   },
   {
-    "Nr.": "SOB2130",
+    "SOBnummer": "SOB2130",
     "Omschrijving": "Armatuur/kraan"
   },
   {
-    "Nr.": "SOB2131",
+    "SOBnummer": "SOB2131",
     "Omschrijving": "Badcombinatie"
   },
   {
-    "Nr.": "SOB2132",
+    "SOBnummer": "SOB2132",
     "Omschrijving": "Bidetcombinatie"
   },
   {
-    "Nr.": "SOB2133",
+    "SOBnummer": "SOB2133",
     "Omschrijving": "Closetpotcombinatie"
   },
   {
-    "Nr.": "SOB2134",
+    "SOBnummer": "SOB2134",
     "Omschrijving": "Douchecombinatie"
   },
   {
-    "Nr.": "SOB2135",
+    "SOBnummer": "SOB2135",
     "Omschrijving": "Fonteincombinatie"
   },
   {
-    "Nr.": "SOB2136",
+    "SOBnummer": "SOB2136",
     "Omschrijving": "Gootsteencombinatie"
   },
   {
-    "Nr.": "SOB2137",
+    "SOBnummer": "SOB2137",
     "Omschrijving": "Laboratoriumkraan"
   },
   {
-    "Nr.": "SOB2138",
+    "SOBnummer": "SOB2138",
     "Omschrijving": "Mengarmatuur/kraan"
   },
   {
-    "Nr.": "SOB2140",
+    "SOBnummer": "SOB2140",
     "Omschrijving": "Oogdouche"
   },
   {
-    "Nr.": "SOB2141",
+    "SOBnummer": "SOB2141",
     "Omschrijving": "Sanitaire toestel algemeen"
   },
   {
-    "Nr.": "SOB2142",
+    "SOBnummer": "SOB2142",
     "Omschrijving": "Spoelbak"
   },
   {
-    "Nr.": "SOB2143",
+    "SOBnummer": "SOB2143",
     "Omschrijving": "Uitloper"
   },
   {
-    "Nr.": "SOB2144",
+    "SOBnummer": "SOB2144",
     "Omschrijving": "Uitstortgootsteencombinatie"
   },
   {
-    "Nr.": "SOB2145",
+    "SOBnummer": "SOB2145",
     "Omschrijving": "Urinoircombinatie"
   },
   {
-    "Nr.": "SOB2146",
+    "SOBnummer": "SOB2146",
     "Omschrijving": "Wasfonteincombinatie"
   },
   {
-    "Nr.": "SOB2147",
+    "SOBnummer": "SOB2147",
     "Omschrijving": "Wastafelcombinatie"
   },
   {
-    "Nr.": "SOB2148",
+    "SOBnummer": "SOB2148",
     "Omschrijving": "Wastrogcombinatie"
   },
   {
-    "Nr.": "SOB2149",
+    "SOBnummer": "SOB2149",
     "Omschrijving": "Zeep doseerinstallatie"
   },
   {
-    "Nr.": "SOB2150",
+    "SOBnummer": "SOB2150",
     "Omschrijving": "Deurmagneet"
   },
   {
-    "Nr.": "SOB2151",
+    "SOBnummer": "SOB2151",
     "Omschrijving": "Mechanisch bewogen deur"
   },
   {
-    "Nr.": "SOB2152",
+    "SOBnummer": "SOB2152",
     "Omschrijving": "Metalen poort / hek (elektrisch)"
   },
   {
-    "Nr.": "SOB2153",
+    "SOBnummer": "SOB2153",
     "Omschrijving": "Slagboom"
   },
   {
-    "Nr.": "SOB2154",
+    "SOBnummer": "SOB2154",
     "Omschrijving": "Buispost installatie"
   },
   {
-    "Nr.": "SOB2155",
+    "SOBnummer": "SOB2155",
     "Omschrijving": "Hef-/hijswerktuig"
   },
   {
-    "Nr.": "SOB2156",
+    "SOBnummer": "SOB2156",
     "Omschrijving": "Personen- en goederenlift"
   },
   {
-    "Nr.": "SOB2157",
+    "SOBnummer": "SOB2157",
     "Omschrijving": "Roltrap"
   },
   {
-    "Nr.": "SOB2158",
+    "SOBnummer": "SOB2158",
     "Omschrijving": "Verrijdbare gevelladderinstallatie"
   },
   {
-    "Nr.": "SOB2159",
+    "SOBnummer": "SOB2159",
     "Omschrijving": "Verrijdbare hangstijger/gondel"
   },
   {
-    "Nr.": "SOB2160",
+    "SOBnummer": "SOB2160",
     "Omschrijving": "Vaste gebruiksvoorzieningen"
   },
   {
-    "Nr.": "SOB2161",
+    "SOBnummer": "SOB2161",
     "Omschrijving": "Vaste keukenvoorzieningen"
   },
   {
-    "Nr.": "SOB2162",
+    "SOBnummer": "SOB2162",
     "Omschrijving": "Vaste onderhoudsvoorzieningen"
   },
   {
-    "Nr.": "SOB2163",
+    "SOBnummer": "SOB2163",
     "Omschrijving": "Vaste opslagvoorzieningen"
   },
   {
-    "Nr.": "SOB2164",
+    "SOBnummer": "SOB2164",
     "Omschrijving": "Vaste sanitaire voorzieningen"
   },
   {
-    "Nr.": "SOB2165",
+    "SOBnummer": "SOB2165",
     "Omschrijving": "Vaste verkeersvoorzieningen"
   },
   {
-    "Nr.": "SOB2166",
+    "SOBnummer": "SOB2166",
     "Omschrijving": "Afvoerleiding, kunststof < 80 mm (Vuilwater)"
   },
   {
-    "Nr.": "SOB2167",
+    "SOBnummer": "SOB2167",
     "Omschrijving": "Afvoerleiding, kunststof 150-250 mm (Vuilwater)"
   },
   {
-    "Nr.": "SOB2168",
+    "SOBnummer": "SOB2168",
     "Omschrijving": "Afvoerleiding, kunststof 80-150 mm (Vuilwater)"
   },
   {
-    "Nr.": "SOB2169",
+    "SOBnummer": "SOB2169",
     "Omschrijving": "Vuilwaterpomp < 10 m3/h"
   },
   {
-    "Nr.": "SOB2170",
+    "SOBnummer": "SOB2170",
     "Omschrijving": "Vuilwaterpomp 10-25 m3/h"
   },
   {
-    "Nr.": "SOB2171",
+    "SOBnummer": "SOB2171",
     "Omschrijving": "Vuilwaterpomp 25-50 m3/h"
   },
   {
-    "Nr.": "SOB2172",
+    "SOBnummer": "SOB2172",
     "Omschrijving": "Alu schoorsteen"
   },
   {
-    "Nr.": "SOB2173",
+    "SOBnummer": "SOB2173",
     "Omschrijving": "Badgeiser groot"
   },
   {
-    "Nr.": "SOB2174",
+    "SOBnummer": "SOB2174",
     "Omschrijving": "Badgeiser klein"
   },
   {
-    "Nr.": "SOB2175",
+    "SOBnummer": "SOB2175",
     "Omschrijving": "Bouwk. schoorsteen ketels < 660 kW < 5 mtr"
   },
   {
-    "Nr.": "SOB2176",
+    "SOBnummer": "SOB2176",
     "Omschrijving": "Bouwk. schoorsteen ketels < 660 kW > 5 mtr"
   },
   {
-    "Nr.": "SOB2177",
+    "SOBnummer": "SOB2177",
     "Omschrijving": "Bouwk. schoorsteen ketels > 660 kW < 5 mtr"
   },
   {
-    "Nr.": "SOB2178",
+    "SOBnummer": "SOB2178",
     "Omschrijving": "Bouwk. schoorsteen ketels > 660 kW > 5 mtr"
   },
   {
-    "Nr.": "SOB2179",
+    "SOBnummer": "SOB2179",
     "Omschrijving": "Buffervat < 50 ltr"
   },
   {
-    "Nr.": "SOB2180",
+    "SOBnummer": "SOB2180",
     "Omschrijving": "Buffervat > 500 ltr"
   },
   {
-    "Nr.": "SOB2181",
+    "SOBnummer": "SOB2181",
     "Omschrijving": "Buffervat 100-250 ltr"
   },
   {
-    "Nr.": "SOB2182",
+    "SOBnummer": "SOB2182",
     "Omschrijving": "Buffervat 250-500 ltr"
   },
   {
-    "Nr.": "SOB2183",
+    "SOBnummer": "SOB2183",
     "Omschrijving": "Buffervat 50-100 ltr"
   },
   {
-    "Nr.": "SOB2184",
+    "SOBnummer": "SOB2184",
     "Omschrijving": "Buisradiator"
   },
   {
-    "Nr.": "SOB2185",
+    "SOBnummer": "SOB2185",
     "Omschrijving": "Convector, wand/staand"
   },
   {
-    "Nr.": "SOB2186",
+    "SOBnummer": "SOB2186",
     "Omschrijving": "Convector"
   },
   {
-    "Nr.": "SOB2187",
+    "SOBnummer": "SOB2187",
     "Omschrijving": "Convector, in put"
   },
   {
-    "Nr.": "SOB2205",
+    "SOBnummer": "SOB2205",
     "Omschrijving": "CV-ketel, aardgasgestookt, < 100 kW"
   },
   {
-    "Nr.": "SOB2206",
+    "SOBnummer": "SOB2206",
     "Omschrijving": "CV-ketel, aardgasgestookt, 900-2500 kW"
   },
   {
-    "Nr.": "SOB2207",
+    "SOBnummer": "SOB2207",
     "Omschrijving": "CV-ketel, aardgasgestookt, 100-300 kW"
   },
   {
-    "Nr.": "SOB2208",
+    "SOBnummer": "SOB2208",
     "Omschrijving": "CV-ketel, aardgasgestookt, 300-660 kW"
   },
   {
-    "Nr.": "SOB2209",
+    "SOBnummer": "SOB2209",
     "Omschrijving": "CV-ketel, aardgasgestookt, 660-900 kW"
   },
   {
-    "Nr.": "SOB2210",
+    "SOBnummer": "SOB2210",
     "Omschrijving": "CV-leiding 1 1/2 inch-89 mm"
   },
   {
-    "Nr.": "SOB2211",
+    "SOBnummer": "SOB2211",
     "Omschrijving": "CV-leiding 3/8 inch-1 1/2 inch"
   },
   {
-    "Nr.": "SOB2212",
+    "SOBnummer": "SOB2212",
     "Omschrijving": "CV-leiding 89-150 mm"
   },
   {
-    "Nr.": "SOB2213",
+    "SOBnummer": "SOB2213",
     "Omschrijving": "Expansieautomaat < 200 ltr (CV)"
   },
   {
-    "Nr.": "SOB2214",
+    "SOBnummer": "SOB2214",
     "Omschrijving": "Expansieautomaat 200 - 400 ltr (CV)"
   },
   {
-    "Nr.": "SOB2215",
+    "SOBnummer": "SOB2215",
     "Omschrijving": "Expansievat < 50 ltr (CV)"
   },
   {
-    "Nr.": "SOB2216",
+    "SOBnummer": "SOB2216",
     "Omschrijving": "Expansievat > 500 ltr (CV)"
   },
   {
-    "Nr.": "SOB2217",
+    "SOBnummer": "SOB2217",
     "Omschrijving": "Expansievat 100-250 ltr (CV)"
   },
   {
-    "Nr.": "SOB2218",
+    "SOBnummer": "SOB2218",
     "Omschrijving": "Expansievat 250-500 ltr (CV)"
   },
   {
-    "Nr.": "SOB2219",
+    "SOBnummer": "SOB2219",
     "Omschrijving": "Expansievat 50-100 ltr (CV)"
   },
   {
-    "Nr.": "SOB2220",
+    "SOBnummer": "SOB2220",
     "Omschrijving": "Fundatiepomp DN 50-100 (CV)   "
   },
   {
-    "Nr.": "SOB2221",
+    "SOBnummer": "SOB2221",
     "Omschrijving": "Voorzetbrander (VZB), aardgasgestookt, < 100 kW"
   },
   {
-    "Nr.": "SOB2222",
+    "SOBnummer": "SOB2222",
     "Omschrijving": "Voorzetbrander (VZB), aardgasgestookt, 100-300 kW"
   },
   {
-    "Nr.": "SOB2223",
+    "SOBnummer": "SOB2223",
     "Omschrijving": "Voorzetbrander (VZB), aardgasgestookt, 300-660 kW"
   },
   {
-    "Nr.": "SOB2224",
+    "SOBnummer": "SOB2224",
     "Omschrijving": "Voorzetbrander (VZB), aardgasgestookt, 660-900 kW"
   },
   {
-    "Nr.": "SOB2225",
+    "SOBnummer": "SOB2225",
     "Omschrijving": "Voorzetbrander (VZB), aardgasgestookt, 900-2500 kW"
   },
   {
-    "Nr.": "SOB2226",
+    "SOBnummer": "SOB2226",
     "Omschrijving": "Boiler, aardgasgestookt, < 500 ltr, ≤100kW"
   },
   {
-    "Nr.": "SOB2227",
+    "SOBnummer": "SOB2227",
     "Omschrijving": "Boiler, aardgasgestookt, > 500 ltr, ≤100kW"
   },
   {
-    "Nr.": "SOB2228",
+    "SOBnummer": "SOB2228",
     "Omschrijving": "Luchtverhitter (LVH), aardgasgestookt, > 660 kW met ventilator"
   },
   {
-    "Nr.": "SOB2229",
+    "SOBnummer": "SOB2229",
     "Omschrijving": "Luchtverhitter (LVH), aardgasgestookt, >100 kW"
   },
   {
-    "Nr.": "SOB2230",
+    "SOBnummer": "SOB2230",
     "Omschrijving": "Luchtverhitter (LVH), aardgasgestookt, 0-35 kW"
   },
   {
-    "Nr.": "SOB2231",
+    "SOBnummer": "SOB2231",
     "Omschrijving": "Luchtverhitter (LVH), aardgasgestookt, 0-35 kW met ventilator"
   },
   {
-    "Nr.": "SOB2232",
+    "SOBnummer": "SOB2232",
     "Omschrijving": "Luchtverhitter (LVH), aardgasgestookt, 100-300 kW met ventilator"
   },
   {
-    "Nr.": "SOB2233",
+    "SOBnummer": "SOB2233",
     "Omschrijving": "Luchtverhitter (LVH), aardgasgestookt, 300-660 kW met ventilator"
   },
   {
-    "Nr.": "SOB2234",
+    "SOBnummer": "SOB2234",
     "Omschrijving": "Luchtverhitter (LVH), aardgasgestookt, 35-50 kW"
   },
   {
-    "Nr.": "SOB2235",
+    "SOBnummer": "SOB2235",
     "Omschrijving": "Luchtverhitter (LVH), aardgasgestookt, 35-75 kW met ventilator"
   },
   {
-    "Nr.": "SOB2236",
+    "SOBnummer": "SOB2236",
     "Omschrijving": "Luchtverhitter (LVH), aardgasgestookt, 50-75 kW"
   },
   {
-    "Nr.": "SOB2237",
+    "SOBnummer": "SOB2237",
     "Omschrijving": "Luchtverhitter (LVH), aardgasgestookt, 75-100 kW"
   },
   {
-    "Nr.": "SOB2238",
+    "SOBnummer": "SOB2238",
     "Omschrijving": "Luchtverhitter (LVH), aardgasgestookt, 75-100 kW met ventilator"
   },
   {
-    "Nr.": "SOB2239",
+    "SOBnummer": "SOB2239",
     "Omschrijving": "Gashaard"
   },
   {
-    "Nr.": "SOB2240",
+    "SOBnummer": "SOB2240",
     "Omschrijving": "Gevelkachel"
   },
   {
-    "Nr.": "SOB2241",
+    "SOBnummer": "SOB2241",
     "Omschrijving": "CV-ketel, houtgestookt, < 20 kW"
   },
   {
-    "Nr.": "SOB2242",
+    "SOBnummer": "SOB2242",
     "Omschrijving": "CV-ketel, houtgestookt, 100-300 kW"
   },
   {
-    "Nr.": "SOB2243",
+    "SOBnummer": "SOB2243",
     "Omschrijving": "CV-ketel, houtgestookt, 300-660 kW"
   },
   {
-    "Nr.": "SOB2244",
+    "SOBnummer": "SOB2244",
     "Omschrijving": "CV-ketel, houtgestookt, 20-100 kW"
   },
   {
-    "Nr.": "SOB2245",
+    "SOBnummer": "SOB2245",
     "Omschrijving": "CV-ketel, houtgestookt, 660-900 kW"
   },
   {
-    "Nr.": "SOB2246",
+    "SOBnummer": "SOB2246",
     "Omschrijving": "Houtkachel ~ 50 kW"
   },
   {
-    "Nr.": "SOB2247",
+    "SOBnummer": "SOB2247",
     "Omschrijving": "Circulatiepomp < 1 1/4 inch (CV)"
   },
   {
-    "Nr.": "SOB2248",
+    "SOBnummer": "SOB2248",
     "Omschrijving": "Indirecte boiler < 500 ltr"
   },
   {
-    "Nr.": "SOB2249",
+    "SOBnummer": "SOB2249",
     "Omschrijving": "Indirecte boiler > 500 ltr"
   },
   {
-    "Nr.": "SOB2250",
+    "SOBnummer": "SOB2250",
     "Omschrijving": "Kamer-/ruimtethermostaat"
   },
   {
-    "Nr.": "SOB2251",
+    "SOBnummer": "SOB2251",
     "Omschrijving": "Ketelregelaar"
   },
   {
-    "Nr.": "SOB2252",
+    "SOBnummer": "SOB2252",
     "Omschrijving": "Keukengeiser"
   },
   {
-    "Nr.": "SOB2253",
+    "SOBnummer": "SOB2253",
     "Omschrijving": "Ledenradiator"
   },
   {
-    "Nr.": "SOB2254",
+    "SOBnummer": "SOB2254",
     "Omschrijving": "Luchtgordijn WW < 3 m"
   },
   {
-    "Nr.": "SOB2255",
+    "SOBnummer": "SOB2255",
     "Omschrijving": "Luchtgordijn WW 3-6 m"
   },
   {
-    "Nr.": "SOB2256",
+    "SOBnummer": "SOB2256",
     "Omschrijving": "Luchtgordijn WW 6-10 m"
   },
   {
-    "Nr.": "SOB2257",
+    "SOBnummer": "SOB2257",
     "Omschrijving": "Luchtverhitter (LVH), indirect gestookt, < 40 kW"
   },
   {
-    "Nr.": "SOB2258",
+    "SOBnummer": "SOB2258",
     "Omschrijving": "Luchtverhitter (LVH), indirect gestookt, > 90 kW"
   },
   {
-    "Nr.": "SOB2259",
+    "SOBnummer": "SOB2259",
     "Omschrijving": "Luchtverhitter (LVH), indirect gestookt, 40-90 kW"
   },
   {
-    "Nr.": "SOB2260",
+    "SOBnummer": "SOB2260",
     "Omschrijving": "Moederhaard"
   },
   {
-    "Nr.": "SOB2261",
+    "SOBnummer": "SOB2261",
     "Omschrijving": "Voorzetbrander (VZB), oliegestookt, < 100 kW"
   },
   {
-    "Nr.": "SOB2262",
+    "SOBnummer": "SOB2262",
     "Omschrijving": "Voorzetbrander (VZB), oliegestookt, 100-300 kW"
   },
   {
-    "Nr.": "SOB2263",
+    "SOBnummer": "SOB2263",
     "Omschrijving": "Voorzetbrander (VZB), oliegestookt, 300-660 kW"
   },
   {
-    "Nr.": "SOB2264",
+    "SOBnummer": "SOB2264",
     "Omschrijving": "Voorzetbrander (VZB), oliegestookt, 660-900 kW"
   },
   {
-    "Nr.": "SOB2265",
+    "SOBnummer": "SOB2265",
     "Omschrijving": "Voorzetbrander (VZB), oliegestookt, 900-2500 kW"
   },
   {
-    "Nr.": "SOB2266",
+    "SOBnummer": "SOB2266",
     "Omschrijving": "Brandstofvoorraadtank, bovengronds, < 2000 ltr"
   },
   {
-    "Nr.": "SOB2267",
+    "SOBnummer": "SOB2267",
     "Omschrijving": "Brandstofvoorraadtank, bovengronds, 2000-5000 ltr"
   },
   {
-    "Nr.": "SOB2268",
+    "SOBnummer": "SOB2268",
     "Omschrijving": "Brandstofvoorraadtank, bovengronds, 5000-10000 ltr"
   },
   {
-    "Nr.": "SOB2269",
+    "SOBnummer": "SOB2269",
     "Omschrijving": "Ontgasser op stoomcap. < 400 kg/h"
   },
   {
-    "Nr.": "SOB2270",
+    "SOBnummer": "SOB2270",
     "Omschrijving": "Ontgasser op stoomcap. 1500-3000 kg/h"
   },
   {
-    "Nr.": "SOB2271",
+    "SOBnummer": "SOB2271",
     "Omschrijving": "Ontgasser op stoomcap. 400-1500 kg/h"
   },
   {
-    "Nr.": "SOB2272",
+    "SOBnummer": "SOB2272",
     "Omschrijving": "Circulatiepomp DN 50 - 100 (CV)"
   },
   {
-    "Nr.": "SOB2273",
+    "SOBnummer": "SOB2273",
     "Omschrijving": "Opstellings-/stookruimte"
   },
   {
-    "Nr.": "SOB2274",
+    "SOBnummer": "SOB2274",
     "Omschrijving": "Heetwaterketel, excl. voorzetbrander, <100 kW"
   },
   {
-    "Nr.": "SOB2275",
+    "SOBnummer": "SOB2275",
     "Omschrijving": "Heetwaterketel, excl. voorzetbrander, 100-300 kW"
   },
   {
-    "Nr.": "SOB2276",
+    "SOBnummer": "SOB2276",
     "Omschrijving": "Heetwaterketel, excl. voorzetbrander, 300-660 kW"
   },
   {
-    "Nr.": "SOB2277",
+    "SOBnummer": "SOB2277",
     "Omschrijving": "Heetwaterketel, excl. voorzetbrander, 660-900 kW"
   },
   {
-    "Nr.": "SOB2278",
+    "SOBnummer": "SOB2278",
     "Omschrijving": "Heetwaterketel, excl. voorzetbrander, 900-2500 kW"
   },
   {
-    "Nr.": "SOB2284",
+    "SOBnummer": "SOB2284",
     "Omschrijving": "Paneelradiator"
   },
   {
-    "Nr.": "SOB2285",
+    "SOBnummer": "SOB2285",
     "Omschrijving": "Platenwisselaar < 300 kW (CV)"
   },
   {
-    "Nr.": "SOB2286",
+    "SOBnummer": "SOB2286",
     "Omschrijving": "Platenwisselaar > 300 kW (CV)"
   },
   {
-    "Nr.": "SOB2287",
+    "SOBnummer": "SOB2287",
     "Omschrijving": "Ribbenbuiskachel"
   },
   {
-    "Nr.": "SOB2288",
+    "SOBnummer": "SOB2288",
     "Omschrijving": "Rookgasafvoer"
   },
   {
-    "Nr.": "SOB2289",
+    "SOBnummer": "SOB2289",
     "Omschrijving": "Rookgaskoeler < 130 kW"
   },
   {
-    "Nr.": "SOB2290",
+    "SOBnummer": "SOB2290",
     "Omschrijving": "Rookgaskoeler 130-300 kW"
   },
   {
-    "Nr.": "SOB2291",
+    "SOBnummer": "SOB2291",
     "Omschrijving": "Rookgaskoeler 300-660 kW"
   },
   {
-    "Nr.": "SOB2292",
+    "SOBnummer": "SOB2292",
     "Omschrijving": "Rookgaskoeler 660-900 kW"
   },
   {
-    "Nr.": "SOB2293",
+    "SOBnummer": "SOB2293",
     "Omschrijving": "Rookgaskoeler 900-2500 kW"
   },
   {
-    "Nr.": "SOB2294",
+    "SOBnummer": "SOB2294",
     "Omschrijving": "Stoomgenerator, aardgasgestookt, < 100 kg/h, < 100kW"
   },
   {
-    "Nr.": "SOB2295",
+    "SOBnummer": "SOB2295",
     "Omschrijving": "Stoomgenerator, aardgasgestookt,  100-250 kg/h, > 100kW"
   },
   {
-    "Nr.": "SOB2296",
+    "SOBnummer": "SOB2296",
     "Omschrijving": "Stoomgenerator, aardgasgestookt,  250-500 kg/h, > 100kW"
   },
   {
-    "Nr.": "SOB2297",
+    "SOBnummer": "SOB2297",
     "Omschrijving": "Infraroodstraler, elektrisch"
   },
   {
-    "Nr.": "SOB2298",
+    "SOBnummer": "SOB2298",
     "Omschrijving": "Stralingspaneel"
   },
   {
-    "Nr.": "SOB2299",
+    "SOBnummer": "SOB2299",
     "Omschrijving": "Thermische olieketel, aardgasgestookt, <100 kW"
   },
   {
-    "Nr.": "SOB2300",
+    "SOBnummer": "SOB2300",
     "Omschrijving": "Thermische olieketel, aardgasgestookt, 100-300 kW"
   },
   {
-    "Nr.": "SOB2301",
+    "SOBnummer": "SOB2301",
     "Omschrijving": "Thermische olieketel, aardgasgestookt, 300-660 kW"
   },
   {
-    "Nr.": "SOB2302",
+    "SOBnummer": "SOB2302",
     "Omschrijving": "Thermische olieketel, aardgasgestookt, 660-900 kW"
   },
   {
-    "Nr.": "SOB2303",
+    "SOBnummer": "SOB2303",
     "Omschrijving": "Thermische olieketel, aardgasgestookt, 900-1200 kW"
   },
   {
-    "Nr.": "SOB2309",
+    "SOBnummer": "SOB2309",
     "Omschrijving": "TSA stoom - WW < 300 kW (CV)"
   },
   {
-    "Nr.": "SOB2310",
+    "SOBnummer": "SOB2310",
     "Omschrijving": "TSA stoom - WW > 300 kW (CV)"
   },
   {
-    "Nr.": "SOB2311",
+    "SOBnummer": "SOB2311",
     "Omschrijving": "Verbrandingsgasafvoer"
   },
   {
-    "Nr.": "SOB2312",
+    "SOBnummer": "SOB2312",
     "Omschrijving": "Verdeler 0 - 4 groepen"
   },
   {
-    "Nr.": "SOB2313",
+    "SOBnummer": "SOB2313",
     "Omschrijving": "Verdeler 4-8 groepen"
   },
   {
-    "Nr.": "SOB2314",
+    "SOBnummer": "SOB2314",
     "Omschrijving": "Verdeler 8-12 groepen"
   },
   {
-    "Nr.": "SOB2315",
+    "SOBnummer": "SOB2315",
     "Omschrijving": "Verzamelaar 4-8 groepen"
   },
   {
-    "Nr.": "SOB2316",
+    "SOBnummer": "SOB2316",
     "Omschrijving": "Verzamelaar 8-12 groepen"
   },
   {
-    "Nr.": "SOB2317",
+    "SOBnummer": "SOB2317",
     "Omschrijving": "Vloerverwarmingsset < 6 groepen"
   },
   {
-    "Nr.": "SOB2318",
+    "SOBnummer": "SOB2318",
     "Omschrijving": "Vloerverwarmingsset > 6 groepen"
   },
   {
-    "Nr.": "SOB2319",
+    "SOBnummer": "SOB2319",
     "Omschrijving": "Zonnecollector < 25 kW (CV)"
   },
   {
-    "Nr.": "SOB2320",
+    "SOBnummer": "SOB2320",
     "Omschrijving": "Zonnecollector 25-75 kW (CV)"
   },
   {
-    "Nr.": "SOB2321",
+    "SOBnummer": "SOB2321",
     "Omschrijving": "Zonnecollector 75-150 kW (CV)"
   },
   {
-    "Nr.": "SOB2322",
+    "SOBnummer": "SOB2322",
     "Omschrijving": "Breektank"
   },
   {
-    "Nr.": "SOB2323",
+    "SOBnummer": "SOB2323",
     "Omschrijving": "Demi-installatie < 5 m3/dag"
   },
   {
-    "Nr.": "SOB2324",
+    "SOBnummer": "SOB2324",
     "Omschrijving": "Demi-installatie 150-500 m3/dag"
   },
   {
-    "Nr.": "SOB2325",
+    "SOBnummer": "SOB2325",
     "Omschrijving": "Demi-installatie 25-50 m3/dag"
   },
   {
-    "Nr.": "SOB2326",
+    "SOBnummer": "SOB2326",
     "Omschrijving": "Demi-installatie 50-150 m3/dag"
   },
   {
-    "Nr.": "SOB2327",
+    "SOBnummer": "SOB2327",
     "Omschrijving": "Demi-installatie 5-25 m3/dag"
   },
   {
-    "Nr.": "SOB2328",
+    "SOBnummer": "SOB2328",
     "Omschrijving": "Osmose-installatie < 5 m3/dag"
   },
   {
-    "Nr.": "SOB2329",
+    "SOBnummer": "SOB2329",
     "Omschrijving": "Osmose-installatie 150-500 m3/dag"
   },
   {
-    "Nr.": "SOB2330",
+    "SOBnummer": "SOB2330",
     "Omschrijving": "Osmose-installatie 25-50 m3/dag"
   },
   {
-    "Nr.": "SOB2331",
+    "SOBnummer": "SOB2331",
     "Omschrijving": "Osmose-installatie 50-150 m3/dag"
   },
   {
-    "Nr.": "SOB2332",
+    "SOBnummer": "SOB2332",
     "Omschrijving": "Osmose-installatie 5-25 m3/dag"
   },
   {
-    "Nr.": "SOB2333",
+    "SOBnummer": "SOB2333",
     "Omschrijving": "Waterontharder 25-50 m3/h"
   },
   {
-    "Nr.": "SOB2334",
+    "SOBnummer": "SOB2334",
     "Omschrijving": "Waterontharder < 5 m3/h"
   },
   {
-    "Nr.": "SOB2335",
+    "SOBnummer": "SOB2335",
     "Omschrijving": "Waterontharder 15-25 m3/h"
   },
   {
-    "Nr.": "SOB2336",
+    "SOBnummer": "SOB2336",
     "Omschrijving": "Waterontharder 5-15 m3/h"
   },
   {
-    "Nr.": "SOB2337",
+    "SOBnummer": "SOB2337",
     "Omschrijving": "Bronpomp WKO"
   },
   {
-    "Nr.": "SOB2338",
+    "SOBnummer": "SOB2338",
     "Omschrijving": "Druktransmitter WKO"
   },
   {
-    "Nr.": "SOB2339",
+    "SOBnummer": "SOB2339",
     "Omschrijving": "Flowmeter WKO"
   },
   {
-    "Nr.": "SOB2340",
+    "SOBnummer": "SOB2340",
     "Omschrijving": "Frequentieregelaar WKO"
   },
   {
-    "Nr.": "SOB2341",
+    "SOBnummer": "SOB2341",
     "Omschrijving": "Hardware regelinstallatie WKO"
   },
   {
-    "Nr.": "SOB2342",
+    "SOBnummer": "SOB2342",
     "Omschrijving": "Injectieklep & drukregeling WKO"
   },
   {
-    "Nr.": "SOB2343",
+    "SOBnummer": "SOB2343",
     "Omschrijving": "Leveltransmitter WKO"
   },
   {
-    "Nr.": "SOB2344",
+    "SOBnummer": "SOB2344",
     "Omschrijving": "Opnemer WKO"
   },
   {
-    "Nr.": "SOB2345",
+    "SOBnummer": "SOB2345",
     "Omschrijving": "Software regelinstallatie WKO"
   },
   {
-    "Nr.": "SOB2346",
+    "SOBnummer": "SOB2346",
     "Omschrijving": "Wisselaar WKO"
   },
   {
-    "Nr.": "SOB2347",
+    "SOBnummer": "SOB2347",
     "Omschrijving": "WKO"
   },
   {
-    "Nr.": "SOB2348",
+    "SOBnummer": "SOB2348",
     "Omschrijving": "Mechanisch bewogen zonwering"
   },
   {
-    "Nr.": "SOB2349",
+    "SOBnummer": "SOB2349",
     "Omschrijving": "Nakoeler"
   },
   {
-    "Nr.": "SOB2351",
+    "SOBnummer": "SOB2351",
     "Omschrijving": "Automatische draaideur, buiten"
   },
   {
-    "Nr.": "SOB2352",
+    "SOBnummer": "SOB2352",
     "Omschrijving": "Automatische draaideur, met luchtgord., buiten"
   },
   {
-    "Nr.": "SOB2353",
+    "SOBnummer": "SOB2353",
     "Omschrijving": "Automatische draaideur, binnen"
   },
   {
-    "Nr.": "SOB2354",
+    "SOBnummer": "SOB2354",
     "Omschrijving": "Automatische schuifdeur, enkel, buiten"
   },
   {
-    "Nr.": "SOB2355",
+    "SOBnummer": "SOB2355",
     "Omschrijving": "Automatische schuifdeur, dubbel, buiten"
   },
   {
-    "Nr.": "SOB2356",
+    "SOBnummer": "SOB2356",
     "Omschrijving": "Automatische schuifdeur, enkel, binnen"
   },
   {
-    "Nr.": "SOB2357",
+    "SOBnummer": "SOB2357",
     "Omschrijving": "Automatische schuifdeur, dubbel, binnen"
   },
   {
-    "Nr.": "SOB2358",
+    "SOBnummer": "SOB2358",
     "Omschrijving": "Automatische schuifdeur, hermetisch"
   },
   {
-    "Nr.": "SOB2359",
+    "SOBnummer": "SOB2359",
     "Omschrijving": "Automatische zwaaideur, enkel (dranger)"
   },
   {
-    "Nr.": "SOB2360",
+    "SOBnummer": "SOB2360",
     "Omschrijving": "Automatische zwaaideur, dubbel (dranger)"
   },
   {
-    "Nr.": "SOB2361",
+    "SOBnummer": "SOB2361",
     "Omschrijving": "Beveiligingspoort, draaisluis"
   },
   {
-    "Nr.": "SOB2362",
+    "SOBnummer": "SOB2362",
     "Omschrijving": "Beveiligingspoort, schuif, enkel"
   },
   {
-    "Nr.": "SOB2363",
+    "SOBnummer": "SOB2363",
     "Omschrijving": "Beveiligingspoort, schuif, dubbel"
   },
   {
-    "Nr.": "SOB2364",
+    "SOBnummer": "SOB2364",
     "Omschrijving": "Beveiligingspoort, zwaai, enkel"
   },
   {
-    "Nr.": "SOB2365",
+    "SOBnummer": "SOB2365",
     "Omschrijving": "Beveiligingspoort, zwaai, dubbel"
   },
   {
-    "Nr.": "SOB2366",
+    "SOBnummer": "SOB2366",
     "Omschrijving": "Beveiligingspoort/tourniquet, handm., buiten"
   },
   {
-    "Nr.": "SOB2367",
+    "SOBnummer": "SOB2367",
     "Omschrijving": "Beveiligingspoort, tourniquet, autom., buiten"
   },
   {
-    "Nr.": "SOB2368",
+    "SOBnummer": "SOB2368",
     "Omschrijving": "Beveiligingspoort, tourniquet, handm., binnen"
   },
   {
-    "Nr.": "SOB2369",
+    "SOBnummer": "SOB2369",
     "Omschrijving": "Beveiligingspoort, tourniquet, autom., binnen"
   },
   {
-    "Nr.": "SOB2370",
+    "SOBnummer": "SOB2370",
     "Omschrijving": "Overheaddeur"
   },
   {
-    "Nr.": "SOB2371",
+    "SOBnummer": "SOB2371",
     "Omschrijving": "Gebouwbeheersysteem, centrale hard & software"
   },
   {
-    "Nr.": "SOB2372",
+    "SOBnummer": "SOB2372",
     "Omschrijving": "Gebouwbeheersysteem, onderstations, I/O-modules"
   },
   {
-    "Nr.": "SOB2373",
+    "SOBnummer": "SOB2373",
     "Omschrijving": "Gebouwbeheersysteem, naregelingen"
   },
   {
-    "Nr.": "SOB2374",
+    "SOBnummer": "SOB2374",
     "Omschrijving": "Gasdetectiesysteem"
   },
   {
-    "Nr.": "SOB2375",
+    "SOBnummer": "SOB2375",
     "Omschrijving": "Omschakel-/drukregelstation, centraal"
   },
   {
-    "Nr.": "SOB2376",
+    "SOBnummer": "SOB2376",
     "Omschrijving": "Omschakel-/drukregelstation, decentraal"
   },
   {
-    "Nr.": "SOB2377",
+    "SOBnummer": "SOB2377",
     "Omschrijving": "Gassenkast/gecombineerd afgiftestation, lokaal"
   },
   {
-    "Nr.": "SOB2378",
+    "SOBnummer": "SOB2378",
     "Omschrijving": "Gasflessenkast"
   },
   {
-    "Nr.": "SOB2379",
+    "SOBnummer": "SOB2379",
     "Omschrijving": "Zuurkast"
   },
   {
-    "Nr.": "SOB2380",
+    "SOBnummer": "SOB2380",
     "Omschrijving": "Onderkast zuurkast"
   },
   {
-    "Nr.": "SOB2381",
+    "SOBnummer": "SOB2381",
     "Omschrijving": "Veilgheidskast"
   },
   {
-    "Nr.": "SOB2382",
+    "SOBnummer": "SOB2382",
     "Omschrijving": "Afgezogen kast/omkasting"
   },
   {
-    "Nr.": "SOB2383",
+    "SOBnummer": "SOB2383",
     "Omschrijving": "Onderkasten"
   },
   {
-    "Nr.": "SOB2384",
+    "SOBnummer": "SOB2384",
     "Omschrijving": "Laminair Flow Kast"
   },
   {
-    "Nr.": "SOB2385",
+    "SOBnummer": "SOB2385",
     "Omschrijving": "Crossflow kast"
   },
   {
-    "Nr.": "SOB2386",
+    "SOBnummer": "SOB2386",
     "Omschrijving": "Downflow kast"
   },
   {
-    "Nr.": "SOB2387",
+    "SOBnummer": "SOB2387",
     "Omschrijving": "OK Plenum <=3 m2"
   },
   {
-    "Nr.": "SOB2388",
+    "SOBnummer": "SOB2388",
     "Omschrijving": "OK Plenum 3- 6 m2"
   },
   {
-    "Nr.": "SOB2389",
+    "SOBnummer": "SOB2389",
     "Omschrijving": "OK Plenum 6- 9 m2"
   },
   {
-    "Nr.": "SOB2390",
+    "SOBnummer": "SOB2390",
     "Omschrijving": "OK Plenum > 9 m2"
   },
   {
-    "Nr.": "SOB2391",
+    "SOBnummer": "SOB2391",
     "Omschrijving": "Plenum opdekruimte <= 3 m2"
   },
   {
-    "Nr.": "SOB2392",
+    "SOBnummer": "SOB2392",
     "Omschrijving": "Plenum opdekruimte 3 - 6 m2"
   },
   {
-    "Nr.": "SOB2393",
+    "SOBnummer": "SOB2393",
     "Omschrijving": "Pendel medische ruimte"
   },
   {
-    "Nr.": "SOB2394",
+    "SOBnummer": "SOB2394",
     "Omschrijving": "Medische scheidingstrafo < 1000 VA"
   },
   {
-    "Nr.": "SOB2395",
+    "SOBnummer": "SOB2395",
     "Omschrijving": "Medische scheidingstrafo 1000 - 2000 VA"
   },
   {
-    "Nr.": "SOB2396",
+    "SOBnummer": "SOB2396",
     "Omschrijving": "Medische scheidingstrafo 2000 - 3000 VA"
   },
   {
-    "Nr.": "SOB2397",
+    "SOBnummer": "SOB2397",
     "Omschrijving": "Medische scheidingstrafo 3000 - 4000 VA"
   },
   {
-    "Nr.": "SOB2398",
+    "SOBnummer": "SOB2398",
     "Omschrijving": "Medische scheidingstrafo 4000 - 5000 VA"
   },
   {
-    "Nr.": "SOB2399",
+    "SOBnummer": "SOB2399",
     "Omschrijving": "Medische scheidingstrafo > 5000 VA"
   },
   {
-    "Nr.": "SOB2400",
+    "SOBnummer": "SOB2400",
     "Omschrijving": "Meet-/registratiesysteem condities Cleanroom/OK"
   },
   {
-    "Nr.": "SOB2401",
+    "SOBnummer": "SOB2401",
     "Omschrijving": "TSA WW-WW < 300 kW"
   },
   {
-    "Nr.": "SOB2402",
+    "SOBnummer": "SOB2402",
     "Omschrijving": "TSA WW-WW > 300 kW"
   },
   {
-    "Nr.": "SOB2403",
+    "SOBnummer": "SOB2403",
     "Omschrijving": "Expansieautomaat < 200 ltr (GKW)"
   },
   {
-    "Nr.": "SOB2404",
+    "SOBnummer": "SOB2404",
     "Omschrijving": "Expansieautomaat 200 - 400 ltr (GKW)"
   },
   {
-    "Nr.": "SOB2405",
+    "SOBnummer": "SOB2405",
     "Omschrijving": "Kleefmagneet"
   },
   {
-    "Nr.": "SOB2406",
+    "SOBnummer": "SOB2406",
     "Omschrijving": "Luidspreker (ontruiming)"
   },
   {
-    "Nr.": "SOB2408",
+    "SOBnummer": "SOB2408",
     "Omschrijving": "Brandmeldcentrale"
   },
   {
-    "Nr.": "SOB2409",
+    "SOBnummer": "SOB2409",
     "Omschrijving": "Brandmeld- en ontruimingscentrale (gecombineerd)"
   },
   {
-    "Nr.": "SOB2410",
+    "SOBnummer": "SOB2410",
     "Omschrijving": "Ontruimingscentrale"
   },
   {
-    "Nr.": "SOB2411",
+    "SOBnummer": "SOB2411",
     "Omschrijving": "GTV-unit"
   },
   {
-    "Nr.": "SOB2412",
+    "SOBnummer": "SOB2412",
     "Omschrijving": "LUTO-bord"
   },
   {
-    "Nr.": "SOB2413",
+    "SOBnummer": "SOB2413",
     "Omschrijving": "Nevenindicator"
   },
   {
-    "Nr.": "SOB2414",
+    "SOBnummer": "SOB2414",
     "Omschrijving": "Inbraakbeveiligingscentrale"
   },
   {
-    "Nr.": "SOB2415",
+    "SOBnummer": "SOB2415",
     "Omschrijving": "Schemerschakelaar"
   },
   {
-    "Nr.": "SOB2416",
+    "SOBnummer": "SOB2416",
     "Omschrijving": "Bewegingsmelder"
   },
   {
-    "Nr.": "SOB2417",
+    "SOBnummer": "SOB2417",
     "Omschrijving": "Noodverlichting decentraal waterdicht"
   },
   {
-    "Nr.": "SOB2421",
+    "SOBnummer": "SOB2421",
     "Omschrijving": "Schuifafsluiter > DN 150"
   },
   {
-    "Nr.": "SOB2422",
+    "SOBnummer": "SOB2422",
     "Omschrijving": "Vlinderafsluiter > DN 150"
   },
   {
-    "Nr.": "SOB2424",
+    "SOBnummer": "SOB2424",
     "Omschrijving": "Vulautomaat Sprinkler/Watermist"
   },
   {
-    "Nr.": "SOB2425",
+    "SOBnummer": "SOB2425",
     "Omschrijving": "Circulatiepomp DN 50 - 100"
   },
   {
-    "Nr.": "SOB2426",
+    "SOBnummer": "SOB2426",
     "Omschrijving": "Buffervat < 50 ltr"
   },
   {
-    "Nr.": "SOB2427",
+    "SOBnummer": "SOB2427",
     "Omschrijving": "Buffervat 50-100 ltr"
   },
   {
-    "Nr.": "SOB2428",
+    "SOBnummer": "SOB2428",
     "Omschrijving": "Buffervat 100-250 ltr"
   },
   {
-    "Nr.": "SOB2429",
+    "SOBnummer": "SOB2429",
     "Omschrijving": "Buffervat 250-500 ltr"
   },
   {
-    "Nr.": "SOB2430",
+    "SOBnummer": "SOB2430",
     "Omschrijving": "EHBO doos/koffer"
   },
   {
-    "Nr.": "SOB2431",
+    "SOBnummer": "SOB2431",
     "Omschrijving": "Blusdeken"
   },
   {
-    "Nr.": "SOB2432",
+    "SOBnummer": "SOB2432",
     "Omschrijving": "Evacuatiestoel"
   },
   {
-    "Nr.": "SOB2433",
+    "SOBnummer": "SOB2433",
     "Omschrijving": "AED"
   },
   {
-    "Nr.": "SOB2434",
+    "SOBnummer": "SOB2434",
     "Omschrijving": "Arbeidsmiddel"
   },
   {
-    "Nr.": "SOB2435",
+    "SOBnummer": "SOB2435",
     "Omschrijving": "Kokendwaterkraancombinatie, single HW"
   },
   {
-    "Nr.": "SOB2436",
+    "SOBnummer": "SOB2436",
     "Omschrijving": "Kokendwaterkraancombinatie, 2-in-1 WW/HW"
   },
   {
-    "Nr.": "SOB2437",
+    "SOBnummer": "SOB2437",
     "Omschrijving": "Kokendwaterkraan, 3-in-1 KW/WW/HW"
   },
   {
-    "Nr.": "SOB2438",
+    "SOBnummer": "SOB2438",
     "Omschrijving": "Kokendwaterkraancombinatie, 4-in-1 KW/WW/HW/IJS"
   },
   {
-    "Nr.": "SOB2439",
+    "SOBnummer": "SOB2439",
     "Omschrijving": "Kokendwaterkraan, 5-in-1 KW/WW/HW/IJS/GKBTW"
   },
   {
-    "Nr.": "SOB2440",
+    "SOBnummer": "SOB2440",
     "Omschrijving": "6 wegregelklep 3/8 inch-2 inch, incl. servomotor"
   },
   {
-    "Nr.": "SOB2441",
+    "SOBnummer": "SOB2441",
     "Omschrijving": "Bevochtiger, adiabatisch/HD, 0-100 kg/h"
   },
   {
-    "Nr.": "SOB2442",
+    "SOBnummer": "SOB2442",
     "Omschrijving": "Bevochtiger, adiabatisch/HD, 100-250 kg/h"
   },
   {
-    "Nr.": "SOB2443",
+    "SOBnummer": "SOB2443",
     "Omschrijving": "Bevochtiger, adiabatisch/HD, 250-500 kg/h"
   },
   {
-    "Nr.": "SOB2444",
+    "SOBnummer": "SOB2444",
     "Omschrijving": "Bevochtiger, adiabatisch/HD, 500-1000 kg/h                   "
   },
   {
-    "Nr.": "SOB2445",
+    "SOBnummer": "SOB2445",
     "Omschrijving": "Bevochtiger, adiabatisch/HD, > 1000 kg/h"
   },
   {
-    "Nr.": "SOB2446",
+    "SOBnummer": "SOB2446",
     "Omschrijving": "Close Control Airconditioner K(dx), FGAS, 0-10 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2447",
+    "SOBnummer": "SOB2447",
     "Omschrijving": "Close Control Airconditioner K(w), GKW, 0-10 kW"
   },
   {
-    "Nr.": "SOB2448",
+    "SOBnummer": "SOB2448",
     "Omschrijving": "Close Control Airconditioner K(dx)B, FGAS, 0-10 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2449",
+    "SOBnummer": "SOB2449",
     "Omschrijving": "Close Control Airconditioner K(w)B, GKW, 0-10 kW"
   },
   {
-    "Nr.": "SOB2450",
+    "SOBnummer": "SOB2450",
     "Omschrijving": "Close Control Airconditioner K(dx)VB, FGAS, 0-10 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2451",
+    "SOBnummer": "SOB2451",
     "Omschrijving": "Close Control Airconditioner K(w)VB, GKW, 0-10 kW"
   },
   {
-    "Nr.": "SOB2452",
+    "SOBnummer": "SOB2452",
     "Omschrijving": "Close Control Airconditioner K(dx), FGAS, 10-20 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2453",
+    "SOBnummer": "SOB2453",
     "Omschrijving": "Close Control Airconditioner K(w), GKW, 10-20 kW"
   },
   {
-    "Nr.": "SOB2454",
+    "SOBnummer": "SOB2454",
     "Omschrijving": "Close Control Airconditioner K(dx)B, FGAS, 10-20 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2455",
+    "SOBnummer": "SOB2455",
     "Omschrijving": "Close Control Airconditioner K(w)B, GKW, 10-20 kW"
   },
   {
-    "Nr.": "SOB2456",
+    "SOBnummer": "SOB2456",
     "Omschrijving": "Close Control Airconditioner K(dx)VB, FGAS, 10-20 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2457",
+    "SOBnummer": "SOB2457",
     "Omschrijving": "Close Control Airconditioner K(w)VB, GKW, 10-20 kW"
   },
   {
-    "Nr.": "SOB2458",
+    "SOBnummer": "SOB2458",
     "Omschrijving": "Close Control Airconditioner K(dx), FGAS, 20-40 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2459",
+    "SOBnummer": "SOB2459",
     "Omschrijving": "Close Control Airconditioner K(w), GKW, 20-40 kW"
   },
   {
-    "Nr.": "SOB2460",
+    "SOBnummer": "SOB2460",
     "Omschrijving": "Close Control Airconditioner K(dx)B, FGAS, 20-40 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2461",
+    "SOBnummer": "SOB2461",
     "Omschrijving": "Close Control Airconditioner K(w)B, GKW, 20-40 kW"
   },
   {
-    "Nr.": "SOB2462",
+    "SOBnummer": "SOB2462",
     "Omschrijving": "Close Control Airconditioner K(dx)VB, FGAS, 20-40 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2463",
+    "SOBnummer": "SOB2463",
     "Omschrijving": "Close Control Airconditioner K(w)VB, GKW, 20-40 kW"
   },
   {
-    "Nr.": "SOB2464",
+    "SOBnummer": "SOB2464",
     "Omschrijving": "Close Control Airconditioner K(dx), FGAS, > 40 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2465",
+    "SOBnummer": "SOB2465",
     "Omschrijving": "Close Control Airconditioner K(w), GKW, > 40 kW"
   },
   {
-    "Nr.": "SOB2466",
+    "SOBnummer": "SOB2466",
     "Omschrijving": "Close Control Airconditioner K(dx)B, FGAS, > 40 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2467",
+    "SOBnummer": "SOB2467",
     "Omschrijving": "Close Control Airconditioner K(w)B, GKW, > 40 kW"
   },
   {
-    "Nr.": "SOB2468",
+    "SOBnummer": "SOB2468",
     "Omschrijving": "Close Control Airconditioner K(dx)VB, FGAS, > 40 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2469",
+    "SOBnummer": "SOB2469",
     "Omschrijving": "Close Control Airconditioner K(w)VB, GKW, > 40 kW"
   },
   {
-    "Nr.": "SOB2470",
+    "SOBnummer": "SOB2470",
     "Omschrijving": "Naverwarmer"
   },
   {
-    "Nr.": "SOB2471",
+    "SOBnummer": "SOB2471",
     "Omschrijving": "MIVA-toiletcombinatie"
   },
   {
-    "Nr.": "SOB2472",
+    "SOBnummer": "SOB2472",
     "Omschrijving": "MIVA-wastafelcombinatie"
   },
   {
-    "Nr.": "SOB2473",
+    "SOBnummer": "SOB2473",
     "Omschrijving": "LuchtInblaasrooster, plafond 0-600 m3/h"
   },
   {
-    "Nr.": "SOB2474",
+    "SOBnummer": "SOB2474",
     "Omschrijving": "LuchtInblaasrooster, plafond > 600 m3/h"
   },
   {
-    "Nr.": "SOB2475",
+    "SOBnummer": "SOB2475",
     "Omschrijving": "Expansievat 100-250 ltr (GKW)"
   },
   {
-    "Nr.": "SOB2476",
+    "SOBnummer": "SOB2476",
     "Omschrijving": "Expansievat 250-500 ltr (GKW)"
   },
   {
-    "Nr.": "SOB2477",
+    "SOBnummer": "SOB2477",
     "Omschrijving": "Expansievat > 500 ltr (GKW)"
   },
   {
-    "Nr.": "SOB2478",
+    "SOBnummer": "SOB2478",
     "Omschrijving": "Rolscherm brandwerend"
   },
   {
-    "Nr.": "SOB2515",
+    "SOBnummer": "SOB2515",
     "Omschrijving": "Koelmachine < 5 ton CO2 equivalent"
   },
   {
-    "Nr.": "SOB2516",
+    "SOBnummer": "SOB2516",
     "Omschrijving": "Koelmachine 5-50 ton CO2 equivalent (z. lekdetektie)"
   },
   {
-    "Nr.": "SOB2517",
+    "SOBnummer": "SOB2517",
     "Omschrijving": "Koelmachine 5-50 ton CO2 equivalent (m. lekdetectie)"
   },
   {
-    "Nr.": "SOB2518",
+    "SOBnummer": "SOB2518",
     "Omschrijving": "Koelmachine 50-500 ton CO2 equivalent (z. lekdetektie)"
   },
   {
-    "Nr.": "SOB2519",
+    "SOBnummer": "SOB2519",
     "Omschrijving": "Koelmachine 50-500 ton CO2 equivalent (m. lekdetectie)"
   },
   {
-    "Nr.": "SOB2520",
+    "SOBnummer": "SOB2520",
     "Omschrijving": "Koelmachine > 500 ton CO2 equivalent (z. lekdetektie)"
   },
   {
-    "Nr.": "SOB2521",
+    "SOBnummer": "SOB2521",
     "Omschrijving": "Koelmachine > 500 ton CO2 equivalent (m. lekdetectie)"
   },
   {
-    "Nr.": "SOB2522",
+    "SOBnummer": "SOB2522",
     "Omschrijving": "Condensor < 5 ton CO2 equivalent"
   },
   {
-    "Nr.": "SOB2523",
+    "SOBnummer": "SOB2523",
     "Omschrijving": "Condensor 5-50 ton CO2 equivalent"
   },
   {
-    "Nr.": "SOB2524",
+    "SOBnummer": "SOB2524",
     "Omschrijving": "Condensor 50-500 ton CO2 equivalent"
   },
   {
-    "Nr.": "SOB2525",
+    "SOBnummer": "SOB2525",
     "Omschrijving": "Condensor > 500 ton CO2 equivalent"
   },
   {
-    "Nr.": "SOB2526",
+    "SOBnummer": "SOB2526",
     "Omschrijving": "Sturing zonwering (KNX)"
   },
   {
-    "Nr.": "SOB2528",
+    "SOBnummer": "SOB2528",
     "Omschrijving": "Watertank (Drinkwater)"
   },
   {
-    "Nr.": "SOB2529",
+    "SOBnummer": "SOB2529",
     "Omschrijving": "Koelcel"
   },
   {
-    "Nr.": "SOB2530",
+    "SOBnummer": "SOB2530",
     "Omschrijving": "Wateroverlastmelder"
   },
   {
-    "Nr.": "SOB2531",
+    "SOBnummer": "SOB2531",
     "Omschrijving": "Vetafscheider"
   },
   {
-    "Nr.": "SOB2532",
+    "SOBnummer": "SOB2532",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, > 750 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2533",
+    "SOBnummer": "SOB2533",
     "Omschrijving": "Warmtepomp, water/water, FGAS, > 750 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2534",
+    "SOBnummer": "SOB2534",
     "Omschrijving": "Goederenheffer"
   },
   {
-    "Nr.": "SOB2535",
+    "SOBnummer": "SOB2535",
     "Omschrijving": "Mindervalidenlift"
   },
   {
-    "Nr.": "SOB2536",
+    "SOBnummer": "SOB2536",
     "Omschrijving": "Elektrisch slot"
   },
   {
-    "Nr.": "SOB2537",
+    "SOBnummer": "SOB2537",
     "Omschrijving": "Railkokersysteem (m2)"
   },
   {
-    "Nr.": "SOB2538",
+    "SOBnummer": "SOB2538",
     "Omschrijving": "Luchtgordijn elektrisch < 3 m"
   },
   {
-    "Nr.": "SOB2539",
+    "SOBnummer": "SOB2539",
     "Omschrijving": "Luchtgordijn elektrisch 3-6 m"
   },
   {
-    "Nr.": "SOB2540",
+    "SOBnummer": "SOB2540",
     "Omschrijving": "Luchtgordijn elektrisch 6-10 m"
   },
   {
-    "Nr.": "SOB2541",
+    "SOBnummer": "SOB2541",
     "Omschrijving": "Flexibele RVS aansluitslang GKW"
   },
   {
-    "Nr.": "SOB2542",
+    "SOBnummer": "SOB2542",
     "Omschrijving": "Handbrandblusser 12 ltr."
   },
   {
-    "Nr.": "SOB2543",
+    "SOBnummer": "SOB2543",
     "Omschrijving": "Weerstation (T, RV, CO, Wind)"
   },
   {
-    "Nr.": "SOB2544",
+    "SOBnummer": "SOB2544",
     "Omschrijving": "Expansievat 50-100 ltr (GKW)"
   },
   {
-    "Nr.": "SOB2545",
+    "SOBnummer": "SOB2545",
     "Omschrijving": "Vul-/ontgassingsautomaat CV"
   },
   {
-    "Nr.": "SOB2546",
+    "SOBnummer": "SOB2546",
     "Omschrijving": "Vul-/ontgassingsautomaat GKW"
   },
   {
-    "Nr.": "SOB2547",
+    "SOBnummer": "SOB2547",
     "Omschrijving": "Vuilafscheider DN 50 - 100 (CV)"
   },
   {
-    "Nr.": "SOB2548",
+    "SOBnummer": "SOB2548",
     "Omschrijving": "Vuilafscheider DN 50 - 100 (GKW)"
   },
   {
-    "Nr.": "SOB2549",
+    "SOBnummer": "SOB2549",
     "Omschrijving": "Flexibele RVS aansluitslang CV"
   },
   {
-    "Nr.": "SOB2551",
+    "SOBnummer": "SOB2551",
     "Omschrijving": "Datainstallatie, Passieve componenten"
   },
   {
-    "Nr.": "SOB2552",
+    "SOBnummer": "SOB2552",
     "Omschrijving": "Inblaasplenum, met nozzles"
   },
   {
-    "Nr.": "SOB2553",
+    "SOBnummer": "SOB2553",
     "Omschrijving": "Inblaasplenum, met luchtverdeeldoek"
   },
   {
-    "Nr.": "SOB2554",
+    "SOBnummer": "SOB2554",
     "Omschrijving": "2-3 wegregelklep < DN 50, incl. servomotor (GKW)"
   },
   {
-    "Nr.": "SOB2555",
+    "SOBnummer": "SOB2555",
     "Omschrijving": "2-3 wegregelklep DN 50-100, incl. servomotor (GKW)"
   },
   {
-    "Nr.": "SOB2557",
+    "SOBnummer": "SOB2557",
     "Omschrijving": "LBK TAVKW(ww)F2  15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB2558",
+    "SOBnummer": "SOB2558",
     "Omschrijving": "LuchtInblaasrooster, plafond met servomotor 0 - 600 m3/h"
   },
   {
-    "Nr.": "SOB2559",
+    "SOBnummer": "SOB2559",
     "Omschrijving": "Brandklep < 0,25 m2 gemotoriseerd (+RM)"
   },
   {
-    "Nr.": "SOB2560",
+    "SOBnummer": "SOB2560",
     "Omschrijving": "Brandklep 0,25-0,75 m2 gemotoriseerd (+RM)"
   },
   {
-    "Nr.": "SOB2561",
+    "SOBnummer": "SOB2561",
     "Omschrijving": "Brandklep > 0,75 m2 gemotoriseerd (+RM)"
   },
   {
-    "Nr.": "SOB2562",
+    "SOBnummer": "SOB2562",
     "Omschrijving": "Smart Building Systeem"
   },
   {
-    "Nr.": "SOB2563",
+    "SOBnummer": "SOB2563",
     "Omschrijving": "Schuimblusinstallatie"
   },
   {
-    "Nr.": "SOB2564",
+    "SOBnummer": "SOB2564",
     "Omschrijving": "Audio/Visuele middelen, Passieve componenten"
   },
   {
-    "Nr.": "SOB2566",
+    "SOBnummer": "SOB2566",
     "Omschrijving": "Glasbreukmelder"
   },
   {
-    "Nr.": "SOB2567",
+    "SOBnummer": "SOB2567",
     "Omschrijving": "Trilcontact"
   },
   {
-    "Nr.": "SOB2568",
+    "SOBnummer": "SOB2568",
     "Omschrijving": "Bevochtiger, hybride HD/Zilverionen, 0-100 kg/h"
   },
   {
-    "Nr.": "SOB2569",
+    "SOBnummer": "SOB2569",
     "Omschrijving": "Bevochtiger, hybride HD/Zilverionen, 100-250 kg/h"
   },
   {
-    "Nr.": "SOB2570",
+    "SOBnummer": "SOB2570",
     "Omschrijving": "Bevochtiger, hybride HD/Zilverionen, 250-500 kg/h"
   },
   {
-    "Nr.": "SOB2571",
+    "SOBnummer": "SOB2571",
     "Omschrijving": "Bevochtiger, hybride HD/Zilverionen, 500-1000 kg/h"
   },
   {
-    "Nr.": "SOB2572",
+    "SOBnummer": "SOB2572",
     "Omschrijving": "Bevochtiger, hybride HD/Zilverionen, > 1000 kg/h"
   },
   {
-    "Nr.": "SOB2573",
+    "SOBnummer": "SOB2573",
     "Omschrijving": "Vloeistof by-pass filter 100-200 mm"
   },
   {
-    "Nr.": "SOB2574",
+    "SOBnummer": "SOB2574",
     "Omschrijving": "Vloeistof by-pass filter 2 inch-100 mm"
   },
   {
-    "Nr.": "SOB2575",
+    "SOBnummer": "SOB2575",
     "Omschrijving": "Vloeistof by-pass filter 3/8 inch- 2 inch"
   },
   {
-    "Nr.": "SOB2576",
+    "SOBnummer": "SOB2576",
     "Omschrijving": "LuchtInblaasrooster, plafond met servomotor > 600 m3/h"
   },
   {
-    "Nr.": "SOB2578",
+    "SOBnummer": "SOB2578",
     "Omschrijving": "Koudemiddeldetectie"
   },
   {
-    "Nr.": "SOB2579",
+    "SOBnummer": "SOB2579",
     "Omschrijving": "Sprinklerleiding Grondleiding"
   },
   {
-    "Nr.": "SOB2580",
+    "SOBnummer": "SOB2580",
     "Omschrijving": "Drinkwaterleiding (DWL) "
   },
   {
-    "Nr.": "SOB2581",
+    "SOBnummer": "SOB2581",
     "Omschrijving": "Drinkwaterleiding (DWL)  Bacteriologische klep "
   },
   {
-    "Nr.": "SOB2582",
+    "SOBnummer": "SOB2582",
     "Omschrijving": "Hoofdafsluiter"
   },
   {
-    "Nr.": "SOB2583",
+    "SOBnummer": "SOB2583",
     "Omschrijving": "Onderwaterpomp"
   },
   {
-    "Nr.": "SOB2584",
+    "SOBnummer": "SOB2584",
     "Omschrijving": "Bronpomp"
   },
   {
-    "Nr.": "SOB2585",
+    "SOBnummer": "SOB2585",
     "Omschrijving": "Vuilwater- afvoer pompkamer"
   },
   {
-    "Nr.": "SOB2586",
+    "SOBnummer": "SOB2586",
     "Omschrijving": "Tracing"
   },
   {
-    "Nr.": "SOB2587",
+    "SOBnummer": "SOB2587",
     "Omschrijving": "Manometer"
   },
   {
-    "Nr.": "SOB2588",
+    "SOBnummer": "SOB2588",
     "Omschrijving": "Alarmklepruimte"
   },
   {
-    "Nr.": "SOB2589",
+    "SOBnummer": "SOB2589",
     "Omschrijving": "Keerklep persleiding"
   },
   {
-    "Nr.": "SOB2590",
+    "SOBnummer": "SOB2590",
     "Omschrijving": "Keerklep Blussectie"
   },
   {
-    "Nr.": "SOB2591",
+    "SOBnummer": "SOB2591",
     "Omschrijving": "Afsluiter zonder standbewaking"
   },
   {
-    "Nr.": "SOB2592",
+    "SOBnummer": "SOB2592",
     "Omschrijving": "Afsluiter met standbewaking"
   },
   {
-    "Nr.": "SOB2593",
+    "SOBnummer": "SOB2593",
     "Omschrijving": "Sprinklers Algemeen"
   },
   {
-    "Nr.": "SOB2594",
+    "SOBnummer": "SOB2594",
     "Omschrijving": "Sprinklers Extra high temperatuur"
   },
   {
-    "Nr.": "SOB2595",
+    "SOBnummer": "SOB2595",
     "Omschrijving": "Droge-, moeder-, of pre action sprinklers"
   },
   {
-    "Nr.": "SOB2596",
+    "SOBnummer": "SOB2596",
     "Omschrijving": "Anti-Vries "
   },
   {
-    "Nr.": "SOB2597",
+    "SOBnummer": "SOB2597",
     "Omschrijving": "Anti-Vries  Vries ruimte"
   },
   {
-    "Nr.": "SOB2598",
+    "SOBnummer": "SOB2598",
     "Omschrijving": "Schuimpomp"
   },
   {
-    "Nr.": "SOB2599",
+    "SOBnummer": "SOB2599",
     "Omschrijving": "Schuimbijmeng installatie / Menger"
   },
   {
-    "Nr.": "SOB2600",
+    "SOBnummer": "SOB2600",
     "Omschrijving": "Schuim terugslagklep"
   },
   {
-    "Nr.": "SOB2601",
+    "SOBnummer": "SOB2601",
     "Omschrijving": "Signaleringen sprinkler"
   },
   {
-    "Nr.": "SOB2602",
+    "SOBnummer": "SOB2602",
     "Omschrijving": "Synoptischpaneel / ledpaneel"
   },
   {
-    "Nr.": "SOB2603",
+    "SOBnummer": "SOB2603",
     "Omschrijving": "Thermische melder"
   },
   {
-    "Nr.": "SOB2604",
+    "SOBnummer": "SOB2604",
     "Omschrijving": "Multi sensor melder"
   },
   {
-    "Nr.": "SOB2605",
+    "SOBnummer": "SOB2605",
     "Omschrijving": "UV Vlammenmelder"
   },
   {
-    "Nr.": "SOB2606",
+    "SOBnummer": "SOB2606",
     "Omschrijving": "IR VlammenMelder"
   },
   {
-    "Nr.": "SOB2607",
+    "SOBnummer": "SOB2607",
     "Omschrijving": "Beam/ liniear melder"
   },
   {
-    "Nr.": "SOB2608",
+    "SOBnummer": "SOB2608",
     "Omschrijving": "List/ thermisch lint"
   },
   {
-    "Nr.": "SOB2609",
+    "SOBnummer": "SOB2609",
     "Omschrijving": "Input/ Output module"
   },
   {
-    "Nr.": "SOB2610",
+    "SOBnummer": "SOB2610",
     "Omschrijving": "Voedingsunit inclusief accu"
   },
   {
-    "Nr.": "SOB2611",
+    "SOBnummer": "SOB2611",
     "Omschrijving": "Uitbreidingsmodule"
   },
   {
-    "Nr.": "SOB2612",
+    "SOBnummer": "SOB2612",
     "Omschrijving": "Security Management systeem"
   },
   {
-    "Nr.": "SOB2614",
+    "SOBnummer": "SOB2614",
     "Omschrijving": "Watermist"
   },
   {
-    "Nr.": "SOB2615",
+    "SOBnummer": "SOB2615",
     "Omschrijving": "Sprinklerleiding"
   },
   {
-    "Nr.": "SOB2616",
+    "SOBnummer": "SOB2616",
     "Omschrijving": "Koeltoren, open, counterflow, 500-1000 m3/hr"
   },
   {
-    "Nr.": "SOB2617",
+    "SOBnummer": "SOB2617",
     "Omschrijving": "Inregelafsluiter > DN 150"
   },
   {
-    "Nr.": "SOB2618",
+    "SOBnummer": "SOB2618",
     "Omschrijving": "Smoorklep"
   },
   {
-    "Nr.": "SOB2619",
+    "SOBnummer": "SOB2619",
     "Omschrijving": "2-3 wegregelklep DN 150 - 200, incl. servomotor (CV)"
   },
   {
-    "Nr.": "SOB2620",
+    "SOBnummer": "SOB2620",
     "Omschrijving": "Doorstroomtoestel 0- 5 kW"
   },
   {
-    "Nr.": "SOB2621",
+    "SOBnummer": "SOB2621",
     "Omschrijving": "Doorstroomtoestel 5- 10 kW"
   },
   {
-    "Nr.": "SOB2622",
+    "SOBnummer": "SOB2622",
     "Omschrijving": "Doorstroomtoestel 10- 15 kW"
   },
   {
-    "Nr.": "SOB2623",
+    "SOBnummer": "SOB2623",
     "Omschrijving": "Doorstroomtoestel 15- 20 kW"
   },
   {
-    "Nr.": "SOB2624",
+    "SOBnummer": "SOB2624",
     "Omschrijving": "Doorstroomtoestel >20 kW"
   },
   {
-    "Nr.": "SOB2625",
+    "SOBnummer": "SOB2625",
     "Omschrijving": "CV-ketel, elektrisch, <30 kW"
   },
   {
-    "Nr.": "SOB2626",
+    "SOBnummer": "SOB2626",
     "Omschrijving": "CV-ketel, elektrisch, 30 - 65 kW"
   },
   {
-    "Nr.": "SOB2627",
+    "SOBnummer": "SOB2627",
     "Omschrijving": "CV-ketel, elektrisch, 65 - 120 kW"
   },
   {
-    "Nr.": "SOB2628",
+    "SOBnummer": "SOB2628",
     "Omschrijving": "CV-ketel, elektrisch, 120 - 250 kW"
   },
   {
-    "Nr.": "SOB2629",
+    "SOBnummer": "SOB2629",
     "Omschrijving": "CV-ketel, elektrisch, 250 - 500 kW"
   },
   {
-    "Nr.": "SOB2630",
+    "SOBnummer": "SOB2630",
     "Omschrijving": "CV-ketel, elektrisch, 500 - 1000 kW"
   },
   {
-    "Nr.": "SOB2631",
+    "SOBnummer": "SOB2631",
     "Omschrijving": "CV-ketel, elektrisch, 1000 - 1750 kW"
   },
   {
-    "Nr.": "SOB2632",
+    "SOBnummer": "SOB2632",
     "Omschrijving": "Kooiladder"
   },
   {
-    "Nr.": "SOB2633",
+    "SOBnummer": "SOB2633",
     "Omschrijving": "Thermische olieketel, aardgasgestookt 1200-1500 kW"
   },
   {
-    "Nr.": "SOB2634",
+    "SOBnummer": "SOB2634",
     "Omschrijving": "Thermische olieketel, aardgasgestookt 1500-2000 kW"
   },
   {
-    "Nr.": "SOB2635",
+    "SOBnummer": "SOB2635",
     "Omschrijving": "Infraroodstraler, gasgestookt, <100 kW"
   },
   {
-    "Nr.": "SOB2636",
+    "SOBnummer": "SOB2636",
     "Omschrijving": "Boiler, aardgasgestookt, < 500 ltr, >100-200kW"
   },
   {
-    "Nr.": "SOB2637",
+    "SOBnummer": "SOB2637",
     "Omschrijving": "Boiler, aardgasgestookt, < 500 ltr, >200-300kW"
   },
   {
-    "Nr.": "SOB2638",
+    "SOBnummer": "SOB2638",
     "Omschrijving": "Boiler, aardgasgestookt, < 500 ltr, >300-600kW"
   },
   {
-    "Nr.": "SOB2639",
+    "SOBnummer": "SOB2639",
     "Omschrijving": "Boiler, aardgasgestookt, > 500 ltr, >100-200kW"
   },
   {
-    "Nr.": "SOB2640",
+    "SOBnummer": "SOB2640",
     "Omschrijving": "Boiler, aardgasgestookt, > 500 ltr, >200-300kW"
   },
   {
-    "Nr.": "SOB2641",
+    "SOBnummer": "SOB2641",
     "Omschrijving": "Boiler, aardgasgestookt, > 500 ltr, >300-600kW"
   },
   {
-    "Nr.": "SOB2642",
+    "SOBnummer": "SOB2642",
     "Omschrijving": "Brandstofvoorraadtank, ondergronds, < 2000 l"
   },
   {
-    "Nr.": "SOB2643",
+    "SOBnummer": "SOB2643",
     "Omschrijving": "Brandstofvoorraadtank, ondergronds, 2000-5000 l"
   },
   {
-    "Nr.": "SOB2644",
+    "SOBnummer": "SOB2644",
     "Omschrijving": "Brandstofvoorraadtank, ondergronds, 5000-10000 l"
   },
   {
-    "Nr.": "SOB2645",
+    "SOBnummer": "SOB2645",
     "Omschrijving": "Brandstofvoorraadtank NSA, bovengronds, < 2000 l"
   },
   {
-    "Nr.": "SOB2646",
+    "SOBnummer": "SOB2646",
     "Omschrijving": "Brandstofvoorraadtank NSA, bovengronds, 2000-5000 l"
   },
   {
-    "Nr.": "SOB2647",
+    "SOBnummer": "SOB2647",
     "Omschrijving": "Brandstofvoorraadtank NSA, bovengronds, 5000-10000 l"
   },
   {
-    "Nr.": "SOB2648",
+    "SOBnummer": "SOB2648",
     "Omschrijving": "Brandstofvoorraadtank, ondergronds, < 2000 l"
   },
   {
-    "Nr.": "SOB2649",
+    "SOBnummer": "SOB2649",
     "Omschrijving": "Brandstofvoorraadtank, ondergronds, 2000-5000 l"
   },
   {
-    "Nr.": "SOB2650",
+    "SOBnummer": "SOB2650",
     "Omschrijving": "Brandstofvoorraadtank, ondergronds, 5000-10000 l"
   },
   {
-    "Nr.": "SOB2651",
+    "SOBnummer": "SOB2651",
     "Omschrijving": "Stoomgenerator, elektrisch, < 100 kg/h"
   },
   {
-    "Nr.": "SOB2652",
+    "SOBnummer": "SOB2652",
     "Omschrijving": "Stoomgenerator, elektrisch, 100-250 kg/h"
   },
   {
-    "Nr.": "SOB2653",
+    "SOBnummer": "SOB2653",
     "Omschrijving": "Stoomgenerator, elektrisch, 250-500 kg/h"
   },
   {
-    "Nr.": "SOB2654",
+    "SOBnummer": "SOB2654",
     "Omschrijving": "Nooddouche"
   },
   {
-    "Nr.": "SOB2655",
+    "SOBnummer": "SOB2655",
     "Omschrijving": "Terugstroombeveiliging AA/AB (Breaktank drink-/bedrijfswater)"
   },
   {
-    "Nr.": "SOB2656",
+    "SOBnummer": "SOB2656",
     "Omschrijving": "Terugstroombeveiliging BA, dP-zone, controleerbaar"
   },
   {
-    "Nr.": "SOB2657",
+    "SOBnummer": "SOB2657",
     "Omschrijving": "Terugstroombeveiliging CA, dP-zone,  niet controleerbaar"
   },
   {
-    "Nr.": "SOB2658",
+    "SOBnummer": "SOB2658",
     "Omschrijving": "Terugstroombeveiliging DA (Gevelkom-/Beluchterkraan)"
   },
   {
-    "Nr.": "SOB2659",
+    "SOBnummer": "SOB2659",
     "Omschrijving": "Terugstroombeveiliging EA"
   },
   {
-    "Nr.": "SOB2660",
+    "SOBnummer": "SOB2660",
     "Omschrijving": "Terugstroombeveiliging EB, niet controleerbaar"
   },
   {
-    "Nr.": "SOB2661",
+    "SOBnummer": "SOB2661",
     "Omschrijving": "Inlaatcombinatie"
   },
   {
-    "Nr.": "SOB2662",
+    "SOBnummer": "SOB2662",
     "Omschrijving": "2-3 wegregelklep DN 150-200 flens, incl. servomotor"
   },
   {
-    "Nr.": "SOB2663",
+    "SOBnummer": "SOB2663",
     "Omschrijving": "2-3 wegregelklep > DN 200, incl. servomotor"
   },
   {
-    "Nr.": "SOB2664",
+    "SOBnummer": "SOB2664",
     "Omschrijving": "2-3 wegregelklep DN 150 - 200, incl. servomotor (GKW)"
   },
   {
-    "Nr.": "SOB2665",
+    "SOBnummer": "SOB2665",
     "Omschrijving": "2-3 wegregelklep > DN 200, incl. servomotor (GKW)"
   },
   {
-    "Nr.": "SOB2666",
+    "SOBnummer": "SOB2666",
     "Omschrijving": "2-3 wegregelklep > DN 200, incl. servomotor (CV)"
   },
   {
-    "Nr.": "SOB2667",
+    "SOBnummer": "SOB2667",
     "Omschrijving": "Fundatiepomp < DN 50 (GKW)"
   },
   {
-    "Nr.": "SOB2668",
+    "SOBnummer": "SOB2668",
     "Omschrijving": "Fundatiepomp DN 100-150 (GKW)"
   },
   {
-    "Nr.": "SOB2669",
+    "SOBnummer": "SOB2669",
     "Omschrijving": "Fundatiepomp DN 150 - 200 (GKW)"
   },
   {
-    "Nr.": "SOB2670",
+    "SOBnummer": "SOB2670",
     "Omschrijving": "Fundatiepomp > DN 200 (GKW)"
   },
   {
-    "Nr.": "SOB2671",
+    "SOBnummer": "SOB2671",
     "Omschrijving": "Fundatiepomp < DN 50 (CV)"
   },
   {
-    "Nr.": "SOB2672",
+    "SOBnummer": "SOB2672",
     "Omschrijving": "Fundatiepomp DN 100-150 (CV)"
   },
   {
-    "Nr.": "SOB2673",
+    "SOBnummer": "SOB2673",
     "Omschrijving": "Fundatiepomp DN 150 - 200 (CV)"
   },
   {
-    "Nr.": "SOB2674",
+    "SOBnummer": "SOB2674",
     "Omschrijving": "Fundatiepomp > DN 200 (CV)"
   },
   {
-    "Nr.": "SOB2675",
+    "SOBnummer": "SOB2675",
     "Omschrijving": "Circulatiepomp < DN 50 (GKW)"
   },
   {
-    "Nr.": "SOB2676",
+    "SOBnummer": "SOB2676",
     "Omschrijving": "Circulatiepomp DN 100-150 (GKW)"
   },
   {
-    "Nr.": "SOB2677",
+    "SOBnummer": "SOB2677",
     "Omschrijving": "Circulatiepomp DN 150 - 200 (GKW)"
   },
   {
-    "Nr.": "SOB2678",
+    "SOBnummer": "SOB2678",
     "Omschrijving": "Circulatiepomp > DN 200 (GKW)"
   },
   {
-    "Nr.": "SOB2679",
+    "SOBnummer": "SOB2679",
     "Omschrijving": "Circulatiepomp < DN 50 (CV)"
   },
   {
-    "Nr.": "SOB2680",
+    "SOBnummer": "SOB2680",
     "Omschrijving": "Circulatiepomp DN 100-150 (CV)"
   },
   {
-    "Nr.": "SOB2681",
+    "SOBnummer": "SOB2681",
     "Omschrijving": "Circulatiepomp DN 150 - 200 (CV)"
   },
   {
-    "Nr.": "SOB2682",
+    "SOBnummer": "SOB2682",
     "Omschrijving": "Circulatiepomp > DN 200 (CV)"
   },
   {
-    "Nr.": "SOB2683",
+    "SOBnummer": "SOB2683",
     "Omschrijving": "Circulatiepomp < DN 50"
   },
   {
-    "Nr.": "SOB2684",
+    "SOBnummer": "SOB2684",
     "Omschrijving": "Circulatiepomp DN 100-150"
   },
   {
-    "Nr.": "SOB2685",
+    "SOBnummer": "SOB2685",
     "Omschrijving": "Circulatiepomp DN 150 - 200"
   },
   {
-    "Nr.": "SOB2686",
+    "SOBnummer": "SOB2686",
     "Omschrijving": "Circulatiepomp > DN 200"
   },
   {
-    "Nr.": "SOB2687",
+    "SOBnummer": "SOB2687",
     "Omschrijving": "Expansieautomaat 400 - 800 ltr (GKW)"
   },
   {
-    "Nr.": "SOB2688",
+    "SOBnummer": "SOB2688",
     "Omschrijving": "Expansieautomaat 800 - 1200 ltr (GKW)"
   },
   {
-    "Nr.": "SOB2689",
+    "SOBnummer": "SOB2689",
     "Omschrijving": "Expansieautomaat > 1200 ltr (GKW)"
   },
   {
-    "Nr.": "SOB2690",
+    "SOBnummer": "SOB2690",
     "Omschrijving": "Expansieautomaat 400 - 800 ltr (CV)"
   },
   {
-    "Nr.": "SOB2691",
+    "SOBnummer": "SOB2691",
     "Omschrijving": "Expansieautomaat 800 - 1000 ltr (CV)"
   },
   {
-    "Nr.": "SOB2692",
+    "SOBnummer": "SOB2692",
     "Omschrijving": "Expansieautomaat > 1200 ltr (CV)"
   },
   {
-    "Nr.": "SOB2693",
+    "SOBnummer": "SOB2693",
     "Omschrijving": "Vuilafscheider DN 50 - 100 (CV)"
   },
   {
-    "Nr.": "SOB2694",
+    "SOBnummer": "SOB2694",
     "Omschrijving": "Vuilafscheider DN 100 - 150 (CV)"
   },
   {
-    "Nr.": "SOB2695",
+    "SOBnummer": "SOB2695",
     "Omschrijving": "Vuilafscheider DN 150 - 200 (CV)"
   },
   {
-    "Nr.": "SOB2696",
+    "SOBnummer": "SOB2696",
     "Omschrijving": "Vuilafscheider > DN 200 (CV)"
   },
   {
-    "Nr.": "SOB2697",
+    "SOBnummer": "SOB2697",
     "Omschrijving": "Vuilafscheider < DN 50 (GKW)"
   },
   {
-    "Nr.": "SOB2698",
+    "SOBnummer": "SOB2698",
     "Omschrijving": "Vuilafscheider DN 100 - 150 (GKW)"
   },
   {
-    "Nr.": "SOB2699",
+    "SOBnummer": "SOB2699",
     "Omschrijving": "Vuilafscheider DN 150 - 200 (GKW)"
   },
   {
-    "Nr.": "SOB2700",
+    "SOBnummer": "SOB2700",
     "Omschrijving": "Vuilafscheider > DN 200 (GKW)"
   },
   {
-    "Nr.": "SOB2701",
+    "SOBnummer": "SOB2701",
     "Omschrijving": "Straatkolken (HWA)"
   },
   {
-    "Nr.": "SOB2702",
+    "SOBnummer": "SOB2702",
     "Omschrijving": "Lijngoten (HWA)"
   },
   {
-    "Nr.": "SOB2703",
+    "SOBnummer": "SOB2703",
     "Omschrijving": "Noodverlichting, centraal batterijsysteem, < 500 W"
   },
   {
-    "Nr.": "SOB2704",
+    "SOBnummer": "SOB2704",
     "Omschrijving": "Noodverlichting, centraal batterijsysteem, 500 - 1000 W"
   },
   {
-    "Nr.": "SOB2705",
+    "SOBnummer": "SOB2705",
     "Omschrijving": "Noodverlichting, centraal batterijsysteem, 1000 -$"
   },
   {
-    "Nr.": "SOB2706",
+    "SOBnummer": "SOB2706",
     "Omschrijving": "Noodverlichting, centraal batterijsysteem, 1500 -$"
   },
   {
-    "Nr.": "SOB2707",
+    "SOBnummer": "SOB2707",
     "Omschrijving": "Noodverlichting, centraal batterijsysteem, 2000 -$"
   },
   {
-    "Nr.": "SOB2708",
+    "SOBnummer": "SOB2708",
     "Omschrijving": "Noodverlichting, centraal batterijsysteem, 2500 -$"
   },
   {
-    "Nr.": "SOB2709",
+    "SOBnummer": "SOB2709",
     "Omschrijving": "Binnenunit, single-/duo-/multi- split, FGAS, 0-5 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2710",
+    "SOBnummer": "SOB2710",
     "Omschrijving": "Binnenunit, single-/duo-/multi- split, FGAS, 0-5 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2711",
+    "SOBnummer": "SOB2711",
     "Omschrijving": "Binnenunit, single-/duo-/multi- split, FGAS, 5-10 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2712",
+    "SOBnummer": "SOB2712",
     "Omschrijving": "Binnenunit, single-/duo-/multi- split, FGAS, 5-10 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2713",
+    "SOBnummer": "SOB2713",
     "Omschrijving": "Binnenunit, single-/duo-/multi- split, FGAS, 10-15 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2714",
+    "SOBnummer": "SOB2714",
     "Omschrijving": "Binnenunit, single-/duo-/multi- split, FGAS, 10-15 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2715",
+    "SOBnummer": "SOB2715",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 0-5 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2716",
+    "SOBnummer": "SOB2716",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 0-5 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2717",
+    "SOBnummer": "SOB2717",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 5-10 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2718",
+    "SOBnummer": "SOB2718",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 5-10 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2719",
+    "SOBnummer": "SOB2719",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 10-25 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2720",
+    "SOBnummer": "SOB2720",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 10-25 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2721",
+    "SOBnummer": "SOB2721",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 25-50 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2722",
+    "SOBnummer": "SOB2722",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 25-50 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2723",
+    "SOBnummer": "SOB2723",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 50-100 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2724",
+    "SOBnummer": "SOB2724",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 50-100 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2725",
+    "SOBnummer": "SOB2725",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 50-100 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2726",
+    "SOBnummer": "SOB2726",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 50-100 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2727",
+    "SOBnummer": "SOB2727",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 50-100 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2728",
+    "SOBnummer": "SOB2728",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 50-100 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2729",
+    "SOBnummer": "SOB2729",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 100-200 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2730",
+    "SOBnummer": "SOB2730",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 100-200 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2731",
+    "SOBnummer": "SOB2731",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 100-200 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2732",
+    "SOBnummer": "SOB2732",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 100-200 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2733",
+    "SOBnummer": "SOB2733",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 100-200 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2734",
+    "SOBnummer": "SOB2734",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 100-200 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2735",
+    "SOBnummer": "SOB2735",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 200-400 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2736",
+    "SOBnummer": "SOB2736",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 200-400 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2737",
+    "SOBnummer": "SOB2737",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 200-400 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2738",
+    "SOBnummer": "SOB2738",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 200-400 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2739",
+    "SOBnummer": "SOB2739",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 200-400 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2740",
+    "SOBnummer": "SOB2740",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 200-400 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2741",
+    "SOBnummer": "SOB2741",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 400-750 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2742",
+    "SOBnummer": "SOB2742",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 400-750 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2743",
+    "SOBnummer": "SOB2743",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 400-750 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2744",
+    "SOBnummer": "SOB2744",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 400-750 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2745",
+    "SOBnummer": "SOB2745",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 400-750 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2746",
+    "SOBnummer": "SOB2746",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, 400-750 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2747",
+    "SOBnummer": "SOB2747",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, > 750 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2748",
+    "SOBnummer": "SOB2748",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, > 750 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2749",
+    "SOBnummer": "SOB2749",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, > 750 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2750",
+    "SOBnummer": "SOB2750",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, > 750 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2751",
+    "SOBnummer": "SOB2751",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, > 750 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2752",
+    "SOBnummer": "SOB2752",
     "Omschrijving": "Luchtgekoelde condensor, FGAS, > 750 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2753",
+    "SOBnummer": "SOB2753",
     "Omschrijving": "Droge koeler, GKW/GLYC, GKW/GLYC, 0-50 kW"
   },
   {
-    "Nr.": "SOB2754",
+    "SOBnummer": "SOB2754",
     "Omschrijving": "Droge koeler, GKW/GLYC, GKW/GLYC, 50-100 kW"
   },
   {
-    "Nr.": "SOB2755",
+    "SOBnummer": "SOB2755",
     "Omschrijving": "Droge koeler, GKW/GLYC, GKW/GLYC, 100-200 kW"
   },
   {
-    "Nr.": "SOB2756",
+    "SOBnummer": "SOB2756",
     "Omschrijving": "Droge koeler, GKW/GLYC, GKW/GLYC, 200-400 kW"
   },
   {
-    "Nr.": "SOB2757",
+    "SOBnummer": "SOB2757",
     "Omschrijving": "Droge koeler, GKW/GLYC, GKW/GLYC, 400-750 kW"
   },
   {
-    "Nr.": "SOB2758",
+    "SOBnummer": "SOB2758",
     "Omschrijving": "Droge koeler, GKW/GLYC, GKW/GLYC, > 750 kW"
   },
   {
-    "Nr.": "SOB2759",
+    "SOBnummer": "SOB2759",
     "Omschrijving": "Koudemiddelleiding, FGAS"
   },
   {
-    "Nr.": "SOB2760",
+    "SOBnummer": "SOB2760",
     "Omschrijving": "Koelmachine, packaged, FGAS, 10-25 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2761",
+    "SOBnummer": "SOB2761",
     "Omschrijving": "Koelmachine, packaged, FGAS, 25-50 kW, <50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2762",
+    "SOBnummer": "SOB2762",
     "Omschrijving": "Koelmachine, packaged, FGAS, 50-100 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2763",
+    "SOBnummer": "SOB2763",
     "Omschrijving": "Koelmachine, packaged, FGAS, 50-100 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2764",
+    "SOBnummer": "SOB2764",
     "Omschrijving": "Koelmachine, packaged, FGAS, 50-100 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2765",
+    "SOBnummer": "SOB2765",
     "Omschrijving": "Koelmachine, packaged, FGAS, 50-100 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2766",
+    "SOBnummer": "SOB2766",
     "Omschrijving": "Koelmachine, packaged, FGAS, 50-100 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2767",
+    "SOBnummer": "SOB2767",
     "Omschrijving": "Koelmachine, packaged, FGAS, 50-100 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2768",
+    "SOBnummer": "SOB2768",
     "Omschrijving": "Koelmachine, packaged, FGAS, 100-200 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2769",
+    "SOBnummer": "SOB2769",
     "Omschrijving": "Koelmachine, packaged, FGAS, 100-200 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2770",
+    "SOBnummer": "SOB2770",
     "Omschrijving": "Koelmachine, packaged, FGAS, 100-200 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2771",
+    "SOBnummer": "SOB2771",
     "Omschrijving": "Koelmachine, packaged, FGAS, 100-200 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2772",
+    "SOBnummer": "SOB2772",
     "Omschrijving": "Koelmachine, packaged, FGAS, 100-200 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2773",
+    "SOBnummer": "SOB2773",
     "Omschrijving": "Koelmachine, packaged, FGAS, 100-200 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2774",
+    "SOBnummer": "SOB2774",
     "Omschrijving": "Koelmachine, packaged, FGAS, 200-400 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2775",
+    "SOBnummer": "SOB2775",
     "Omschrijving": "Koelmachine, packaged, FGAS, 200-400 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2776",
+    "SOBnummer": "SOB2776",
     "Omschrijving": "Koelmachine, packaged, FGAS, 200-400 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2777",
+    "SOBnummer": "SOB2777",
     "Omschrijving": "Koelmachine, packaged, FGAS, 200-400 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2778",
+    "SOBnummer": "SOB2778",
     "Omschrijving": "Koelmachine, packaged, FGAS, 200-400 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2779",
+    "SOBnummer": "SOB2779",
     "Omschrijving": "Koelmachine, packaged, FGAS, 200-400 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2780",
+    "SOBnummer": "SOB2780",
     "Omschrijving": "Koelmachine, packaged, FGAS, 400-750 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2781",
+    "SOBnummer": "SOB2781",
     "Omschrijving": "Koelmachine, packaged, FGAS, 400-750 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2782",
+    "SOBnummer": "SOB2782",
     "Omschrijving": "Koelmachine, packaged, FGAS, 400-750 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2783",
+    "SOBnummer": "SOB2783",
     "Omschrijving": "Koelmachine, packaged, FGAS, 400-750 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2784",
+    "SOBnummer": "SOB2784",
     "Omschrijving": "Koelmachine, packaged, FGAS, 400-750 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2785",
+    "SOBnummer": "SOB2785",
     "Omschrijving": "Koelmachine, packaged, FGAS, 400-750 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2786",
+    "SOBnummer": "SOB2786",
     "Omschrijving": "Koelmachine, packaged, FGAS, > 750 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2787",
+    "SOBnummer": "SOB2787",
     "Omschrijving": "Koelmachine, packaged, FGAS, > 750 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2788",
+    "SOBnummer": "SOB2788",
     "Omschrijving": "Koelmachine, packaged, FGAS, > 750 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2789",
+    "SOBnummer": "SOB2789",
     "Omschrijving": "Koelmachine, packaged, FGAS, > 750 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2790",
+    "SOBnummer": "SOB2790",
     "Omschrijving": "Koelmachine, packaged, FGAS, > 750 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2791",
+    "SOBnummer": "SOB2791",
     "Omschrijving": "Koelmachine, packaged, FGAS, > 750 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2792",
+    "SOBnummer": "SOB2792",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 10-25 kW"
   },
   {
-    "Nr.": "SOB2793",
+    "SOBnummer": "SOB2793",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 25-50 kW"
   },
   {
-    "Nr.": "SOB2794",
+    "SOBnummer": "SOB2794",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 50-100 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2795",
+    "SOBnummer": "SOB2795",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 50-100 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2796",
+    "SOBnummer": "SOB2796",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 50-100 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2797",
+    "SOBnummer": "SOB2797",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 50-100 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2798",
+    "SOBnummer": "SOB2798",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 50-100 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2799",
+    "SOBnummer": "SOB2799",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 50-100 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2800",
+    "SOBnummer": "SOB2800",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 100-200 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2801",
+    "SOBnummer": "SOB2801",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 100-200 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2802",
+    "SOBnummer": "SOB2802",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 100-200 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2803",
+    "SOBnummer": "SOB2803",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 100-200 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2804",
+    "SOBnummer": "SOB2804",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 100-200 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2805",
+    "SOBnummer": "SOB2805",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 100-200 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2806",
+    "SOBnummer": "SOB2806",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 200-400 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2807",
+    "SOBnummer": "SOB2807",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 200-400 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2808",
+    "SOBnummer": "SOB2808",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 200-400 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2809",
+    "SOBnummer": "SOB2809",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 200-400 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2810",
+    "SOBnummer": "SOB2810",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 200-400 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2811",
+    "SOBnummer": "SOB2811",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 200-400 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2812",
+    "SOBnummer": "SOB2812",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 400-750 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2813",
+    "SOBnummer": "SOB2813",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 400-750 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2814",
+    "SOBnummer": "SOB2814",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 400-750 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2815",
+    "SOBnummer": "SOB2815",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 400-750 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2816",
+    "SOBnummer": "SOB2816",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 400-750 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2817",
+    "SOBnummer": "SOB2817",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, 400-750 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2818",
+    "SOBnummer": "SOB2818",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, > 750 kW, <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2819",
+    "SOBnummer": "SOB2819",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, > 750 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2820",
+    "SOBnummer": "SOB2820",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, > 750 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2821",
+    "SOBnummer": "SOB2821",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, > 750 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2822",
+    "SOBnummer": "SOB2822",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, > 750 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2823",
+    "SOBnummer": "SOB2823",
     "Omschrijving": "Koelmachine, watergekoeld, FGAS, > 750 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2824",
+    "SOBnummer": "SOB2824",
     "Omschrijving": "Koelmachine, absorptie, 10-25 kW"
   },
   {
-    "Nr.": "SOB2825",
+    "SOBnummer": "SOB2825",
     "Omschrijving": "Koelmachine, absorptie, 25-50 kW"
   },
   {
-    "Nr.": "SOB2826",
+    "SOBnummer": "SOB2826",
     "Omschrijving": "Koelmachine, absorptie, 50-100 kW"
   },
   {
-    "Nr.": "SOB2827",
+    "SOBnummer": "SOB2827",
     "Omschrijving": "Koelmachine, absorptie, 100-200 kW"
   },
   {
-    "Nr.": "SOB2828",
+    "SOBnummer": "SOB2828",
     "Omschrijving": "Koelmachine, absorptie, 200-400 kW"
   },
   {
-    "Nr.": "SOB2829",
+    "SOBnummer": "SOB2829",
     "Omschrijving": "Koelmachine, absorptie, 400-750 kW"
   },
   {
-    "Nr.": "SOB2830",
+    "SOBnummer": "SOB2830",
     "Omschrijving": "Koelmachine,  absorptie, > 750 kW"
   },
   {
-    "Nr.": "SOB2831",
+    "SOBnummer": "SOB2831",
     "Omschrijving": "Close Control Airconditioner K(dx), FGAS, 10-20 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2832",
+    "SOBnummer": "SOB2832",
     "Omschrijving": "Close Control Airconditioner K(dx), FGAS, 20-40 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2833",
+    "SOBnummer": "SOB2833",
     "Omschrijving": "Close Control Airconditioner K(dx), FGAS, > 40 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2834",
+    "SOBnummer": "SOB2834",
     "Omschrijving": "Close Control Airconditioner K(dx)B, FGAS, 10-20 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2835",
+    "SOBnummer": "SOB2835",
     "Omschrijving": "Close Control Airconditioner K(dx)B, FGAS, 20-40 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2836",
+    "SOBnummer": "SOB2836",
     "Omschrijving": "Close Control Airconditioner K(dx)B, FGAS, > 40 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2837",
+    "SOBnummer": "SOB2837",
     "Omschrijving": "Close Control Airconditioner K(dx)VB, FGAS, 10-20 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2838",
+    "SOBnummer": "SOB2838",
     "Omschrijving": "Close Control Airconditioner K(dx)VB, FGAS, 20-40 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2839",
+    "SOBnummer": "SOB2839",
     "Omschrijving": "Close Control Airconditioner K(dx)VB, FGAS, > 40 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2840",
+    "SOBnummer": "SOB2840",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 50-100 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2841",
+    "SOBnummer": "SOB2841",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 50-100 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2842",
+    "SOBnummer": "SOB2842",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 50-100 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2843",
+    "SOBnummer": "SOB2843",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 50-100 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2844",
+    "SOBnummer": "SOB2844",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 50-100 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2845",
+    "SOBnummer": "SOB2845",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 100-200 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2846",
+    "SOBnummer": "SOB2846",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 100-200 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2847",
+    "SOBnummer": "SOB2847",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 100-200 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2848",
+    "SOBnummer": "SOB2848",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 100-200 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2849",
+    "SOBnummer": "SOB2849",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 100-200 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2850",
+    "SOBnummer": "SOB2850",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 200-400 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2851",
+    "SOBnummer": "SOB2851",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 200-400 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2852",
+    "SOBnummer": "SOB2852",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 200-400 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2853",
+    "SOBnummer": "SOB2853",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 200-400 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2854",
+    "SOBnummer": "SOB2854",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 200-400 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2855",
+    "SOBnummer": "SOB2855",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 400-750 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2856",
+    "SOBnummer": "SOB2856",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 400-750 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2857",
+    "SOBnummer": "SOB2857",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 400-750 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2858",
+    "SOBnummer": "SOB2858",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 400-750 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2859",
+    "SOBnummer": "SOB2859",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, 400-750 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2860",
+    "SOBnummer": "SOB2860",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, > 750 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2861",
+    "SOBnummer": "SOB2861",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, > 750 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2862",
+    "SOBnummer": "SOB2862",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, > 750 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2863",
+    "SOBnummer": "SOB2863",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, > 750 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2864",
+    "SOBnummer": "SOB2864",
     "Omschrijving": "Warmtepomp, lucht/water, FGAS, > 750 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2865",
+    "SOBnummer": "SOB2865",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 50-100 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2866",
+    "SOBnummer": "SOB2866",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 50-100 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2867",
+    "SOBnummer": "SOB2867",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 50-100 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2868",
+    "SOBnummer": "SOB2868",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 50-100 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2869",
+    "SOBnummer": "SOB2869",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 50-100 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2870",
+    "SOBnummer": "SOB2870",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 100-200 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2871",
+    "SOBnummer": "SOB2871",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 100-200 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2872",
+    "SOBnummer": "SOB2872",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 100-200 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2873",
+    "SOBnummer": "SOB2873",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 100-200 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2874",
+    "SOBnummer": "SOB2874",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 100-200 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2875",
+    "SOBnummer": "SOB2875",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 200-400 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2876",
+    "SOBnummer": "SOB2876",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 200-400 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2877",
+    "SOBnummer": "SOB2877",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 200-400 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2878",
+    "SOBnummer": "SOB2878",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 200-400 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2879",
+    "SOBnummer": "SOB2879",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 200-400 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2880",
+    "SOBnummer": "SOB2880",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 400-750 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2881",
+    "SOBnummer": "SOB2881",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 400-750 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2882",
+    "SOBnummer": "SOB2882",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 400-750 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2883",
+    "SOBnummer": "SOB2883",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 400-750 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2884",
+    "SOBnummer": "SOB2884",
     "Omschrijving": "Warmtepomp, water/water, FGAS, 400-750 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2885",
+    "SOBnummer": "SOB2885",
     "Omschrijving": "Warmtepomp, water/water, FGAS, > 750 kW, 5-50 CO2-EQ"
   },
   {
-    "Nr.": "SOB2886",
+    "SOBnummer": "SOB2886",
     "Omschrijving": "Warmtepomp, water/water, FGAS, > 750 kW, 50-500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2887",
+    "SOBnummer": "SOB2887",
     "Omschrijving": "Warmtepomp, water/water, FGAS, > 750 kW, > 500 CO2-EQ"
   },
   {
-    "Nr.": "SOB2888",
+    "SOBnummer": "SOB2888",
     "Omschrijving": "Warmtepomp, water/water, FGAS, > 750 kW, 50-500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2889",
+    "SOBnummer": "SOB2889",
     "Omschrijving": "Warmtepomp, water/water, FGAS, > 750 kW, > 500 CO2-EQ, m.lekd"
   },
   {
-    "Nr.": "SOB2890",
+    "SOBnummer": "SOB2890",
     "Omschrijving": "Infraroodstraler, gasgestookt >100 kW"
   },
   {
-    "Nr.": "SOB2891",
+    "SOBnummer": "SOB2891",
     "Omschrijving": "Koperzilverionisatie"
   },
   {
-    "Nr.": "SOB2892",
+    "SOBnummer": "SOB2892",
     "Omschrijving": "Rioolleiding"
   },
   {
-    "Nr.": "SOB2893",
+    "SOBnummer": "SOB2893",
     "Omschrijving": "Warmtepompboiler <500L <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2894",
+    "SOBnummer": "SOB2894",
     "Omschrijving": "Warmtepompboiler >500L <5 CO2-EQ"
   },
   {
-    "Nr.": "SOB2895",
+    "SOBnummer": "SOB2895",
     "Omschrijving": "2-3 wegregelklep DN 100-150, incl. servomotor (GKW)"
   },
   {
-    "Nr.": "SOB2896",
+    "SOBnummer": "SOB2896",
     "Omschrijving": "EPU waterzijdigepomp Watermist"
   },
   {
-    "Nr.": "SOB2897",
+    "SOBnummer": "SOB2897",
     "Omschrijving": "LPU waterzijdige pomp Watermist"
   },
   {
-    "Nr.": "SOB2898",
+    "SOBnummer": "SOB2898",
     "Omschrijving": "MSPU waterzijdige pomp Watermist"
   },
   {
-    "Nr.": "SOB2899",
+    "SOBnummer": "SOB2899",
     "Omschrijving": "MAU waterzijdige pomp Watermist"
   },
   {
-    "Nr.": "SOB2900",
+    "SOBnummer": "SOB2900",
     "Omschrijving": "GPU waterzijdige pomp Watermist"
   },
   {
-    "Nr.": "SOB2901",
+    "SOBnummer": "SOB2901",
     "Omschrijving": "Opvoerpomp (jockey) Watermist"
   },
   {
-    "Nr.": "SOB2902",
+    "SOBnummer": "SOB2902",
     "Omschrijving": "Schakelkast Watermist"
   },
   {
-    "Nr.": "SOB2903",
+    "SOBnummer": "SOB2903",
     "Omschrijving": "Unloader / PRV Watermist"
   },
   {
-    "Nr.": "SOB2904",
+    "SOBnummer": "SOB2904",
     "Omschrijving": "WTU pomp Watermist"
   },
   {
-    "Nr.": "SOB2905",
+    "SOBnummer": "SOB2905",
     "Omschrijving": "Watervoorziening Watermist"
   },
   {
-    "Nr.": "SOB2906",
+    "SOBnummer": "SOB2906",
     "Omschrijving": "Sectie opstelling WM Nat"
   },
   {
-    "Nr.": "SOB2907",
+    "SOBnummer": "SOB2907",
     "Omschrijving": "Sectie opstelling WM Droog"
   },
   {
-    "Nr.": "SOB2908",
+    "SOBnummer": "SOB2908",
     "Omschrijving": "Sectie opstelling WM Pre-Action"
   },
   {
-    "Nr.": "SOB2909",
+    "SOBnummer": "SOB2909",
     "Omschrijving": "Sectie opstelling WM Deluge"
   },
   {
-    "Nr.": "SOB2910",
+    "SOBnummer": "SOB2910",
     "Omschrijving": "Compressor Watermist"
   },
   {
-    "Nr.": "SOB2911",
+    "SOBnummer": "SOB2911",
     "Omschrijving": "LBK TK 0-2500 m3/h"
   },
   {
-    "Nr.": "SOB2912",
+    "SOBnummer": "SOB2912",
     "Omschrijving": "LBK TK 2500-7500 m3/h"
   },
   {
-    "Nr.": "SOB2913",
+    "SOBnummer": "SOB2913",
     "Omschrijving": "LBK TK 7500-15000 m3/h"
   },
   {
-    "Nr.": "SOB2914",
+    "SOBnummer": "SOB2914",
     "Omschrijving": "LBK TK 15000-25000 m3/h"
   },
   {
-    "Nr.": "SOB2915",
+    "SOBnummer": "SOB2915",
     "Omschrijving": "LBK TK 25000-50000 m3/h"
   },
   {
-    "Nr.": "SOB2917",
+    "SOBnummer": "SOB2917",
     "Omschrijving": "Accupakket"
   },
   {
-    "Nr.": "SOB9999",
+    "SOBnummer": "SOB9999",
     "Omschrijving": "Algemeen object"
   },
   {
-    "Nr.": "DUM0001",
+    "SOBnummer": "DUM0001",
     "Omschrijving": "Hamer"
   },
   {
-    "Nr.": "DUM0002",
+    "SOBnummer": "DUM0002",
     "Omschrijving": "Schaar"
   },
   {
-    "Nr.": "DUM0003",
+    "SOBnummer": "DUM0003",
     "Omschrijving": "Handzaag"
   },
   {
-    "Nr.": "DUM0004",
+    "SOBnummer": "DUM0004",
     "Omschrijving": "Boor"
   }
 ]

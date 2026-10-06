@@ -9,7 +9,7 @@ def read_model_output(
     excel_path: Path,
     sheet_name: str | None = None,
 ) -> list[dict[str, str]]:
-    """Read the Nr. and Omschrijving columns from an Excel workbook."""
+    """Read the SOBnummer and Omschrijving columns from an Excel workbook."""
     workbook = load_workbook(excel_path, read_only=True, data_only=True)
     try:
         worksheet = workbook[sheet_name] if sheet_name else workbook.active
@@ -23,8 +23,8 @@ def read_model_output(
             for index, value in enumerate(header_row)
             if value is not None
         }
-        if "nr." not in headers:
-            raise ValueError("Missing required Excel column: Nr.")
+        if "SOBnummer" not in headers:
+            raise ValueError("Missing required Excel column: SOBnummer")
         description_header = headers.get("omschrijving")
         if description_header is None:
             description_header = headers.get("object omschrijving")
@@ -34,7 +34,7 @@ def read_model_output(
                 "(or Object Omschrijving)."
             )
 
-        number_index = headers["nr."]
+        number_index = headers["SOBnummer"]
         description_index = description_header
         records = []
         for row in rows:
@@ -51,7 +51,7 @@ def read_model_output(
             description_text = str(description).strip()
             if number_text and description_text:
                 records.append(
-                    {"Nr.": number_text, "Omschrijving": description_text}
+                    {"SOBnummer": number_text, "Gestandaardiseerde Omschrijving": description_text}
                 )
         return records
     finally:
@@ -73,7 +73,7 @@ def write_intermediate_json(
 def main() -> None:
     script_directory = Path(__file__).resolve().parent
     parser = argparse.ArgumentParser(
-        description="Extract Nr. and Omschrijving columns to an intermediate JSON file."
+        description="Extract SOBnummer and Omschrijving columns to an intermediate JSON file."
     )
     parser.add_argument(
         "excel_file",
@@ -93,7 +93,7 @@ def main() -> None:
 
     records = read_model_output(args.excel_file, args.sheet_name)
     output_path = write_intermediate_json(records, args.output)
-    print(f"Stored {len(records)} Nr./Omschrijving pairs in {output_path}")
+    print(f"Stored {len(records)} SOBnummer/Omschrijving pairs in {output_path}")
 
 
 if __name__ == "__main__":

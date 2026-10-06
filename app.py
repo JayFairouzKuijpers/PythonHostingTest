@@ -28,17 +28,17 @@ def InsertStandaardObject(workbook):
         excel_objects = json.load(file)
 
     object_options = [
-        (item["Omschrijving"], item["Nr."])
+        (item["Omschrijving"], item["SOBnummer"])
         for item in objects
-        if item.get("Omschrijving") and item.get("Nr.")
+        if item.get("Omschrijving") and item.get("SOBnummer")
     ]
     if not object_options:
-        raise ValueError("No complete Omschrijving/Nr. pairs found in standaard_objecten.json")
+        raise ValueError("No complete Omschrijving/SOBnummer pairs found in standaard_objecten.json")
     allowed_descriptions = {description for description, _ in object_options}
     excel_numbers = {}
     for item in excel_objects:
         description = item.get("Omschrijving")
-        number = item.get("Nr.")
+        number = item.get("SOBnummer")
         if description in allowed_descriptions and number:
             excel_numbers.setdefault(description, number)
     object_options = [
@@ -55,6 +55,7 @@ def InsertStandaardObject(workbook):
     source_description_column = (
         headers.get("omschrijving")
         or headers.get("object omschrijving")
+        or headers.get("gestandaardiseerde omschrijving")
         or 1
     )
     last_row = max(worksheet.max_row, 2)
@@ -62,16 +63,21 @@ def InsertStandaardObject(workbook):
         row: worksheet.cell(row=row, column=source_description_column).value
         for row in range(2, last_row + 1)
     }
-    if headers.get("nr.") == 1 and headers.get("omschrijving") == 2:
+
+    # Add the SOBnummer and Gestandaardiseerde Omschrijving columns if they don't exist
+    if headers.get("sobnummer") == 1 and (
+        headers.get("omschrijving") == 2
+        or headers.get("gestandaardiseerde omschrijving") == 2
+    ):
         number_column = 1
         description_column = 2
     else:
         worksheet.insert_cols(1)
-        worksheet.cell(row=1, column=1, value="Nr.")
+        worksheet.cell(row=1, column=1, value="SOBnummer")
         worksheet.insert_cols(2)
-        worksheet.cell(row=1, column=2, value="Omschrijving")
         number_column = 1
         description_column = 2
+    worksheet.cell(row=1, column=2, value="Gestandaardiseerde Omschrijving")
 
     # Create a hidden sheet to store the dropdown options
     options_sheet_name = "_AppOmschrijvingOptions"
@@ -130,15 +136,15 @@ def MakeThirdColumnRed(workbook):
 st.logo(str(Path(__file__).with_name("koninklijkeKuijpers.png")), size="large")
 
 st.title("Standaardobject Koppelaar")
-st.text("Deze applicatie voegt automatisch het nummer en de gestandaardiseerde omschrijving van standaardobjecten toe. \n\n" \
-"De applicatie is bedoeld voor gebruik met Excel-bestanden die de kolommen 'Omschrijving.', 'Merk', 'Type' en 'Capaciteit' bevatten. \n" \
+st.text("Deze applicatie voegt automatisch het SOBnummer en de gestandaardiseerde omschrijving van standaardobjecten toe. \n\n" \
+"De applicatie is bedoeld voor gebruik met Assetlijsten (in Excel format) die de kolommen 'Omschrijving.', 'Merk', 'Type' en 'Capaciteit' bevatten. \n" \
 )
 
 st.image(str(Path(__file__).with_name("example.png")))
 st.write("")
 
 with st.bottom:
-    st.caption("© 2026 Kuijpers, version 1.015, last updated: 05-10-2026")
+    st.caption("© 2026 Kuijpers, version 1.0161, last updated: 06-10-2026")
 
 uploaded_file = st.file_uploader("Kies een Excel-bestand", type=["xlsx"])
 
@@ -162,8 +168,8 @@ if uploaded_file is not None:
 with st.expander("Uitleg"):
     st.markdown("De applicatie zoekt naar de kolommen 'Omschrijving', 'Merk', 'Type' en 'Capaciteit' in het Excel-bestand. \n" \
                 "Vervolgens berekent het wat de meest waarschijnlijke passende gestandaardiseerde omschrijving is. \n" \
-                "Elke omschrijving heeft een passend nummer. \n" \
-                "De applicatie voegt daarna het nummer en de gestandaardiseerde omschrijving van standaardobjecten toe aan het originele bestand en exporteert het.")
+                "Elke omschrijving heeft een passend SOBnummer. \n" \
+                "De applicatie voegt daarna het SOBnummer en de gestandaardiseerde omschrijving van standaardobjecten toe aan het originele bestand en exporteert het.")
 
 with st.expander("Vragen of opmerkingen?"):
     st.markdown("**Jay Fairouz**  \nDeveloper  \n[JFairouz@kuijpers.com](mailto:JFairouz@kuijpers.com)")
